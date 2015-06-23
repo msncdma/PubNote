@@ -1,0 +1,85 @@
+
+Shadowsocks是一个安全的Socks代理，用于保护网络流量不被干扰，也是开源的项目，非常感谢作者@clowwindy。主要特性包括：
+
+快速（异步I/O和事件驱动程序）。
+
+安全（所有的流量都经过加密算法加密，支持自定义算法）。
+
+支持移动客户端（专为移动设备和无线网络优化）。
+
+跨平台（可运行于包括PC，Mac，手机（Android和iOS）和路由器（OpenWrt）在内的多种平台上）。
+
+使用Socks5协议和可自定义密码的工业级算法加密，流量在网络传输过程中不易被他人读取。
+
+开源。
+
+易于维护。
+废话不多说，教程开始：
+
+如何搭建Shadowsocks服务器。
+
+如果你购买的是搬瓦工的VPS，登陆搬瓦工的Client Area，Services—My Services，找到你买的VPS服务，进入KiwiVM控制面板，右侧显示的就是你的VPS的信息，从上至下依次是物理地址，IP地址，SSH端口号，运行状态，操作(开关机，重启)，RAM占用，SWAP占用，磁盘占用，流量使用情况(每个月都会刷新)，和Linux操作系统版本。
+
+不同操作系统下搭建SS服务器方法不同，本文的方法是基于Cent os 6系统。如果你安装的其他Linux系统(如Debian,Ubuntu等)，请自行百度SS安装教程，或点击KiwiVM控制面板左侧的 Install new OS重装Centos系统。
+
+1.使用Putty连接VPS。Putty是Windows下的一个免费的SSH连接工具。
+
+Host Name处填入VPS的IP地址，Port处填入SSH端口号，连接类型选择SSH，点击Open。
+
+用户名：root，密码：KiwiVM面板左侧Rootpassword modification，点击Generate New password后会随机生成一组密码。
+
+2.修改Root账户密码：登陆root账户后，运行命令passwd root修改root账户密码，以后登录root账户使用该密码。
+
+3.安装SS服务端：
+
+运行命令1、   yum update
+        2、   yum install python-setuptools && easy_install pip
+        3、   pip install shadowsocks
+
+4.配置SS服务端：
+
+新建一个配置文件，运行命令 vi /etc/shadowsocks.json
+内容如下
+        {
+        "server":"your_server_ip",
+        "server_port":8388,
+        "local_address":"127.0.0.1",
+        "local_port":1080,
+        "password":"yourpassword",
+        "timeout":300,
+        "method":"aes-256-cfb",
+        "fast_open":false,
+        "workers": 1
+        }
+
+代码中各字段的含义：
+
+server：服务器 IP地址 (IPv4/IPv6)
+
+server_port：服务器监听的端口，一般设为80，443等，注意不要设为使用中的端口
+
+local_address：本地监听的 IP 地址，默认127.0.0.1
+
+local_port：本地端口，默认是1080
+
+password：设置密码，自定义
+
+timeout：超时时间（秒）
+
+method：加密方法，可选择 “aes-256-cfb”, “rc4-md5”等等。推荐使用 “rc4-md5”
+
+fast_open：true 或 false。如果你的服务器 Linux 内核在3.7+，可以开启 fast_open 以降低延迟。
+
+workers：workers数量，默认为 1。
+
+5.设置Shadowsocks开机自启。
+
+修改rc.local文件，运行命令 vi /etc/rc.local
+
+内容如下
+
+帮助
+    #!/bin/sh
+    ssserver -c /etc/shadowsocks.json -d start
+运行命令 reboot 重启VPS。
+
