@@ -14,6 +14,8 @@ Shadowsocks是一个安全的Socks代理，用于保护网络流量不被干扰�
 开源。
 
 易于维护。
+详情官方：
+https://github.com/shadowsocks/shadowsocks  
 废话不多说，教程开始：
 
 如何搭建Shadowsocks服务器。
