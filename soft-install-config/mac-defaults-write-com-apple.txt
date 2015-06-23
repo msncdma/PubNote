@@ -1,0 +1,14 @@
+
+禁止备份
+defaults write com.apple.iTunes AutomaticDeviceBackupsDisabled -bool true
+defaults write com.apple.iTunes AutomaticDeviceBackupsDisabled -bool false
+
+
+显示隐藏文件配置
+defaults write com.apple.finder AppleShowAllFiles -bool false   
+
+//OS X自带的磁盘工具并不能显示ESP分区和恢复分区，需要开启DEBUG菜单
+defaults write com.apple.DiskUtility DUDebugMenuEnabled 1
+
+//appstore开启调试模式
+defaults write com.apple.appstore ShowDebugMenu -bool true  

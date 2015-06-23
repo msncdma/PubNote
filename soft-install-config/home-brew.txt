@@ -1,0 +1,24 @@
+brew update && brew upgrade brew-cask && brew cleanup && brew cask cleanup
+
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+brew install wget
+brew install axel
+brew install imagemagick
+brew install autojump
+
+brew tap homebrew/dupes
+brew install apple-gcc42
+
+brew tap phinze/cask
+brew install brew-cask
+
+brew cask install iterm2
+brew cask install dropbox
+brew cask install google-chrome
+brew cask install sublime-text
+brew cask install mou
+brew cask install xtrafinder
+brew cask install charles
+brew cask install reveal
+brew cask install xscope
+brew cask install sparrow

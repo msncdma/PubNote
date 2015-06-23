@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+ParallelsDesktop-Parallels Desktop 10.1.1-28614.rar
+百度云      
+解压密码kaixin
+
+
+
+安装pd10，并获得试用（若hosts文件中有屏蔽激活服务器的信息，请删除有pd有关的信息，记得备份）
+前往/Library/Preferences/Parallels 复制licenses.xml到桌面 用编辑器打开
+找到第12行的KEY 复制一下（<KeyValue>与</KeyValue>之间的代码）
+再到官网https://activatepd.parallels.com/?lang=cn 填入刚复制的代码
+点击Generate Confirmation Code后会得到一行字符串 
+将得到的字符串复制到licenses.xml中的第8行替换掉原有的。保存文件
+再把文件复制替换/Library/Preferences/Parallels下的原文件。
+重启软件就激活成功。
+最后将备份的屏蔽激活的hosts信息填入hosts文件中
+
+
+parallels 屏蔽激活的hosts
+ sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
+
+HOST 内容
+
+127.0.0.1 pd6.blist.parallels.com
+127.0.0.1 pd7.blist.parallels.com
+127.0.0.1 pdfm7.blist.parallels.com
+127.0.0.1 registration.parallels.com
+127.0.0.1 parallels.com
+127.0.0.1 update.parallels.com
+
+
+ 
+
+update to vm9,succ,everything is ok!
+ 昨天尝鲜升级Mavericks，parallels8无法运行，经论坛上各种方法介绍，终于实验成功，此方法经测无误可以运行。
+1.打开终端，输入cd 空格。
+2.打开finder,点击应用程序，选取parallels，右键，点显示包内容，然后点contents，点library，点extensions,选取10.6文件夹，将这个文件夹拖入终端。
+cd /Applications/Parallels\ Desktop.app/Contents/Library/Extensions/10.6      
+3.拖入终端后点回车。
+4.输入
+sudo kextutil  *
+5.再次回车，这回提示输密码。
+6.输完密码后回车，终端显示
+kext com.parallels.kext.hidhook  800009000 is in exception list, allowing to load
+kext com.parallels.kext.hypervisor  800009000 is in exception list, allowing to load
+kext com.parallels.kext.netbridge  800009000 is in exception list, allowing to load
+kext com.parallels.kext.usbconnect  800009000 is in exception list, allowing to load
+kext com.parallels.kext.vnic  800009000 is in exception list, allowing to load
+
+
+mac 上用parallels安装CENTOS6.4
+不能上网vi /etc/sysconfig/network-scripts/ifcfg-eth0 原因：ONBOOT=no 无parallels tools  prl-tools-lin.iso
+/dev/cdrom
+gcc make kernel sources
+mount /dev/cdrom /media/CentOS   在/etc/yum.repos.d/目录下
+yum --disablerepo=\* --enablerepo=c6-media install gcc
+apt-get install linux-headers-$(uname -r) make gcc
+yum install linux-headers-$(uname -r)
+yum install linux-headers-`uname -r`
+yum list kernel-*   最终此句解决问题：总结：问题一条线向下追，新线索、验证、排除
+bringing up interface eth0 device eth0 does not seem to be present,delaying initialization
+修改/etc/udev/rules.d/70-persistent-net.rules 文件 修改/etc/sysconfig/network-scripts/ifcfg-eth0
+ 
+win7:10.211.55.3   centos:10.211.55.4 root vivian
+umount
+
+ mac 上用parallels安装win7
+parallels
+激活win7引导标记里输入
+kernel.waet.enable=0
+掉虚拟机里面的系统,然后打开“配置”,选择“硬体”---“启动顺序”---“引导标记”,在里面输入kernel.waet.enable=0 然后保存重新启动虚拟机应该就OK的
+
+win7上用vmware安装mac os
+vince   vince@xiaolong.com
+虚拟机安装的密码老婆的英文名字
+
+vivian-asus 上面的虚拟机  D:\COMMONXPP
+新的想法：加光驱位，改良为mac系统; 驱动问题，不用尝试了
+VMware9虚拟机安装MAC OS X Mountain Lion 10.8.2详细图文教程    http://diybbs.zol.com.cn/1/34037_699.html         
+VMware虚拟机安装Mac OS X Mountain Lion 10.8.2所需文件：
+1、Vmware 9.01版下载：点击进入
+2、Vmware 9.01版汉化文件：点击进入
+3、VMware Workstation 破解安装mac os补丁：点击进入
+4、Mac OS X Mountain Lion 10.8.2下载：点击进入 http://kuai.xunlei.com/d/DKYYWZVCDXII
+5、虚拟机VMTOOLS darwin：点击进入（非必须，官方完整版虚拟机已包含）
+=====================================虚拟机VMware Workstation 9.0.1.894247官方原版下载
+
+百度网盘下载：http://pan.baidu.com/share/link?shareid=130040&uk=2181393914
+
+汉化补丁：http://diybbs.zol.com.cn/15/225_142170.html
+
+激活码：
+JF666-F430H-EZPU9-UA954-A373F
+HF21N-6WH57-LZMC8-0U97P-ACZKG
+HF6HP-6PKEM-WZ6U8-R3056-3AQ10
+1F4LT-0P34K-RZ3L9-D307K-2CF0A
+4A29P-AN08J-HZRK1-TU372-02UNC
+0A2ZF-D0H9K-GZ5W9-2H150-9CVNL
+HF6AK-FH08H-VZNL0-8K25H-026LQ
+MA227-4Y287-4Z3R1-F10Q0-C2M7V
+HF4FD-2P085-1ZJ68-1LA52-221KY
+NA4K0-A0215-HZMV1-K387K-A20QU
+===========================================虚拟机VMware Workstation 9.0.1.894247 【汉化补丁】下载
+
+使用介绍:精致汉化(28.7MB)仅针对VMware-workstation-full-9.0.1.894247官方安装包（下载地址），版本不同将不能使用。
+文件大小：445805936 字节
+文件版本：1.1.2 build-00000
+修改时间：2012年11月8日 20:10:29
+MD5     ：DC3F15D6C5FC153B7F91405E4D9A2596
+SHA1    ：43FF404B5045DE012FB275687F5E93887FDA86C0
+CRC32   ：4E6EE71C
+精致汉化使用方法：
+1.安装官方VMware-workstation-full-9.0.1.894247原版英文版（最上面有下载地址）。
+2.直接双击运行精致汉化，精致汉化会自动识别VMware-workstation安装路径，不支持VMware-workstation绿色版的汉化！
+3.Windows 7 和 Windows 8 系统下亦可以直接安装，不再需要繁杂的权限获取或者重启以后在替换文件过程，直接安装以后就是简体中文版本了！
+4.极个别情况下极个别文件可能提示无法替换（这种情况应该不会出现），请在任务管理器中先结束相应文件进程，之后再次运行汉化程序即可解决。
+5.如果汉化以后出现运行不正常，再次运行汉化程序选择恢复选项，安装以后即可恢复原版英文VMware workstation 9.0.1.33347。
+
+
+
+

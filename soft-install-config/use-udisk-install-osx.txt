@@ -1,0 +1,11 @@
+
+
+
+
+http://pan.baidu.com/s/15Sx39    
+Install OS X Mavericks.app.dmg
+苹果OS X 10.9 系统：[1]U盘安装教程
+http://jingyan.baidu.com/article/f7ff0bfc7438442e26bb13c7.html
+
+chflags nohidden filename
+

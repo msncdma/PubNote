@@ -1,0 +1,13 @@
+Mac的睡眠方式说明：
+0 (quick): Default sleep behavior on most Apple computers. RAM is still powered on while
+sleeping. Wake up is fast. Safe sleep is disabled.
+1 (deep): Hibernation behavior. System is totally shut down while sleeping. RAM contents
+are dumped to disk. Wake up is slow.
+3 (safe): Default behavior on Powerbook HD and later computers. RAM is still powered
+on while sleeping. Wake up is fast. Safe sleep is enabled, so RAM contents are
+also dumped to disk before going to sleep.
+5 (deep): Same as mode 1 for systems with encrypted virtual memory.
+7 (safe): Same as mode 3 for systems with encrypted virtual memory
+注： 我使用5的时候无法正常唤醒，因此不建议使用5&7
+查看当前的睡眠模式： pmset -g | grep hibernatemode
+修改睡眠模式： sudo pmset -a hibernatemode X

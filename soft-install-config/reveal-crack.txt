@@ -1,0 +1,27 @@
+
+
+
+
+显示Reveal.app的包内容，找到Info.plist文件，该软件的设置项都在此文件中，打开该文件，修改Bundle identifier的值。此时再启动Reveal.app，会发现会起如初次下载并安装时的流程，启动后会看到界面右上角显示的是30天的试用期，如果到期了就如此反复即可无限使用Reveal。
+
+貌似把 ~/Library/Preferences/com.ittybittyapps.Reveal.plist 删除了就能再用 30 天。
+能帮助开发的知识，无非就是操作系统、编译原理、语言本身和要解决问题的领域知识
+
+
+
+
+
+
+要想永久试用Reveal，只需要打开
+
+~/Library/Preferences/com.ittybittyapps.Reveal.plist
+
+把IBAApplicationPersistenceData这一项删除就是了
+
+
+
+[2015-03-10更新]逆向神器-Reveal 1.5.x 优雅通杀补丁Cracked By PiaoYun/P.Y.G
+http://bbs.chinapyg.com/thread-76864-1-1.html
+(出处: 中国飘云阁(PYG官方论坛) )
+
+

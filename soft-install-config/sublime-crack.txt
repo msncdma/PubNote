@@ -1,0 +1,20 @@
+sublime2.0.2 破解
+2. 安装完成后，在application下找到Sublime Text，右键选择显示contents，然后根据此路径 Sublime Text 2/Contents/MacOS/，在MacOS文件夹中找到名为Sublime Text 2的文件（这货是个二进制文件），选择用Sublime Text自己打开该文件。
+
+3. 用快捷键 Cmd+Option+F 打开Find & Replace Pane，在文件中搜索所有3342 3032，将其都替换为3242 3032。保存后关闭并退出Sublime Text。
+
+4. 重新运行Sublime Text，在菜单栏中点击help，然后enter license，把注册码粘贴进去即可（包含BEGIN LICENSE 和 END LICENSE头尾两行）。以下注册码亲测可用，仅供参考。完成！
+
+—–BEGIN LICENSE—– 
+hiwanz 
+Unlimited User License 
+EA7E-26838 
+5B320641E6E11F5C6E16553C438A6839 
+72BA70FE439203367920D70E7DEB0E92 
+436D756177BBE49EFC9FBBB3420DB9D3 
+6AA8307E845B6AB8AF99D81734EEA961 
+02402C853F1FFF9854D94799D1317F37 
+1DAB52730F6CADDE701BF3BE03C34EF2 
+85E053D2B5E16502F4B009DE413591DE 
+0840D6E2CBF0A3049E2FAD940A53FF67 
+—–END LICENSE—– 

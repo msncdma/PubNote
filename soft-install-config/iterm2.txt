@@ -1,0 +1,2 @@
+
+在 Mac 上敲入 ls 命令也不会显示高亮，可以通过安装 coreutils 来解决（brew install coreutils）

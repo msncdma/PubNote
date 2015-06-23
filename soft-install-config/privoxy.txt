@@ -1,0 +1,3 @@
+
+brew install privoxy
+http://1992s.com/blog/share-shadowsocks-over-lan-on-mac-os-x.html

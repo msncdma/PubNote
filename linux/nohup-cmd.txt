@@ -1,0 +1,7 @@
+
+nohup wget http://218.244.146.98:8894/src/jdk-7u51-linux-x64.rpm & 
+nohup wget http://mirrors.ustc.edu.cn/ubuntu-releases/14.04.1/ubuntu-14.04.1-server-amd64.iso & 
+nohup wget http://cdimage.ubuntu.com/kubuntu/releases/precise/release/kubuntu-12.04.3-desktop-amd64.iso & 
+ 
+nohup command & 一般形式  nohup command > myout.file 2>&1
+nohup wget http://mirrors.163.com/centos/6.5/isos/x86_64/CentOS-6.5-x86_64-bin-DVD1.iso > centosdown.log 2>&1

@@ -1,0 +1,9 @@
+右键，显示包内容，依次打开Contents，MacOS文件夹
+BCompare 是主程序，每次开软件的时候就是打开了它。把它改名 BCompare.real ，然后在同一目录下新建一个名叫 BCompare 的脚本文件，用终端执行 chmod +x 脚本路径 加上可执行权限。注意如果新建时带了 .sh 等后缀名，得用 command+i 在文件信息里删除，在Finder中删除后缀名只是不显示了而已
+
+
+#!/bin/bash
+rm "/Users/$(whoami)/Library/Application Support/Beyond Compare/registry.dat"
+"`dirname "$0"`"/BCompare.real &
+
+
