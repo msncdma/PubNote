@@ -1,0 +1,5 @@
+
+Sublime Text 2 + Gist
+http://lucifr.com/2012/03/07/sublime-text-2-plus-gist-equal-snippet-manager/
+
+打开 Sublime Text 2，按下 Control + ` 调出 Console

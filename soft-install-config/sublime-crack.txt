@@ -18,3 +18,14 @@ EA7E-26838
 85E053D2B5E16502F4B009DE413591DE 
 0840D6E2CBF0A3049E2FAD940A53FF67 
 —–END LICENSE—– 
+
+
+在 应用程序 目录中找到 Sublime Text 2，按住 Ctrl 并点击之，在弹出的菜单中选择“显示包内容”。
+进入 Contents/Resources/ 目录，用新下载的图标替换 Sublime Text 2.icns。
+
+
+
+
+
+
+
