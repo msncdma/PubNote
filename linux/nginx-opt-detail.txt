@@ -1,0 +1,6 @@
+
+/usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx.conf  // 启动nginx
+/usr/local/nginx/sbin/nginx -s stop         					   // 停止nginx
+	/usr/local/nginx/sbin/nginx -s reload        					   // 重新加载配置文件
+	/usr/local/nginx/sbin/nginx -s quit       						   // 退出nginx
+

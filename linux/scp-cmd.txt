@@ -7,5 +7,6 @@ scp -r /home/space/music/ root@www.cumt.edu.cn:/home/root/others/
 -v 和大多数 linux 命令中的 -v 意思一样 , 用来显示进度 . 可以用来查看连接 , 认证 , 或是配置错误
 -4 强行使用 IPV4 地址 .
  
-scp -P 端口号 -r root@IP地址:/usr/local/app target目录
+scp -P 60007 -r root@120.23.99.231:/usr/local/apache-maven-3.1.1.tar.gz .
+
 

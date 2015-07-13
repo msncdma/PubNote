@@ -1,0 +1,10 @@
+
+/etc/profile
+
+#set environment
+export JAVA_HOME=/usr/java/jdk1.7.0_51/jre
+export M2_HOME=/usr/local/maven
+export PATH=$JAVA_HOME/bin:$M2_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+
+export PATH=/usr/local/git/bin:/usr/local/git/libexec/git-core:$PATH

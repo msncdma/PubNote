@@ -1,0 +1,20 @@
+
+lsof -i :5432|grep -v "PID"|awk '{print "kill -9",$2}'|sh
+25   邮件
+21   vsftpd  关掉它
+443  Https
+ 
+ 
+ 
+ /sbin/iptables -I INPUT -p tcp --dport 60007 -j ACCEPT
+
+可以使用iptables命令随便配个防火墙规则，然后使用命令：service iptables save进行保存，默认就自动生成并保存到/etc/sysconfig/iptables文件了。
+/sbin/iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+
+ chkconfig --level 35 iptables on
+#/etc/rc.d/init.d/iptables save
+#/etc/init.d/iptables status
+vi /etc/sysconfig/iptables 
+
+service iptables restart
+你可以验证一下是否规则都已经生效：iptables -L
