@@ -1,0 +1,26 @@
+
+1. 需要给 CentOS 下载安装编译工具。
+
+$ sudo yum groupinstall “Development Tools”
+2. 安装一些 git 构建或执行时需要的其他依赖。
+
+$ sudo yum install zlib-devel perl-ExtUtils-MakeMaker asciidoc xmlto openssl-devel
+3. 下载 git 最新版本的源代码
+
+$ cd ~
+$ wget -O git.zip https://github.com/git/git/archive/master.zip
+4. 解压源文件
+
+$ unzip git.zip
+$ cd git-master
+$ autoconf
+$ ./configure
+$ make && make install
+$ ln -s /usr/local/bin/git /usr/bin/
+如果系统中已经安装过旧的版本，步骤6可能会报文件已存在的错误，这个时候需要把旧的 link 删掉再重新 link。
+
+7. 检查 git 版本
+
+$ git --version
+此时，应该显示为 git 的最新版本。
+
