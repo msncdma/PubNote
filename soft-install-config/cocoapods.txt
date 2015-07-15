@@ -1,0 +1,11 @@
+
+1， 卸载 cocoapods
+$ sudo gem uninstall cocoapods
+
+2. 安装 xcodeproj
+
+$ sudo gem install xcodeproj
+
+3. 安装指定0.34.4版本的 Cocoapods
+
+sudo gem install cocoapods -v 0.34.4
