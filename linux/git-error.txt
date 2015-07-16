@@ -1,0 +1,8 @@
+
+git clone fatal: Unable to find remote helper for 'https'
+ yum install curl-devel
+$ # cd to wherever the source for git is
+$ cd /usr/local/src/git-1.7.9  
+$ ./configure
+$ make
+$ make install

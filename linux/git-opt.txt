@@ -1,0 +1,2 @@
+
+git ls-remote -h git@bitbucket.org:person/projectmarket.git HEAD
