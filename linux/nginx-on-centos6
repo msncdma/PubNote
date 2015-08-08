@@ -34,6 +34,29 @@ events {
 sbin/nginx -c usr/local/nginx8.20/conf/nginx/conf
 
 
+——————————————————centos 6.5 编译安装最新稳定版nginx———————————
+yum groupinstall "Development Tools"
+yum install pcre-devel
+yum groupinfo "Development Tools"
+yum install openssl-devel  gd-devel
+
+groupadd -r -g 110 nginx   添加以个nginx组为系统组
+useradd -r -u 110 -g 110 nginx  添加以个用户为系统用户  专门管理nginx
+
+设定编译选项：
+http://wiki.nginx.org/NginxChsInstallOptions
+
+./configure --sbin-path=/usr/local/nginx/nginx \
+--conf-path=/usr/local/nginx/nginx.conf \
+--pid-path=/usr/local/nginx/nginx.pid \
+--with-http_ssl_module \
+--with-pcre=/usr/local/src/pcre-8.34 \
+--with-zlib=/usr/local/src/zlib-1.2.8 \
+--with-openssl=/usr/local/src/openssl-1.0.1c
+默认安装(openssl 可以不用安装，暂时用不上)
+./configure
+make
+sudo make install
 
 
 

@@ -4,3 +4,8 @@
 	/usr/local/nginx/sbin/nginx -s reload        					   // 重新加载配置文件
 	/usr/local/nginx/sbin/nginx -s quit       						   // 退出nginx
 
+
+加入到开机启动项目中：
+vim /etc/rc.d/rc.local 
+
+

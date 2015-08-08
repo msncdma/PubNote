@@ -1,0 +1,2 @@
+
+cat /etc/ssh/sshd_config | grep authorized_keys
