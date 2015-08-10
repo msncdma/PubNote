@@ -1,0 +1,18 @@
+
+解决思路：
+1：解决DNS污染；
+2：数据包走Shadowsocks；
+
+raspberry PI B+的安装配置如下：
+#升级一下现有的组件
+apt-get update
+apt-get install dnsutils
+
+#shadowsocks 安装:
+apt-get install libssl-dev
+git clone https://github.com/shadowsocks/shadowsocks-libev.git
+cd shadowsocks-libev
+./configure
+make
+make install
+
