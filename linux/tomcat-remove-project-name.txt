@@ -1,0 +1,18 @@
+
+
+Tomcat部署项目去除项目名和端口号通过IP地址（或域名）访问
+
+<Host name="baidu.cn"  appBase="webapps"  unpackWARs="true" autoDeploy="true" xmlValidation="false" xmlNamespaceAware="false">
+      <Alias>baidu.cn</Alias>
+      <Context docBase="/usr/local/app/xxtomcat7/webapps/baidu" path=""  reloadable="true" /> 
+</Host>
+
+2、去除项目名称projectName
+在server.xml文件中，修改<HOST>标签，在标签中增加<Context docBase="项目路径" path="" />，修改后如下
+<Host name="localhost" appBase="webapps" unpackWARs="true" autoDeploy="true">
+<Context docBase="F:\all_workspace\workspace_wixin\bigmouth_crm\WebContent" path="" />
+</Host>
+
+webapps目录下的工程拷贝到跟他 同级，再往server.xml里加上一句配置“<Context path=""  
+
+docBase="${catalina.home}/工程名" debug="0"/>”就可以了
