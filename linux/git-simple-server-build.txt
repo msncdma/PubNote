@@ -1,0 +1,54 @@
+
+以ubuntu服务器为例，如果要创建小范围的私有git服务器，是非常简单的，只需要如下几个简单步骤：
+
+Step 1: 安装git
+
+直接通过sudo apt-get install git即可完成。
+
+Step 2: 创建git用户
+
+git用户用来通过SSH连接git服务，输入命令：
+
+$ sudo adduser git
+Step 3: 创建证书登录
+
+首先收集所有需要登录的用户公钥，然后导入到/home/git/.ssh/authorized_keys文件即可。
+
+Step 4: 初始化git仓库
+
+假设仓库位于/srv/sample.git，在/srv目录下输入命令：
+
+$ sudo git init --bare sample.git
+这样就创建了一个裸仓库，裸仓库没有working dir，因为服务器上的git仓库纯粹是为了共享，仓库目录一般以.git结尾。然后把owner改为git：
+
+$ sudo chown -R git:git sample.git
+Step 5: 防止登录shell
+
+出于安全考虑，git用户不应该登录shell，可以编辑/etc/passwd，找到类似一行：
+
+git:x:1001:1001:,,,:/home/git:/bin/bash
+改为：
+
+git:x:1001:1001:,,,:/home/git:/usr/bin/git-shell
+这样，git用户可以正常通过ssh使用git，但无法登录shell。
+
+Step 6: 克隆仓库
+
+在客户端就可以通过ssh克隆仓库了：
+
+$ git clone git@server:/srv/sample.git
+Cloning into 'sample'...
+warning: You appear to have cloned an empty repository.
+然后，就可以正常推送了：
+
+$ touch README
+$ git add README
+$ git commit -m "add readme"
+$ git push origin master
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 212 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@ubuntu:/srv/sample.git
+ * [new branch]      master -> master
+
+
