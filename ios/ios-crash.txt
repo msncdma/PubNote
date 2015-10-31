@@ -1,0 +1,6 @@
+
+ios PROGRAM crash 的几种情况:
+调用block时没有判断BLOCK是否为空
+if(block())
+if([aobj respondsToSelector:@selector(amethod)])
+

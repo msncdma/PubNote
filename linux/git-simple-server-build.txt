@@ -37,6 +37,7 @@ Step 6: 克隆仓库
 在客户端就可以通过ssh克隆仓库了：
 
 $ git clone git@server:/srv/sample.git
+如果修改了SSH端口，则在上面的地址前添加ssh://
 Cloning into 'sample'...
 warning: You appear to have cloned an empty repository.
 然后，就可以正常推送了：

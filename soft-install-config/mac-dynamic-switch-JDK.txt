@@ -6,3 +6,54 @@ export JAVA_HOME=$JAVA_6_HOME
 alias jdk8='export JAVA_HOME=$JAVA_8_HOME'
 #alias jdk7='export JAVA_HOME=$JAVA_7_HOME'
 alias jdk6='export JAVA_HOME=$JAVA_6_HOME'
+
+brew install jenv
+
+———————————————————
+
+前置环境 
+OSX 10.10.3
+注意:OSX 10.10 是默认没有JDK6的,如果是老版本的OSX请自行检查
+将附件的3个dmg文件全部安装
+
+如果以前没新建过环境变量请使用终端运行下面的命令
+1.新建变量文件
+touch .bash_profile
+2.打开变量文件
+open .bash_profile
+
+3.复制下面的环境变量信息
+
+export JAVA_6_HOME=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+export JAVA_7_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home
+export JAVA_8_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home
+export JAVA_HOME=$JAVA_7_HOME
+
+alias jdk8='export JAVA_HOME=$JAVA_8_HOME'
+alias jdk7='export JAVA_HOME=$JAVA_7_HOME'
+alias jdk6='export JAVA_HOME=$JAVA_6_HOME'
+
+4.command+s保存后执行命令
+source .bash_profile
+
+5.在终端中分别输入
+jdk6
+jdk7
+jdk8
+即可看到jdk切换了
+
+liqiangdeMacBook-Pro:~ IcyMe$ jdk8
+liqiangdeMacBook-Pro:~ IcyMe$ java -version
+java version "1.8.0_40"
+Java(TM) SE Runtime Environment (build 1.8.0_40-b27)
+Java HotSpot(TM) 64-Bit Server VM (build 25.40-b25, mixed mode)
+liqiangdeMacBook-Pro:~ IcyMe$ jdk7
+liqiangdeMacBook-Pro:~ IcyMe$ java -version
+java version "1.7.0_75"
+Java(TM) SE Runtime Environment (build 1.7.0_75-b13)
+Java HotSpot(TM) 64-Bit Server VM (build 24.75-b04, mixed mode)
+liqiangdeMacBook-Pro:~ IcyMe$ jdk6
+liqiangdeMacBook-Pro:~ IcyMe$ java -version
+java version "1.6.0_65"
+Java(TM) SE Runtime Environment (build 1.6.0_65-b14-466.1-11M4716)
+Java HotSpot(TM) 64-Bit Server VM (build 20.65-b04-466.1, mixed mode)
