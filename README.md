@@ -1,6 +1,6 @@
 # iOS技术团队
 - [Chinamobo Team](https://github.com/Chinamobo)
-
+- [美团点评技术团队](http://tech.meituan.com)
 #iOS技术博客
 
 博客地址 | RSS、URL地址
@@ -64,7 +64,8 @@
 
 #iOS开源框架
 - [YYKit](https://github.com/ibireme/YYKit)
-
+- [官方开源](http://www.opensource.apple.com/tarballs/)
+- [forkingdog](https://github.com/forkingdog)
 
 #MAC使用技巧
 - [MAC键盘快捷键](https://support.apple.com/zh-cn/HT201236)
