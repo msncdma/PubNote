@@ -66,23 +66,37 @@
 - [YYKit](https://github.com/ibireme/YYKit)
 - [官方开源](http://www.opensource.apple.com/tarballs/)
 - [forkingdog](https://github.com/forkingdog)
-
+- [YepChat社交框架](https://github.com/CatchChat/Yep)
+#OC代码规范
+- [OC Code Standards](CodingStandards/SUMMARY.md)
 #MAC使用技巧
 - [MAC键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 
 - [MAC软件](http://www.ifunmac.com/)
 
 #艺术&UI设计
+- [PaintCode](http://www.paintcodeapp.com/)
 
 #LINUX
+
+#python
+- [简单入门](http://python.xiaoleilu.com/index.html)
+
+#server
+- [ELKstack](https://www.gitbook.com/book/chenryn/kibana-guide-cn/details)
 
 #MD应用扩展
 
 - [使用markdown语法来写网页ppt](http://wenchao-img.qiniudn.com/markdown.html#slide1)
 
-#读书笔记
+#科学获取信息的姿势
+- [google‘s lantern](https://github.com/getlantern/lantern)
+- [OpenWrt](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
 
-#时事分析
+#读书笔记
+- [GitBook](https://www.gitbook.com/explore)
+
+
 
 
 

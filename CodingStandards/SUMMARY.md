@@ -7,7 +7,7 @@
     * [方法(Method)命名](Naming_Methods.md)
     * [函数(Function)命名](Naming_Functions.md)
     * [属性(Property)与数据类型命名](Naming_Properties_and_Data_Types.md)
-    * [其他命名规范](Others_Naming.md)
+    * [资源命名规范](Resources_Naming.md)
     * [可接受的缩略语](Acceptable_Abbreviations_and_Acronyms.md)
 * 格式排版规范
     * [注释规范](Code_Comments.md)
