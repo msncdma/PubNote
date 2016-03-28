@@ -1,6 +1,7 @@
 # iOS技术团队
 - [Chinamobo Team](https://github.com/Chinamobo)
 - [美团点评技术团队](http://tech.meituan.com)
+
 #iOS技术博客
 
 博客地址 | RSS、URL地址
@@ -62,38 +63,56 @@
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>
 
+
 #iOS开源框架
 - [YYKit](https://github.com/ibireme/YYKit)
 - [官方开源](http://www.opensource.apple.com/tarballs/)
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
-#OC代码规范
+
+
+#常用开源框架
+
+#代码规范
 - [OC Code Standards](CodingStandards/SUMMARY.md)
-#MAC使用技巧
+- [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+- [Code Conventions for the Java Programming Language](https://waylau.gitbooks.io/java-code-conventions/content/index.html)
+- [diff](diff/oc_diff_java.md)
+
+
+#MAC
 - [MAC键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 
 - [MAC软件](http://www.ifunmac.com/)
 
-#艺术&UI设计
+
+#UI
 - [PaintCode](http://www.paintcodeapp.com/)
 
-#LINUX
+
+
 
 #python
-- [简单入门](http://python.xiaoleilu.com/index.html)
+- [start](http://python.xiaoleilu.com/index.html)
+
 
 #server
-- [ELKstack](https://www.gitbook.com/book/chenryn/kibana-guide-cn/details)
+- [ELKstack日志引擎](https://www.gitbook.com/book/chenryn/kibana-guide-cn/details)
+
 
 #MD应用扩展
 
 - [使用markdown语法来写网页ppt](http://wenchao-img.qiniudn.com/markdown.html#slide1)
 
-#科学获取信息的姿势
-- [google‘s lantern](https://github.com/getlantern/lantern)
-- [OpenWrt](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
 
-#读书笔记
+#科学获取信息的姿势
+- [轻量代理ss](https://github.com/clowwindy)
+- [原理](http://www.chinagfw.org/)
+- [google‘s lantern](https://github.com/getlantern/lantern)
+- [路由器方案OpenWrt](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
+
+
+#GIT读书
 - [GitBook](https://www.gitbook.com/explore)
 
 

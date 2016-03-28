@@ -19,5 +19,6 @@
     * [Git工作流规范](Git_Flow.md)
 * [附录一 Xcode插件](Xcode_Plugins.md)
 * [附录二 常用第三方开源库](Third_Party_Library.md)
+* [附录三 开发经验](http://www.cocoachina.com/ios/20160324/15727.html)
 * [参考](Reference.md)
 
