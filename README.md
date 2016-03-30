@@ -70,6 +70,8 @@
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
 
+#代码重构
+- [viewController瘦身]
 
 #常用开源框架
 
