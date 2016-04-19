@@ -4,11 +4,12 @@
 
 #iOS技术博客
 
-博客地址 | RSS、URL地址
+博客地址 | 标签、介绍
 ----- | -----
-[OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
-[破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
-[NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
+[果冻虾仁](https://github.com/guodongxiaren)|学生，bash,linux
+[OneV's Den](http://onevcat.com) | objc,swift
+[破船之家](http://beyondvincent.com) | watch,sprite
+[NSHipster](http://nshipster.cn) | Mattt Thompson,effective objective-c
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
 [Lex Tang](http://lexrus.com/) | <http://lexrus.com/feed.xml>
@@ -70,10 +71,6 @@
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
 
-#Android开源框架
-- [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
-- [Trinea](https://github.com/Trinea/android-open-project)
-- [hehonghui](https://github.com/hehonghui/android-tech-frontier)
 #代码重构
 - [viewController瘦身]
 
@@ -96,30 +93,40 @@
 - [PaintCode](http://www.paintcodeapp.com/)
 
 
+#Android开源框架
+- [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
+- [Trinea](https://github.com/Trinea/android-open-project)
+- [hehonghui](https://github.com/hehonghui/android-tech-frontier)
 
 
 #python
 - [start](http://python.xiaoleilu.com/index.html)
 
 
-#server
+#server skill
 - [ELKstack日志引擎](https://www.gitbook.com/book/chenryn/kibana-guide-cn/details)
+- [RAP可视化接口管理工具](http://thx.github.io/RAP/index_zh.html)
+- [mobile jdk](http://openjdk.java.net/projects/mobile/)
+- [crap接口管理系统 anjularjs+bootstrap+springMVC](http://api.crap.cn/web.do#/webWebPage/detail/PAGE/WELCOME)
+- [ssh key for github](https://help.github.com/articles/generating-an-ssh-key/)
 
 
-#MD应用扩展
+#MarkdownTemplate
 
 - [使用markdown语法来写网页ppt](http://wenchao-img.qiniudn.com/markdown.html#slide1)
 
 
-#科学获取信息的姿势
-- [轻量代理ss](https://github.com/clowwindy)
-- [原理](http://www.chinagfw.org/)
+#information flow
+- [ss](https://github.com/clowwindy)
+- [openwrt+pdnsd+ss](http://www.m3306.com/archives/41.html)
+- [theory](http://www.chinagfw.org/)
 - [google‘s lantern](https://github.com/getlantern/lantern)
 - [路由器方案OpenWrt](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
 
-- [明月永在-优秀的第三方OP固件](https://myop.cf/)
+- [明月永在-3rd openwrt firmware](https://myop.cf/)
+- [backtrack-linux](http://www.backtrack-linux.org/downloads/)
 
-#GIT读书
+#GitBook
 - [GitBook](https://www.gitbook.com/explore)
 
 
