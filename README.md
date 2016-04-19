@@ -70,6 +70,10 @@
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
 
+#Android开源框架
+- [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
+- [Trinea](https://github.com/Trinea/android-open-project)
+- [hehonghui](https://github.com/hehonghui/android-tech-frontier)
 #代码重构
 - [viewController瘦身]
 
@@ -113,6 +117,7 @@
 - [google‘s lantern](https://github.com/getlantern/lantern)
 - [路由器方案OpenWrt](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
 
+- [明月永在-优秀的第三方OP固件](https://myop.cf/)
 
 #GIT读书
 - [GitBook](https://www.gitbook.com/explore)

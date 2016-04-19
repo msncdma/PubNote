@@ -140,7 +140,7 @@ ___斜粗体2___
 [head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
 
 #### 第二种
-[![内容任意](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)
+[![内容任意](http://112.74.194.198:8894/test/objective-c-introduction.jpg "百度logo")](http://www.baidu.com)
 
 
 
@@ -232,6 +232,7 @@ string &operator+(const string& A,const string& B) //cpp
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
+uu|44
 
 | 表头1  | 表头2|
 | ------------- | ------------- |
