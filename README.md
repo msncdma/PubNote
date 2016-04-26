@@ -6,24 +6,22 @@
 
 博客地址 | 标签、介绍
 ----- | -----
-[果冻虾仁](https://github.com/guodongxiaren)|学生，bash,linux
+[NSHipster](http://nshipster.cn) | Mattt Thompson,effective objective-c
+[Limboy 无网不剩](http://limboy.me/) | Design / Tech / Create / Startup / Life
+[唐巧的技术博客](http://blog.devtang.com) | 媒体人
+[雷纯锋的技术博客](http://blog.leichunfeng.com) | 理论型
 [OneV's Den](http://onevcat.com) | objc,swift
 [破船之家](http://beyondvincent.com) | watch,sprite
-[NSHipster](http://nshipster.cn) | Mattt Thompson,effective objective-c
-[Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
-[唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
-[Lex Tang](http://lexrus.com/) | <http://lexrus.com/feed.xml>
-[念茜的博客](http://nianxi.net) | <http://nianxi.net/feed.xml>
-[Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
-[Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
-[txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
-[sunnyxx的技术博客](http://blog.sunnyxx.com/) | <http://blog.sunnyxx.com/atom.xml>
-[Kevin Blog](http://zhowkev.in) | <http://zhowkev.in/rss>
-[阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
-[亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>
-[Nonomori](http://nonomori.farbox.com) | <http://nonomori.farbox.com/feed>
-[言无不尽](http://tang3w.com) | <http://tang3w.com/atom.xml>
-[Wonderffee's Blog](http://wonderffee.github.io) | <http://wonderffee.github.io/atom.xml>
+[Lex Tang](https://github.com/lexrus/) |funny ios dev,swift
+[念茜的博客](http://nianxi.net) | 美女IOS程序员，安全方面
+[Xcode Dev](http://blog.xcodev.com) | Mac系统 Unix开发 iOS开发
+[txx's blog](http://blog.txx.im/) | 学习笔记
+[sunnyxx的技术博客](http://blog.sunnyxx.com/) | 理论型
+[isheyes](http://isheyes.com/archives/)|IOS动画，学习笔记
+[Kevin Blog](http://zhowkev.in) | 产品型技术
+[阿毛的蛋疼地](http://www.xiangwangfeng.com) | https://github.com/xiangwangfeng
+[亚庆的 Blog](http://billwang1990.github.io) | 逆向
+[Nonomori](http://nonomori.farbox.com) | watchkit ,swift
 [I'm TualatriX](http://imtx.me) | <http://imtx.me/feed/latest/>
 [Cocoabit](http://blog.cocoabit.com) | <http://blog.cocoabit.com/rss/>
 [nixzhu on scriptogr.am](http://nixzhu.me) | <http://nixzhu.me/feed>
@@ -62,19 +60,20 @@
 [技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
-[雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>
+[果冻虾仁](https://github.com/guodongxiaren)|学生，bash,linux
 
 
-#iOS开源框架
+#开源框架
 - [YYKit](https://github.com/ibireme/YYKit)
 - [官方开源](http://www.opensource.apple.com/tarballs/)
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
-
-#代码重构
+#原理类
+-[Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
+#重构与优化
 - [viewController瘦身]
+- [ios crash 收集框架](http://www.cocoachina.com/ios/20150701/12301.html)
 
-#常用开源框架
 
 #代码规范
 - [OC Code Standards](CodingStandards/SUMMARY.md)
@@ -116,7 +115,7 @@
 - [使用markdown语法来写网页ppt](http://wenchao-img.qiniudn.com/markdown.html#slide1)
 
 
-#information flow
+#information flow & Protocol
 - [ss](https://github.com/clowwindy)
 - [openwrt+pdnsd+ss](http://www.m3306.com/archives/41.html)
 - [theory](http://www.chinagfw.org/)
@@ -125,7 +124,7 @@
 
 - [明月永在-3rd openwrt firmware](https://myop.cf/)
 - [backtrack-linux](http://www.backtrack-linux.org/downloads/)
-
+- [通讯协议漫谈]
 #GitBook
 - [GitBook](https://www.gitbook.com/explore)
 
