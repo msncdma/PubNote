@@ -1,5 +1,5 @@
 
-## XCODE技巧
+## XCODE技巧汇总
 ----
 
 
@@ -10,10 +10,10 @@
 - 删除一整行	到行尾control+A 然后 cmd + delete
 
 
-**Alcatraz**
+**https://github.com/alcatraz/Alcatraz**
 
 ###安装
-    curl -fsSL https://raw.github.com/supermarin/Alcatraz/master/Scripts/install.sh | sh
+    curl -fsSL https://raw.github.com/alcatraz/Alcatraz/master/Scripts/install.sh | sh
 
 ###删除程序
     rm -rf ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin
