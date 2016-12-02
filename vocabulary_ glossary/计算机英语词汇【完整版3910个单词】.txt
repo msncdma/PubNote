@@ -1,0 +1,7759 @@
+1 abacus   n. 算盘 
+ 
+2 abbreviate   v. 缩写,使...简略 
+ 
+3 abbreviation   n. 缩写 
+ 
+4 abend   异常结束 
+ 
+5 abnormal   a. 反常的,不正常的,不规则的 
+ 
+6 abort   v. 流产,打胎,堕胎 
+ 
+7 about   a. 准备; ad. 大约; prep. 关于 
+ 
+8 aboveboard   ad. 光明正大地,率直地; a. 光明正大的,率直的 
+ 
+9 abrasive   n. 研磨剂; a. 磨平的 
+ 
+10 abridgement   节略,缩写 
+ 
+11 abruption   中断,分离 
+ 
+12 absence   a. 不在,缺席; n. 缺乏,缺少,缺席 
+ 
+13 absolute   a. 绝对的,完全的; n. 绝对 
+ 
+14 abstract   n. 摘要; a. 抽象的; v. 摘要,抽炼 
+ 
+15 acceleration   n. 加速,促进,加速度 
+ 
+16 accelerator   n. 加速者,加速器,油门 
+ 
+17 accent   n. 重音,口音; v. 重读,强调 
+ 
+18 accept   vt.接受,同意,承担(责任等) 
+ 
+19 acceptance   n. 接受,容纳,承诺,验证 
+ 
+20 access   n. 通路,进入,使用之权; v. 存取 
+ 
+21 accessible   a. 可得到的,易接近的,可进入的 
+ 
+22 accessory   a. 附属的(副的,辅助的); n. 附件 
+ 
+23 accidentally   ad. 偶然地,意外地 
+ 
+24 accommodate   v. 使适应,调节,和解 
+ 
+25 according to  ad.按照,根据 
+ 
+26 accumulate   v. 积聚,堆积 
+ 
+27 accumulator   累加器 
+ 
+28 accuracy   n. 准确(性),精确度 
+ 
+29 accurately   a. 准确地; ad. 精确地,准确地 
+ 
+30 achieve   v. 完成,达到,实现 
+ 
+31 acknowledge   v. 承认,答谢,告知收到 
+ 
+32 acoustic   a. 美声的，听觉的,音感教育,音响学的 
+ 
+33 acoustics   n. 音响学,音响效果,声学 
+ 
+34 acquire   v. 获得,取得,学到 
+ 
+35 acronym   n. 缩写字,字头语 
+ 
+36 across   ad. 横过; prep. 穿过,横过 
+ 
+37 action   n. 行动,情节,表现,战斗 
+ 
+38 activate   v. 刺激,使...活动,创设 
+ 
+39 activated   激活的 
+ 
+40 activation   n. 激活 
+ 
+41 active   a. 积极的,主动的 
+ 
+42 activity   n. 活动 
+ 
+43 actual   a. 实际的,真实的 
+ 
+44 actuator   执行器 
+ 
+45 adaptability   n. 适应性 
+ 
+46 adapter   适配器 
+ 
+47 adaptive   a. 适合的,适应的,能适应的 
+ 
+48 add   v. 增加 
+ 
+49 addend   加数 
+ 
+50 addition   n. 增加,附加物,加,加法 
+ 
+51 additional   a. 附加的,另外的 
+ 
+52 additionally   ad. 另外(加之,又) 
+ 
+53 additive   n. 附加物(加法); a. 加添的 
+ 
+54 add-on  追加 
+ 
+55 address   n. 住址; n. 致词,讲话; vt. 发表演说，写地址，（图书、文章等）讨论（某主题） 
+ 
+56 addressable   可寻址的 
+ 
+57 addressee   被访地址 
+ 
+58 addressing   寻址,访问 
+ 
+59 adequate   a. 足够的,充足的,适当的,能胜任的 
+ 
+60 adjacency   邻近,邻接 
+ 
+61 adjacent   a. 毗连的,邻近的,接近的 
+ 
+62 adjust   v. 调整,使...适于 
+ 
+63 adjustment   n. 调整 
+ 
+64 administration   n. 行政,管理,中央政府 
+ 
+65 administrative   a. 行政的,管理的 
+ 
+66 administrator   n. 管理人,行政官 
+ 
+67 adobe   n. 泥砖,土坯; 美国Adobe公司 
+ 
+68 advance   n. 前进,进步,预支; v. 前进,增加,上涨 
+ 
+69 advanced   a. 高级的,先进的 
+ 
+70 affect   v. 影响,作用,感动 
+ 
+71 affected   vbl. 影响 
+ 
+72 again   ad. 又,再 
+ 
+73 agent   n. 代理人,代理商,特工人员 
+ 
+74 aggregate   n. 合计,总计,集合体; a. 合计的,集合的,聚合的; v. 聚集,集合,合计 
+ 
+75 aid   n. 帮助,有帮助的事物; v. 援助,帮助; abbr.=Agency for International Development 国际开发署[美] 
+ 
+76 airflow   气流 
+ 
+77 aisle   n. (席位间的)通道 
+ 
+78 alarm   n. 警报,惊慌,警告,报警器; v. 使...惊慌,警告 
+ 
+79 alert   a. 警觉的,灵敏的,留心的 
+ 
+80 algebraic   代数的 
+ 
+81 algorithm   算法 
+ 
+82 alias   n. 别名,化名; ad. 别名,化名 
+ 
+83 align   v. 排列,调整,定中心,校直,使结盟, 使成一行 
+ 
+84 aligned  对齐的，均衡的 
+ 
+85 alignment   n. 调整(成直线,准线,定向,直线性,结盟) 
+ 
+86 all   a. 所有的,全部的; ad. 全部,全然; int. 全部,全体,一切 
+ 
+87 allocate   v. 分派,分配,分配额 
+ 
+88 allocation   n. 配置,分配,安置 
+ 
+89 allocator   分配算符 
+ 
+90 allow   v. 允许,准许; vi. (for)考虑到; vt. 允许 
+ 
+91 allowable   容许的,承认的 
+ 
+92 allowed  容许的 
+ 
+93 all-purpose  通用的 
+ 
+94 ally   n. 盟友,同盟国; v. 联盟,联合,与...有关系 
+ 
+95 alpha   n. 希腊字母的第一个字母,最初,开端 
+ 
+96 alphabet   n. 字母表 
+ 
+97 alphabetic   a. 照字母次序的,字母的 
+ 
+98 alphabetical   a. 按字母表顺序的 
+ 
+99 alphabetically   按字母表顺序地 
+ 
+100 alphanumeric   字母数字的 
+101 alteration  n. 改变,变更 
+ 
+102 alternate   a. 交替的,轮流的; v. 交替,轮流 
+ 
+103 alternate key  替代关键字，备用关键字 
+ 
+104 alternately  ad. 交替地,隔一个地 
+ 
+105 alternative  a. 两者择一的; n. 替换物,取舍; v. 两者取一 
+ 
+106 alternative test  交错检验 
+ 
+107 always  ad. 总是 
+ 
+108 always warn  随时警告 
+ 
+109 amount  n. 数量,总额; v. 总计,等于 
+ 
+110 ampere  n. 安培 
+ 
+111 ampersand  ＆(=and)号 
+ 
+112 amplification  n. 扩大, 扩充，膨胀; n. 详述, 引伸，推广; n. 增幅, 放大(率), 放大倍数[系数] 
+ 
+113 amplifier  n. 放大器,扩音机 
+ 
+114 amplify  v. 扩大,详述,使...增幅 
+ 
+115 amplitude  n. 广阔,充足,增幅; n. 振幅、波幅（物理） 
+ 
+116 analog  n. 类似(模拟量) 
+ 
+117 analogue  n. 类似物,模拟 
+ 
+118 analyser  分析程序，分析者 
+ 
+119 analysis  n. 分析,解析 
+ 
+120 analyst  n. 分析家,分解者,分析者 
+ 
+121 analyze  v. 分析,分解; vt. 分析 
+ 
+122 analyzer  分析机 
+ 
+123 anamorphic lens  歪象校正透镜 
+ 
+124 and   conj. 和; 逻辑与 
+ 
+125 angle  n. 角度; n. 盎格鲁人 
+ 
+126 animation  n. 活泼,生气,卡通制作 
+ 
+127 annotate  v. 注解 
+ 
+128 annotation  n. 注解,评注 
+ 
+129 announce  v. 发表,广播（电台节目）,通告,正式宣布; vi. 当电台的播音员; vt. 宣布,宣告 
+ 
+130 announciator  报警器，信号器 
+ 
+131 anode  n. 阳极 
+ 
+132 ANSI  美国国家标准学会 
+ 
+133 answer  n. 答案,回答; v. 回答,符合 
+ 
+134 answer back  应答 
+ 
+135 answer mode  应答方式 
+ 
+136 anti-aliasing  反走样，去假信号 
+ 
+137 anticipate  v. 预期,期待;占....之先,抢....之先;提前使用 
+ 
+138 anti-virus program  反病毒程序 
+ 
+139 aperture  n. 孔,穴,缝隙 
+ 
+140 API  应用编程接口 
+ 
+141 apostrophe  n. 省略符号,顿呼法 
+ 
+142 appear  v. 出现,显得 
+ 
+143 appearance  n. 外表,出现,出场 
+ 
+144 append  v. 附加,添加,悬挂; n.[计算机] DOS 命令建立数据文件的子目录搜索路经 
+ 
+145 appendix  n. 附录 
+ 
+146 apple  n. 苹果 
+ 
+147 applet  小应用程序 
+ 
+148 appliance computer  家用计算机 
+ 
+149 applicable  a. 合适的,适用的 
+ 
+150 application  n. 申请; n. 应用软件程序 
+ 
+151 apply  v. 应用,申请,涂 
+ 
+152 apportion  v. 分配,分摊,分派 
+ 
+153 appropriate  a. 适当的; v. 拨出（款项） 
+ 
+154 appropriately  ad.适当地 
+ 
+155 apron  n. 围裙 
+ 
+156 Arabic  n. 阿拉伯语; a. 阿拉伯语的,阿拉伯人的,阿拉伯式的 
+ 
+157 arbitrary  a. 任意的,恣意的,专制的 
+ 
+158 arbitrary value  任意值 
+ 
+159 arcade game  走廊游戏机 
+ 
+160 architecture  n. 建筑学, 建筑业; [总称]建筑物, 建筑风格 
+ 
+161 archive  n. 档案文件; n.（计算机压缩类软件的）压缩包; vt. 归档(编档保存) 
+ 
+162 archive attribute  存档属性 
+ 
+163 archive file  归档文件 
+ 
+164 area  n. 地区,区域,面积,方面 
+ 
+165 area chart  分区图，对比图 
+ 
+166 area fill  区域填充 
+ 
+167 area graph  区域图 
+ 
+168 area name  域名 
+ 
+169 argument  n. 辩论,争论,论据,理由 
+ 
+170 arithmetic  n. 算术 
+ 
+171 arrange  v. 安排,整理,排列; n. 安排,排列 
+ 
+172 arrange icons  重排图标 
+ 
+173 arrange windows  重排窗口 
+ 
+174 arrangement  n. 安排 
+ 
+175 array  n. 数组,排列,陈列,大批,一系列; v. 排列,布署,打扮 
+ 
+176 articulation  n. 关节,接合,清晰发音 
+ 
+177 artifacts  n. 史前古器物 
+ 
+178 artificial  a. 人造的,虚伪的,武断的 
+ 
+179 artwork  n. 艺术品,美术品 
+ 
+180 ascend  v. 上升,攀登 
+ 
+181 ascending  上升的,升序 
+ 
+182 ascending order  升序 
+ 
+183 ascending sort  升序排序 
+ 
+184 ASCII  美国信息交换标准码 
+ 
+185 aspect ratio  高宽比，纵横比 
+ 
+186 assemble  v. 聚集,集合,装配 
+ 
+187 assembled  安装的,组给的 
+ 
+188 assembler  汇编程序 
+ 
+189 assembly  n. 集合,集会,装配 
+ 
+190 assertion  n. 断言,主张 
+ 
+191 assets  n.财产；资产 
+ 
+192 assign  v. 分配,指派; n.[计算机] DOS 命令将驱动器符重指向第二个驱动器符 
+ 
+193 assigned  adj．指定的 
+ 
+194 assignment  n. 分配,功课,任务,被指定的(课外)作业;(分派的)任务,委派 
+ 
+195 assist  n. 帮助,协助; v. 协助 
+ 
+196 assistance  n. 帮助,援助 
+ 
+197 associate  n. 同伴,伙伴; v. 联合,联想; a. 副的 
+ 
+198 association  n. 联合,结合,交往,协会,社团 
+ 
+199 associative  a. 联合的(相关的,协会的) 
+ 
+200 assortment  n. 分类,配合,各色俱备之物 
+201 assumed  假定的 
+ 
+202 asterisk  n. 星号(*) 
+ 
+203 asynchronous  adj. 异步的 
+ 
+204 AT bus  AT总线 
+ 
+205 AT-keyboard  AT键盘 
+ 
+206 attach  v. 附上,系上,贴上,使依恋 
+ 
+207 attached  附加的 
+ 
+208 attachment  n. 附件,附著,附属物,依恋 
+ 
+209 attack  n. 攻击,评击; v. 攻击,动手,疾病发作 
+ 
+210 attention  n. 注意,(口令)立正! 
+ 
+211 attenuation  衰减 
+ 
+212 attenuator  衰减器 
+ 
+213 attractive  a. 有吸引力的,引起注意的 
+ 
+214 attribute  n. 属性,特征; v. 归于,属于 
+ 
+215 audio  a. 成音频率的,声音的 
+ 
+216 audiovisual  音像的,视听的 
+ 
+217 auditing  n. 审计,查账,决算 
+ 
+218 augend  被加数 
+ 
+219 augment  v. 增加,增大 
+ 
+220 authentication  n. 证明,鉴定 
+ 
+221 authenticator  认证器 
+ 
+222 author  n. 作者; vt. 创造,写作 
+ 
+223 author level  作者级 
+ 
+224 authoring  创作 
+ 
+225 authority  n. 权力,权威,当局 
+ 
+226 authorize  v. 授权与,批准,委托代替 
+ 
+227 authorized  a. 经认可的,审定的,经授权的 
+ 
+228 auto  n. 自动; (=automobile)汽车 
+ 
+229 autodial  自动拨号 
+ 
+230 autoformat  自动套用格式 
+ 
+231 autoindex  自动变址，自动索引 
+ 
+232 automata  自动操作,自动控制 
+ 
+233 automatic  n. 自动的机器; a. 自动的,无意识的 
+ 
+234 automatically  a. 不经思索的; ad. 自动地 
+ 
+235 automation  n. 自动化 
+ 
+236 automaton  n. 自动机器,机器人 
+ 
+237 auxiliary  n. 帮助者,辅助物,助动词; a. 附加的,辅助的 
+ 
+238 availability  n. 有效,有用,有益 
+ 
+239 available  a. 可用的,有效的 
+ 
+240 average  n. 平均,平均数; a. 一般的,通常的,平均的; v. 平均 
+ 
+241 avoid  v. 避免; vt. 避免,逃避 
+ 
+242 axis  n. 轴 
+ 
+243 babble  v. 呀呀学语,喋喋不休 
+ 
+244 back  a. 后面的; v. 后退; ad. 向后地; n.后背,背脊 
+ 
+245 backbone  n. 脊椎,志气 
+ 
+246 backdrop  n. 背景幕,背景 
+ 
+247 background  n. 背景 
+ 
+248 backlight  背后照明灯 
+ 
+249 backlog  n. 积累(积压待办事项); vi. 把...积压起来 
+ 
+250 backplane  底板 
+ 
+251 backspace  退格 
+ 
+252 backspace key  退格键 
+ 
+253 backtrack  回溯 
+ 
+254 backup  n. 后援; v. 把...做备份; n.[计算机] DOS命令 : 备份, 将文件从一个磁盘复制到另一个磁盘上 
+ 
+255 backward  a. 向后的; ad. 向后 
+ 
+256 badge  n. 徽章 
+ 
+257 balance  n. 天平,平衡,差额; v. 平衡 
+ 
+258 band  n. 带子,队,乐队; v. 联合,结合 
+ 
+259 band-pass filter  带通滤波器 
+ 
+260 bandwidth  n. 频带宽度(通带宽度) 
+ 
+261 bank  n. 银行,堤,岸 
+ 
+262 bar  n. 条,棒,横木,酒吧; v. 禁止,阻挠 
+ 
+263 bar chart  条线图(一种统计表) 
+ 
+264 bar code  条形码 
+ 
+265 bar graph  条形图 
+ 
+266 bar-code reader  条码阅读器 
+ 
+267 bare computer  裸机，硬件计算机 
+ 
+268 barrel  n. 枪管,炮管,桶; vi. 快速移动; vt. 把...装桶 
+ 
+269 base  n. 基底,垒; v. 以...作基础 
+ 
+270 base 2  2进制 
+ 
+271 base address  基地址 
+ 
+272 base font  基本字体 
+ 
+273 base hardware  基本硬件 
+ 
+274 baseband  基带 
+ 
+275 baseline  基线 
+ 
+276 basic  n. 基本,要素; a. 基本的,碱性的; [计] BASIC语言, 基本高级语言 
+ 
+277 basis  n. 基础,根据 
+ 
+278 bass  n. 低音 
+ 
+279 BAT file extension  BAT文件扩展名 
+ 
+280 batch  n. 一次所烘的面包,一次所制之量,一组; n.批, 成批, 分批 
+ 
+281 batch file  批处理文件 
+ 
+282 batch processing  批处理 
+ 
+283 battery  n. 电池 
+ 
+284 baud  波特 
+ 
+285 Baud rate  波特率 
+ 
+286 bay  n. 海湾 
+ 
+287 beacon  n. 烟火,灯塔 
+ 
+288 beam  n. 光线,电波,横梁,容光焕发; v. 微笑,闪亮 
+ 
+289 beam deflection  射束偏转 
+ 
+290 beep  n. 哔哔声 
+ 
+291 beeper  n. 导弹遥控员(雷达遥控装置) 
+ 
+292 begin  开始 
+ 
+293 beginner  n. 初学者 
+ 
+294 bel  贝尔 
+ 
+295 bell  n. 钟,铃 
+ 
+296 bell character  响铃字符 
+ 
+297 below  ad. 在下面,向下; prep.&a. 在...下面 
+ 
+298 benchmark  n. 水准点(基准点,标准检查程序,测定基准点) 
+ 
+299 bespoke software  定做软件 
+ 
+300 best fit  最佳配合 
+301 bias  n. 偏见 
+ 
+302 bibliography  n. (有关某一专题的)书目,参考书目 
+ 
+303 bid  n. 出价; v. 命令,吩咐,投标 
+ 
+304 bidder  n. 出价人,投标人 
+ 
+305 bill  比尔(男名); n. 帐单,钞票,票据,清单,议案,法案,广告,鸟嘴,喙; vt.开帐单,用海报宣传,把...列成表 
+ 
+306 billing  记帐,编制帐单 
+ 
+307 binary  a. 二进位的,二元的 
+ 
+308 binaural  双声道的 
+ 
+309 bind  v. 绑,约束,装订 
+ 
+310 binder  n. 缚者,用以绑缚之物,夹器 
+ 
+311 binding  n. 装订; vbl. 绑 
+ 
+312 bionics  n. 生体工学 
+ 
+313 bios  基本输入输出系统 
+ 
+314 bipolar  双极的 
+ 
+315 bistable  双稳态 
+ 
+316 bit  n. 一点儿,少量; n. 钻头,马嚼子,辅币; n. 位,比特(二进位制信息单位); v. 控制 
+ 
+317 bitmap  位图 
+ 
+318 black box  黑盒 
+ 
+319 black matrix  黑阵 
+ 
+320 blank  a. 空白的; n. 空白(处); vi. 消失; vt. 使模糊不清 
+ 
+321 blanket  n. 毛毯 
+ 
+322 blanking  空白 
+ 
+323 blast  n. 爆破,冲击波,一阵,汽笛声; v. 爆破,炸掉 
+ 
+324 blink  v. 眨眼 
+ 
+325 blinking  a. (英俚)该死的,讨厌的,十足的 
+ 
+326 block  n. 街区,木块,石块; v. 阻塞 
+ 
+327 blocking  模块化 
+ 
+328 blower  风扇 
+ 
+329 board  n. 木板,甲板,董事会; vi. 登(飞机、车、船等) 
+ 
+330 body  n. 身体,主体,正文; ad. 亲身地 
+ 
+331 bold  a. 大胆的,粗体的,醒目的 
+ 
+332 bold italic  粗斜体 
+ 
+333 boldface  黑体字 
+ 
+334 book  n. 书; v. 登记,预订 
+ 
+335 bookmark  n. 书签 
+ 
+336 Boolean  布尔 
+ 
+337 boot  n. 靴子,[英]汽车行李箱; vt. 踢 
+ 
+338 bootable  可引导的,可启动的 
+ 
+339 bootable disk  引导盘 
+ 
+340 booting  启动 
+ 
+341 bootstrap  引导指令(程序),辅助程序 
+ 
+342 border  n. 边缘; v. 作...之疆界,加边 
+ 
+343 borrow  v. 借,借入,借用 
+ 
+344 bottleneck  n. 瓶颈 
+ 
+345 bottom  n. 底部;屁股，臀部; a. 底部的 
+ 
+346 bottom-up  自底向上 
+ 
+347 bounce  n. 跳,反跃,弹力; v. 弹跳,使...跳 
+ 
+348 bound  n. 跳跃,界限,范围; a. 受约束的,装订的,有义务的; v. 跳跃 
+ 
+349 boundary  n. 分界线,边界 
+ 
+350 bounding box  边框 
+ 
+351 BPI  每英寸位数 
+ 
+352 bps  每秒传送位数，比特/秒 
+ 
+353 brace  n. 支柱,曲柄; v. 紧缚,打起精神 
+ 
+354 bracketed  加括号的 
+ 
+355 brackets  括号，大括号 
+ 
+356 branch  n. 分枝,树枝; v. 分枝; vi. 分支 
+ 
+357 branching  分支（的） 
+ 
+358 break  n. 休息,中断,破裂; v. 打破,弄破,弄坏 
+ 
+359 breakpoint  断点 
+ 
+360 breve  短音符号 
+ 
+361 bridge  n. 桥; v. 渡过,架桥 
+ 
+362 bridging  桥接的 
+ 
+363 bright  a. 明亮的,阳光的; ad. 亮 
+ 
+364 brightness  n. 光亮,明亮,聪明 
+ 
+365 broadband  宽频带,宽带 
+ 
+366 broadcast  n. 广播,广播节目; a. 广播的; v. 广播 
+ 
+367 browse  v. 浏览,吃草 
+ 
+368 browser  n. 吃嫩叶的动物,浏览书本的人 
+ 
+369 brush  n. 刷子,画笔; v. 刷,画 
+ 
+370 bubble  n. 泡沫 
+ 
+371 bucket  n. 水桶 
+ 
+372 buffer  n. 缓冲,缓冲区 
+ 
+373 buffering  中间转换(寄存),缓冲记忆装置 
+ 
+374 bug  n.小虫, 臭虫; v.装置窃听器, 打扰 
+ 
+375 build  v. 建立,建筑 
+ 
+376 bulb  n. 电灯泡,球状物 
+ 
+377 bulk  n. 大部分,大多数,大块,大批,容积,体积; vi. 越来越大; vt. (使)更大 
+ 
+378 bulk storage  大容量存储器 
+ 
+379 bullet  n. 子弹 
+ 
+380 bumper  n. 缓冲挡,满杯,丰收 
+ 
+381 bundle  n. 捆,束 
+ 
+382 bureau  n. 局,办公处 
+ 
+383 burst  n. 破裂,阵,爆发; v. 爆裂,突发 
+ 
+384 bus  n. 公共汽车 
+ 
+385 bust  n. 半身像,胸部,萧条,破产,不景气 
+ 
+386 busy  a. 忙的,繁忙的; v. 使忙于 
+ 
+387 button  n. 钮扣,按钮; v. 扣住 
+ 
+388 buyer  n. 买主,买方 
+ 
+389 buzzer  n. 翁翁作声的东西,蜂音器,信号手 
+ 
+390 bypass  v. 绕开, 忽视; n. 支路，旁道 
+ 
+391 byte  字节,8位元组 
+ 
+392 cabinet  n. 橱柜,内阁 
+ 
+393 cable  n. 电缆,海底电报; v. 打海底电报 
+ 
+394 cabling  布线 
+ 
+395 cache  n. 隐藏所,隐藏的粮食或物资,贮藏物; v. 隐藏 
+ 
+396 caddy  盒,箱 
+ 
+397 cage  n. 笼子; v. 关入笼中; vt. 把...关入笼内 
+ 
+398 calculate  v. 计算,考虑,计划 
+ 
+399 calculation  n. 计算 
+ 
+400 calendar  n. 日历,月历,日程表 
+401 calibrate  v. 测定口径,查看刻度,划刻度 校正 
+ 
+402 call  n. 呼叫,访问,打电话; v. 呼叫,访问,打电话; n.[计算机] DOS命令 : 从当前运行的批文件中引用第二个批文件,然后返回到原来的批文件 
+ 
+403 callback  回叫(回答)信号 
+ 
+404 caller  n. 打电话的人 
+ 
+405 calling  n. 职业,行业,邀请 召集 
+ 
+406 callout  插图的编号 
+ 
+407 cam  计算机辅助制造 
+ 
+408 camcorder  便携式摄像机,摄录机 
+ 
+409 camera  n. 照相机 
+ 
+410 cancel  n. 取消,撤消; v. 取消,删去 
+ 
+411 canvas  n. 帆布 
+ 
+412 capability  n. 能力,才能,性能,容量 
+ 
+413 capable  a. 有能力的 
+ 
+414 capacitor  n. 电容器 
+ 
+415 capacity  n. 能力,容量,容积 
+ 
+416 capital  n. 首都,首府,大写字母,资产; a. 首都的,重要的 
+ 
+417 capitalized  大写的 
+ 
+418 capstan  主动轮 
+ 
+419 caption  n. 说明,字幕,标题; v. 加上标题,加上说明 
+ 
+420 capture  n. 抓取,战利品,捕获之物; v. 抓取,获得,迷住 
+ 
+421 card  n. 卡片 
+ 
+422 caret  n. 脱字符号,( ^ 文章中插字使用) 
+ 
+423 carousel  n, 旋转木马 
+ 
+424 carriage  n. 四轮马车,车厢 
+ 
+425 carry  n. 进位,超位; v. 携带,支持,意味,搬运,拿 
+ 
+426 carry bit  进位位 
+ 
+427 carry flag  进位标志 
+ 
+428 cartridge  n. 弹药筒,弹药,一卷软片; 墨水筒，笔芯 
+ 
+429 cascade  n. 小瀑布; v. 瀑布似地落下; vi. 像瀑布般冲下或倾泻 
+ 
+430 cascading menu  层叠式菜单 
+ 
+431 cascading windows  层叠窗口 
+ 
+432 case  n. 情形,情况,箱,案例 
+ 
+433 case sensitive  区分大小写 
+ 
+434 cash  n. 现金; v. 兑现,付现款 
+ 
+435 cassette  n. 盒式录音带 
+ 
+436 cast  n. 演员阵容,投掷; v. 投,掷,抛 
+ 
+437 catalog  n. 目录,型录,大学概况手册 
+ 
+438 catalogue  n. 目录,总目; v. 编入目录 
+ 
+439 catch  n. 捕捉,陷阱,捕获物; v. 抓住；赶上,了解,感染 
+ 
+440 category  n. 种类,类别 
+ 
+441 catena  系列 
+ 
+442 cation  正离子,阳离子 
+ 
+443 cause  vt.引起; n.原因 
+ 
+444 caution  n. 小心,慎重,警示; v. 警告 
+ 
+445 CD caddy  CD盒 
+ 
+446 CD-R  可擦写光盘 
+ 
+447 CD-ROM  只读存储光盘; n. (只读)光盘驱动器 
+ 
+448 CD-ROM player  CD-ROM播放器 
+ 
+449 CD-WO  一次写光盘 
+ 
+450 cedilla  变音符 
+ 
+451 cel  动画序列中的单帧 
+ 
+452 cell  n. 细胞,电池,单人牢房,蜂房 
+ 
+453 Celsius  a. 摄氏的 
+ 
+454 center  n. 中心,中央; v. 集中; vi. 居中; vt. 使集中 
+ 
+455 centering   定中心,置于中心 
+ 
+456 centimeter  n. 厘米 
+ 
+457 central  a. 中心的,中央的 
+ 
+458 century  n. 世纪 
+ 
+459 certain  a. 一定的; pron. 某几个,某些; 肯定的,无疑的,必然发生的 
+ 
+460 certainty  n. 确定,确实的事情 
+ 
+461 certification  n. 证明, 保证，鉴定 
+ 
+462 C-format  C格式 
+ 
+463 CGA  color graphics adapter彩色图形适配器 
+ 
+464 chain  n. 链,连锁,束缚; v. 用铁练锁住,束缚,囚禁 
+ 
+465 chained  链接的 
+ 
+466 chamber  n. 室,房间,会所,枪膛; v. 放在枪膛内,关在室内 
+ 
+467 change  n. 变化,零钱; v. 改变 
+ 
+468 channel  n. 通道,频道,海峡; v. 引导,开导,形成河道 
+ 
+469 chapter  n. 章,回,篇 
+ 
+470 char  n. 木炭(散工,茶,字符); vt 烧成炭(做散工) 
+ 
+471 character  n. 个性,字符,人物 
+ 
+472 characteristic  a. 特有的,典型的; n. 特性,特征,特色 
+ 
+473 charge  n. 电荷,指控,费用; v. 控诉,加罪于,要价,赊帐,充电,管理 
+ 
+474 chart  n. 图表; v. 制成图表 
+ 
+475 chassis  n. 底盘 
+ 
+476 checker  n. 检验器(检查员,方格); vt 制成方格式(交错) 
+ 
+477 checkout  n. 检查(调整,验算,检查输出结果,工时扣除) 
+ 
+478 checkpoint  n. 检查站 
+ 
+479 child  n. 小孩 
+ 
+480 Chinese  a. 中国的; n. 汉语,中国人 
+ 
+481 chip  n. 薄片,芯片; v. 削,切,削成碎片 
+ 
+482 choice  a. 上等的,精选的; n. 选择 
+ 
+483 choice area  选择区 
+ 
+484 choose  v. 选择 
+ 
+485 chord  n. 弦,和音,情绪 
+ 
+486 chroma  色度,浓度 
+ 
+487 chromatic  a. 彩色的,五彩的 
+ 
+488 chrominance  [物]色度( 任意一种颜色与亮度相同的一个指定的参考色之间的差异,如彩色电视采用白色为参考色) 
+ 
+489 chunk  n. 大块,矮胖的人或物 
+ 
+490 cine film  电影胶片 
+ 
+491 cipher  n. 零,暗号; v. 计算,做算术 
+ 
+492 ciphertext  密码文本 
+ 
+493 circle  n. 圆周,社交圈,循环; v. 包围,盘旋,环绕 
+ 
+494 circuit  n. 电路,一圈,巡回 
+ 
+495 circular  a. 循环的,圆形的; n. 传单,通报 
+ 
+496 circumflex  弯曲的 
+ 
+497 circumstance  n. 环境,状况,事件 
+ 
+498 CISC  复杂指令集计算机 
+ 
+499 citation  n. 引用,引证,引用文 
+ 
+500 clamp  n. 螺丝钳,夹子; vt.夹住，固定 
+501 classify  v. 分类,归类,分等 
+ 
+502 clause  n. 分句,从句,条款,款项 
+ 
+503 clear  a. 清楚的,明确的,澄清的; v. 澄清,清除障碍,放晴 
+ 
+504 click  n. 点击,滴答声,拍答声; v. 点击,作滴答声,使...作拍答声 
+ 
+505 client  n. 顾客,委托人; n. 客户 
+ 
+506 clip  n. 夹子,别针,回形针,修剪,剪下来的东西; v. 修剪,剪报,痛打 
+ 
+507 clip-art  剪辑艺术 
+ 
+508 clipboard  n. 付有纸夹的笔记板; n. 剪贴板 
+ 
+509 clipping  n. 剪断,剪裁,剪取物; a. 第一流的,头等的,极好的 
+ 
+510 clock  n. 时钟,计时器 
+ 
+511 clockwise  a. 顺时针方向的; ad. 顺时针方向 
+ 
+512 close  n. 结束,完结; a. 靠近的,亲近的; v. 关,结束,靠近 
+ 
+513 closed  a. 关着的; a.封闭的 
+ 
+514 closely  ad. 接近地 
+ 
+515 CLS  屏幕清除的系统命令 
+ 
+516 cluster  n. 串,丛,群; v. 聚合,成串,丛生,使...聚集 
+ 
+517 coalesce  v. 合并,联合,接合 
+ 
+518 coating  涂层, 衣料 
+ 
+519 coax  v. 哄,诱骗,灵巧慢慢的做 
+ 
+520 coaxial  同轴的 
+ 
+521 coaxial cable  同轴电缆 
+ 
+522 COBOL  通用商业语言 
+ 
+523 code  n. 码,密码,法规; v. 把...编码,制成法典 
+ 
+524 coder  编码器 
+ 
+525 coding  编码 
+ 
+526 coexistence  n. 共存 
+ 
+527 cold  adj.冷的; n. 感冒; v. 冷(的) 
+ 
+528 collaboration  n. 合作,通敌 
+ 
+529 collapse  n. 崩溃,倒塌; v. 倒塌,崩溃,瓦解 
+ 
+530 collateral  a. 并行的,附随的,旁系的; n. 支亲,副保,附属担保物 
+ 
+531 collating  整理 
+ 
+532 collator  整理器,校对机 
+ 
+533 collection  n. 收藏品,收集物 
+ 
+534 collision  n. 碰撞,冲突 
+ 
+535 colon  n. 冒号; n. 结肠，直肠 
+ 
+536 color  n. 颜色,气色,风格; v. 把...涂颜色,粉饰,脸红 
+ 
+537 column  n. 柱，圆柱；柱形物,专栏; [计算机] 列 
+ 
+538 combination  n. 结合,联合 
+ 
+539 combine  n. 集团,联合收割机; v. 化合,结合,联合; vi. 结合,联合; vt. 使结合,使联合 
+ 
+540 combo box  组合框 
+ 
+541 comma  n. 逗号 
+ 
+542 command  n. 命令,指挥,控制; v. 命令,指挥,支配; n.[计算机] DOS命令 : 引用辅助命令处理器 
+ 
+543 comment  注释,评论 
+ 
+544 commercial  a. 商业的; n. 商业广告 
+ 
+545 commit  v. 委托(托付),犯罪,作...事,承诺; [计算机] 委托 
+ 
+546 commitment  n. 委托,实行,承诺,保证(律）拘禁令; n. 奉献，献身 
+ 
+547 common  a. 共同的,平常的,普通的; n. 平民,普通,公地,公园 
+ 
+548 communicate  v. 沟通,传达,交流 
+ 
+549 communication  n. 沟通,交通,沟通; [计算机] 通信 
+ 
+550 compact  a. 紧凑的,紧密的,简洁的; v. 使装满,使简洁; [计算机] 紧凑的; n. 合约，条约 
+ 
+551 compaction  压缩 
+ 
+552 company  n. 公司,友伴,交际 
+ 
+553 comparand  比较数 
+ 
+554 comparator  比较器 
+ 
+555 compare  v. 比较,比喻,对照 
+ 
+556 comparison  n. 比较 
+ 
+557 compatibility  [计算机] 兼容性 
+ 
+558 compatible  a. 能共处的,可并立的,适合; [计算机] 相兼容的 
+ 
+559 compilation  n. 编译,编辑 
+ 
+560 compile  v. 编译,编辑,编纂; [计算机] 编译 
+ 
+561 compiler  编译器,编译程序 
+ 
+562 complement  n. 补足物,补语,余角; v. 补助 
+ 
+563 complete  a. 彻底的,完整的,已完成的; v. 完成,使完整 
+ 
+564 completely  ad. 完全地,十分地,全然 
+ 
+565 completion  n. 完成,完满 
+ 
+566 complex  a. 复杂的; n. 复合体 
+ 
+567 complexity  n. 复杂(性),复杂的事物 
+ 
+568 complicated  a. 复杂的,难懂的 
+ 
+569 component  n. 元件,组件,成份; a. 组成的,构成的 
+ 
+570 compose  v. 组成,写作,作曲 
+ 
+571 composing  n.组成 
+ 
+572 composite   a. 合成的,复合的; n. 合成物 
+ 
+573 compress  v. 压缩,压榨; [计算机] 压缩 
+ 
+574 compressed  a. 压缩的 
+ 
+575 compression  n. 压缩,压榨,缩小 
+ 
+576 comprise  v. 包含 
+ 
+577 computability  可算性 
+ 
+578 computation  n. 计算 
+ 
+579 computation center  计算中心 
+ 
+580 compute  计算 
+ 
+581 computer  n. 计算机 
+ 
+582 computer virus  计算机病毒 
+ 
+583 concatenate  v. 连结,连锁 
+ 
+584 concentration  n. 集中,专心,浓度 
+ 
+585 concentrator  集线器,集中器 
+ 
+586 concept  n. 概念,观念 
+ 
+587 concordance  索引 
+ 
+588 concurrent  a. 同时发生的 
+ 
+589 condense  v. 浓缩,摘要,缩短 
+ 
+590 condition  n. 情况,条件; v. 以...为条件,决定,支配,训练 
+ 
+591 conditional  a. 有条件的,假定的 
+ 
+592 conditioning  n. 调节(整理,改善,条件作用) 
+ 
+593 conductor  n. 售票员 导体 
+ 
+594 conduit  n. 导管,水管,沟渠 
+ 
+595 confidential  a. 机密的,获他人信赖的,易于信任他人的 
+ 
+596 configuration  n. 结构,布局,形态; [计算机] 配置 
+ 
+597 configure  v. 配置 
+ 
+598 confirm  v. 确定,批准,证实 
+ 
+599 confirmation  n. 确认 
+ 
+600 conflict  n. 冲突,矛盾,争执; v. 争执,撞斗,冲突; [计算机] 冲突 
+601 conform  v. 使一致,遵守,使顺从 
+ 
+602 confuse  v. 混乱,狼狈,困惑 
+ 
+603 congestion  n. 混杂,拥挤,过剩; [计算机] 拥挤 
+ 
+604 conjunction  n. 连接词,连合,关连 
+ 
+605 connect  v. 连接 
+ 
+606 connected  v. 连接; vbl. 连接 
+ 
+607 connection  n. 联系,关系,连接 
+ 
+608 connective  a. 连接著,连接的; n. 连接物,连接词 
+ 
+609 connector  连接头 
+ 
+610 consent  n. 同意,许可; v. 同意,承诺 
+ 
+611 consequently  ad. 所以,因此 
+ 
+612 consider  v. 考虑,思考,认为 
+ 
+613 consideration  n. 考虑,体贴 
+ 
+614 considered  考虑过的,被尊重的 
+ 
+615 consist  v. 组成,存在,一致 
+ 
+616 consistency  n. 稠度(一致性,相容性) 
+ 
+617 consistent  a. 始终如一的,一致的,坚持的 
+ 
+618 console  v. 安慰,慰藉; n. 控制台,操纵台 
+ 
+619 consolidate  v. 巩固,联合,统一; [计算机] 使固定 
+ 
+620 constant  a. 经常的,不变的; n. 常数,恒量 
+ 
+621 constantly  ad. 不断地,经常地 
+ 
+622 constrain  v. 强迫,勉强,驱使 
+ 
+623 constraint  约束, 强制,约束条件; [计算机] 限制; 对感情的压抑 
+ 
+624 constructing  构造 
+ 
+625 constructor  构造器,构造函数 
+ 
+626 consume  v. 消耗,消费,饮食;毁灭；消磨；枯萎 
+ 
+627 contact  接触,联系 
+ 
+628 contain  v. 包含,容纳,容忍 
+ 
+629 container  n. 容器,集装箱 
+ 
+630 containment  容积,可容度,控制 
+ 
+631 content  n. 内容,目录,含量; a. 满足的,满意的,意义的; v. 使...满足,使...安心 
+ 
+632 contention  n. 争论,争辩,所持的论点; [计算机] 线路争夺 
+ 
+633 context  n. 上下文; n. 环境,背景 
+ 
+634 contextual  a. 文脉上的,以前后关系 
+ 
+635 contiguous  a. 邻近的,接近的 
+ 
+636 continue  v. 继续,连续 
+ 
+637 continued  a. 继续的, 延续的 
+ 
+638 continuous  a. 连续的,继续的,连棉不断的 
+ 
+639 contouring  轮廓线，等高线 
+ 
+640 contractor  n. 立契约的人,承包商 
+ 
+641 contrast  n. 差别,对比,对照物; v. 对比,成对照; [计算机] 反差 
+ 
+642 control  v.&n. 克制,控制 
+ 
+643 controllability  可控制性，控制能力 
+ 
+644 controlled  受控制的,受约束的 
+ 
+645 controller  n. 控制器,管理者,主计员 
+ 
+646 convenience  n. 便利,方便 
+ 
+647 convenient  a. 方便的 
+ 
+648 convention  n. 大会,协定,惯例; [计算机] 约定 
+ 
+649 conventional  a. 普通的,常见的,习惯的,常规的 
+ 
+650 conventional memory  常规内存 
+ 
+651 converged  收敛的，聚合的 
+ 
+652 convergence  会聚,聚焦 
+ 
+653 conversation  n. 会话,谈话 
+ 
+654 conversational  a. 会话的,对话的,健谈的 
+ 
+655 conversion  n. 转变,改变信仰,换位 
+ 
+656 convert  v. 使转变,使...改变信仰,倒置; n. 皈依者,改宗者 
+ 
+657 converted  转换的,修改的 
+ 
+658 converter  转换器 
+ 
+659 coordinate  n. 同等的人物,同位格; a. 同等的,等位的; v. 协调,整合,综合; [计算机] 坐标 
+ 
+660 coordinator  n. 协调者,同等的人或物; [计算机] 协调程序 
+ 
+661 coprocessor  协处理器 
+ 
+662 copy  n. 副本,幕仿,一册; v. 复印,抄袭; n.[计算机] DOS命令 : 复制或组合文件,拷贝 
+ 
+663 copy file  复制文件 
+ 
+664 copyright  a. 版权(的); n. 版权,著作权 
+ 
+665 Copyright Act  版权法案 
+ 
+666 cord  n. 绳索,束缚 
+ 
+667 core  n. 果心,核心,要点; vt. 挖去(水果的)果心; =Congress of Racial Equality 争取种族平等大会 
+ 
+668 corner  n. 角落,转角,窘境; v. 将…逼入困境,使...陷入绝境,垄断; [计算机] 角点 
+ 
+669 corona  n. 电晕(冠状物,日冕,飞檐的上部) 
+ 
+670 corporate video  闭路影视 
+ 
+671 correct  a. 正确的; v. 改正,纠正; vt. 改正 
+ 
+672 correction  n. 订正,改正,改正的地方 
+ 
+673 correctly  ad. 正确地 
+ 
+674 corrector  校正程序 
+ 
+675 correlator  相关因子，相关器 
+ 
+676 corresponding  a. 符合的,一致的,相同的,相应的,相当的 
+ 
+677 corrupt  a. 腐败的,贪污的,败德的; v. 使...腐烂,使...恶化 
+ 
+678 corrupted  毁坏的 
+ 
+679 cosine  余弦 
+ 
+680 cost  n. 代价,价值,费用; v. 花费,值,需要; [计算机] 费用 
+ 
+681 costing  n. 成本计算,生产费 
+ 
+682 count  v. 计算,视为,依赖; n. 计数 
+ 
+683 counter  n. 计算器,计算者,柜台; [计算机] 计数器; a. 相反的; ad. 与…相反地; vt. 反对,反击; vi. 反对,反击 
+ 
+684 counterclockwise  反时针方向(的) 
+ 
+685 country  a. 国家(的),农村(的); n. 国家 
+ 
+686 couple  n. 对,夫妇,数个; v. 加倍,成双,连结 
+ 
+687 coupler  耦合器 
+ 
+688 course  n. 课程,讲座,过程,路线,一道(菜) 
+ 
+689 courseware  课件 
+ 
+690 cover  n. 封面,盖子,表面; v. 覆盖,涉及,包含 
+ 
+691 covering  n. 覆盖物,遮避物; a. 掩护的,掩盖的 
+ 
+692 CPU  n.[计算机]中央处理器 
+ 
+693 crank  n. 曲柄; v.用曲柄启动或转动 
+ 
+694 crash  n. 轰隆声,猛撞,崩溃,破产,垮台; v. 撞碎,猛使...破碎,迫降 
+ 
+695 craze  n. 狂热,大流行; v. 发狂,开裂 
+ 
+696 create  vt. 创造,造成 
+ 
+697 creation  n. 创造,创作 
+ 
+698 creator  [计算机] 创建者 
+ 
+699 credential  n. 国书,凭据,印信 
+ 
+700 credit  n. 信用,荣誉,贷款,学分; v. 归功于,赞颂,信任 
+701 criteria  n. 标准 
+ 
+702 criterion  n. 标准,准则 
+ 
+703 critical  a. 批评的,决定性的,危险的,挑剔的; a. 临界的 
+ 
+704 critical value  临界值 
+ 
+705 crop  n. 农作物,产量,平头; v. 收割,修剪,种植 
+ 
+706 crop marks  剪切记号 
+ 
+707 cross  n. 十字架,十字架形物件,交叉路; a. 生气的,交叉的,相反的; v. 交叉,横过,越过 
+ 
+708 cross cursor  十字光标 
+ 
+710 crowding  加密，加浓 
+ 
+711 cryogenics  低温学 
+ 
+712 cryptographic  用密码写的 
+ 
+713 cryptography  密码术,密码系统 
+ 
+714 crystal  a. 清澈透明的,晶体的; n. 水晶 
+ 
+715 crytic  隐含的 
+ 
+716 Ctrl key  控制键 
+ 
+717 cue  n. 开端,线索,开始 
+ 
+718 culling  挑选 
+ 
+719 cumulative  a. 累积的 
+ 
+720 currency  n. 货币 
+ 
+721 current  n. (水、气、电)流,趋势; a. 流通的,现在的,最近的 
+ 
+722 cursor  光标 
+ 
+723 curtate  水平分界线,卡片横向穿孔区 
+ 
+724 cushion  n. 垫子,橡皮软垫; v. 加垫褥 
+ 
+726 customer  n. 顾客 
+ 
+727 customize  [计算机] 用户化 
+ 
+728 cut  n. 切口,割伤,降低; v. 切割,减少,刺痛; vbl. 切割,减少,刺痛; [计算机] 剪掉 
+ 
+729 cutoff  剪切掉 
+ 
+730 cutout  n. 挖剪细工,挖剪图画,删除部份 
+ 
+732 cybernate  计算机控制化,使电脑化 
+ 
+733 cybernation  计算机控制 
+ 
+734 cybernetics  n. 控制论 
+ 
+735 cyberspace  电脑空间 
+ 
+736 cycle  n. 循环,周期; v. 骑自行车 
+ 
+737 cycle control  循环控制 
+ 
+738 cyclic  循环的 
+ 
+739 cylinder  n. 汽缸,圆筒,圆柱体 
+ 
+740 daemon  守护进程; 如Internet中用于邮件收发的后台程序 
+ 
+741 daily  a. 每日的; ad. 每日,天天; n. 日报 
+ 
+742 daisy-chain  菊花链 
+ 
+743 damage  n. (pl.)赔偿金,损坏,毁坏; v. 损害,毁坏 
+ 
+744 damper  阻尼器,减震器,风阀 
+ 
+745 damping  阻尼 
+ 
+746 dark  a. 黑暗的; n. 黑暗,暗处 
+ 
+747 dark shading  浓阴影 
+ 
+748 dashed  虚线 
+ 
+749 dash-out  删去 
+ 
+750 DAT drive  DAT驱动器 
+ 
+751 database  n. 数据库 
+ 
+752 data-in  数据输入 
+ 
+753 date  n. 日期,约会,枣椰子; v. 约会,定日期; n.[计算机] DOS命令 : 显示或设置系统日期 
+ 
+754 datum  n. 材料,资料,已知数 
+ 
+755 day  n. 白天 
+ 
+756 db  分贝 
+ 
+757 deactivate  v. 使无效 
+ 
+758 deactivated  无效的 
+ 
+759 dead  a. 死的; ad. 完全地; n. 死者 
+ 
+760 dead halt  死停，完全停机 
+ 
+761 deadlock  n. 僵局,停顿; v. 停顿,相持不下 
+ 
+762 deal  n. 交易,协定,份量; v. (dealt,dealt[delt])处理,应付,分配 
+ 
+763 dealer  v.&n. 商人 
+ 
+764 dearly  ad.充满深清地 
+ 
+765 death  n. 死,死亡; 死神 
+ 
+766 debit  n. 借方,借; v. 记入借方; [计算机] 借方 
+ 
+767 debug  调试，驱除(某处的)害虫 排除...的故障; 消除...的误差, 改正...的缺点, 纠正...的错误; 审查 【无】调整, 调试, 调谐 寻出并拆除...内的窃听器 (用电子仪器)使(窃听器)失效 
+ 
+768 debug statement  调试语句 
+ 
+769 debugger  调试器，调试程序 
+ 
+770 debugging tool  调试工具 
+ 
+771 dec-  [词头]十(进的)，十倍的 
+ 
+772 decade  n. 十年 
+ 
+773 decay  n. 衰退,腐败; v. 衰退,腐败 
+ 
+774 deci-  [词头]十分之一 
+ 
+775 decibel  n. 分贝 
+ 
+776 decide  v. 决定,判决 
+ 
+777 decimal  a. 十进位的,小数的 
+ 
+778 decipher  v. 译解 
+ 
+779 decision  n. 决定,决心 
+ 
+780 deck  n. 甲板; v. 装饰 
+ 
+781 declaration  n. 宣布,宣言 
+ 
+782 declarative  a. 宣言的(布告的,说明的,陈述的,演说的,谴责的) 
+ 
+783 declarator  说明符 
+ 
+784 declare  v. 宣布,声明,申报 
+ 
+785 declared  承认的,公告的 
+ 
+786 decode  v. 解码,译解; [计算机] 译码 
+ 
+787 decoder  译码器 
+ 
+788 decollate  v. 斩首,杀头 
+ 
+790 decompression  还原,解压 
+ 
+791 deconcentration  分散 
+ 
+792 decrease  n. 减少,减少之量; v. 减少 
+ 
+793 decreasing  递减的 
+ 
+794 decrement  n. 渐减,减少,减少量; [计算机] 递减 
+ 
+795 decrypt  v. 译,解释 
+ 
+796 dedicate  v. 献出 
+ 
+797 dedicated  a. 专注的,献身的; a. 专用的 
+ 
+798 dedication  n. 奉献 
+ 
+799 deduction  n. 减除,扣除,减除额; n. 推论,推理,演绎 
+ 
+800 default  n. 假设值,默认(值),不履行责任,缺席; v. 默认,不履行义务,缺席,拖欠; [计算机] 缺省 
+ 
+801 defective  a. 有缺陷的,欠缺,不完全变化动词; n. 有缺陷的人,不完全变化动词 
+ 
+802 definable  可定义的,可确定的 
+ 
+803 define  vt. 定义,解释 
+ 
+804 definition  n. 定义,清晰度 
+805 deflect  v. 打歪,使偏,歪 
+ 
+806 deflection  n. 歪斜,偏,偏向 
+ 
+807 degauss  消磁 
+ 
+808 degausser  消磁器 
+ 
+809 degradation  n. 降格,堕落,退化 
+ 
+810 degrade  v. 降格 
+ 
+811 degree  n. 程度,度数,学位 
+ 
+812 delay  n. 耽搁,迟滞; v. 耽搁,延迟 
+ 
+813 delegation  n. 代表团，委派,，授权 
+ 
+814 delete  v. 删除 
+ 
+815 delete all  全部删除 
+ 
+816 deletion  n. 删除 
+ 
+817 delimit  v. 定界限,划界 
+ 
+818 delimiter  定界符,分隔符 
+ 
+819 delinquent  n. 行为不良的人,流氓; a. 怠忽的,有过失的 
+ 
+820 deliver  v. 递送,表达,释放,交付,接生 
+ 
+821 delivery  n. 递送,交付,分娩 
+ 
+822 demagnetization  去磁,退磁 
+ 
+823 demand  n. 要求,需求; v. 要求,查询 
+ 
+824 demo  n. 示威,样本唱片 
+ 
+825 demodulate  使解调,使检波 
+ 
+826 demodulator  解调器 
+ 
+827 demographic  人口统计学的; a. 人口的,人口统计的 
+ 
+828 demon  n. 魔鬼 
+ 
+829 demonstrate  v. 示范,演示,证明,示威 
+ 
+830 demonstration  n. 示范,实证 
+ 
+831 demonstration software  演示软件 
+ 
+832 demount  卸下 
+ 
+833 demultiplexer  多路解调器 
+ 
+834 denary  十进制的,十的 
+ 
+835 denote  v. 指示,表示 
+ 
+836 density  n. 密度 
+ 
+837 deny  v. 否认 
+ 
+838 department  n. 部,部门,系 
+ 
+839 depend  v. 依靠,相信,信赖 
+ 
+840 dependence  n. 依赖,依存,信赖 
+ 
+841 dependent  a. 依靠的,依赖的 
+ 
+842 dependents  从属单元格 
+ 
+843 depletion  n. 消耗,罄尽,放血 
+ 
+844 deposit  n. 存款,定金,堆积物; vt. 存放,堆积; vi. 沉淀 
+ 
+845 depress  v. 使...沮丧,压低; [计算机] 降低 
+ 
+846 depth  n. 深度 
+ 
+847 deque  双端队列 
+ 
+848 dequeue  离队，出列 
+ 
+849 derail  v. 使出轨; v. 出轨 
+ 
+850 derivation  n. 引出,诱导,来历 
+ 
+851 descendant  n. 子孙,后代 
+ 
+852 descending order  降序 
+ 
+853 describe  v. 描述 
+ 
+854 description  n. 描写,描述,说明书,作图 
+ 
+855 descriptor  描述符 
+ 
+856 descry  v. 看出,看见,察看 
+ 
+857 deselect  取消选择 
+ 
+858 design  n. 设计,图样; v. 设计,计划 
+ 
+859 design aid  设计工具 
+ 
+860 designate  v. 指定,标示 
+ 
+861 designated  指定的，特指的 
+ 
+862 designation  n. 指示,指定,指名 
+ 
+863 desirable  a. 令人想要的; [计算机] 希望的 
+ 
+864 desire  n. 愿望,欲望,情欲; v. 向往,要求,请求; vt. 渴望 
+ 
+865 desired  a. 渴望的, 想得到的 
+ 
+866 desktop  [计算机] 桌面 
+ 
+867 destination  n. 目的地,终点 
+ 
+868 destroy  v. 破坏,毁坏; [计算机] 撤消 
+ 
+869 detached  a. 超然的,分离的; v. 分离; vbl. 分离 
+ 
+870 detail   n. 细节,详情; vt.详述，详细说明 
+ 
+871 detailed  a. 详细的 
+ 
+872 detect  v. 发现; [计算机] 检测 
+ 
+873 detent  制动器 
+ 
+874 deter  v. 制止,使...断念 
+ 
+875 determinant  n. 行列式(决定因素); a. 决定性的 
+ 
+876 develop  v. 发展,发达,进步,开发,冲洗照片 
+ 
+877 developer  n. 开发者 
+ 
+878 developing  a. 发展中的 
+ 
+879 development  n. 发展,显影 
+ 
+880 development system  开发系统 
+ 
+881 development tool  开发工具 
+ 
+882 deviation  n. 偏差(偏差数) 
+ 
+883 device  n. 装置,设计,策略,设备 
+ 
+884 device driver  设备驱动程序 
+ 
+885 diacritic  发音符号的,可区别的 
+ 
+886 diacritical  可区分的 
+ 
+887 diad  双位二进制 
+ 
+888 diaeresis  分音符 
+ 
+889 diagnose  v. 诊断; vi. 判断,诊断(疾病); vt. 诊断(疾病) 
+ 
+890 diagnostic  a. 特征的,诊断的 
+ 
+891 diagnostics  诊断学 
+ 
+892 diagonal  a. 对角线的,斜的,斜纹的; n. 对角线,斜线,斜列 
+ 
+893 diagonally  斜(对)地,对角地 
+ 
+894 diagram  n. 图解,图表; v. 用图解法表示 
+ 
+895 dial  n. 刻度盘,针面,转盘; v. 拨; [计算机] 拨号 
+ 
+896 dialect  n. 方言 
+ 
+897 dialing  拨号,呼叫 
+ 
+898 dialog  n. 对话,对白 
+ 
+899 dialog box  对话框 
+ 
+900 diamond  n. 钻石 
+ 
+901 dibit  双位，二位组 
+ 
+902 dichotomizing search  二分法检索 
+ 
+903 dictionary  n. 词典,字典,辞典 
+ 
+904 differ  v. 不一致,不同 
+905 difference  n. 不同,差异 
+ 
+906 different  a. 不同的 
+ 
+907 differentiate  v. 区别,差别 
+ 
+908 differentiator  微分器 
+ 
+909 digest  消化 
+ 
+910 digit  n. 数字,位数,指头 
+ 
+911 digital  a. 数字的 
+ 
+912 digitize  vt. 数字化 
+ 
+913 dim  adj. 暗淡的, 模糊的; vt. 使暗淡, 使失去光泽; n. <美俚>笨蛋、傻子 
+ 
+915 dimension  n. 尺寸,次元,容积,维度 
+ 
+916 dimensional  a. 空间的 
+ 
+917 dimensionality  维数,度数 
+ 
+918 dimmed  暗淡的，无效的 
+ 
+919 diode  二极管 
+ 
+920 dip  蘸;下沉;倾斜;汲出;舀取;翻阅;涉猎 
+ 
+921 diphthong  连元音字,双重元音,双元音字 
+ 
+922 dipping  浸渍(法)；(可)调 
+ 
+923 DIR  (directory)列目录，显示文件列表 
+ 
+924 direct  a. 笔直的,直接的,坦白的; v. 指示,指挥,命令 
+ 
+925 direct access  直接存取 
+ 
+926 direct image  直接成像 
+ 
+927 direct memory access  直接内存访问 
+ 
+928 direction  n. 方向,指导,用法说明 
+ 
+929 direction key  方向键 
+ 
+930 directive   a. 指导的,指挥的,管理的; n. 指令; [计算机] 指令 
+ 
+931 directly   ad. 直接地(立即,完全) 
+ 
+932 director  n. 董事,经理,主管,指导者,导演 
+ 
+934 directory  n. 目录,工商名录,指南; [计算机] 目录 
+ 
+935 directory delete  目录删除 
+ 
+936 directory entry  目录项 
+ 
+937 directory listing  目录列表 
+ 
+938 disable  v. 使...失去能力 
+ 
+939 disabled  a. 残废的; n. 残疾人 
+ 
+940 disappear  v. 消失 
+ 
+941 disarm   v. 解除武装,回复平常的编制,缓和 
+ 
+942 disassemble  v. 解开,分解; [计算机] 反汇编 
+ 
+943 disc  n. 断开(折扣,发现的,发现者,鉴别器) 
+ 
+944 discard  n. 丢弃,扔掉; v. 丢弃,抛弃 
+ 
+945 discarded  放弃的，删除的 
+ 
+946 discipline  n. 训练,纪律,惩罚; v. 训练,惩罚 
+ 
+947 disconnect  v. 断开; vt. 拆开,分开 
+ 
+948 disconnection  n. 断开 
+ 
+949 discrete  a. 不连续的 离散的; [计算机] 分离 离散 
+ 
+950 discriminant  判别式 
+ 
+951 disjunction  析取,分离,分裂 
+ 
+952 disk  n. 磁盘片; [计算机] 磁盘 
+ 
+953 diskette  软盘 
+ 
+954 diskless  无盘 
+ 
+955 dismiss  v. 解散,开除 
+ 
+956 dismount  v. 使...下马,下马 
+ 
+957 dispatch  v. 派遣; [计算机] 分派 
+ 
+958 dispatcher  调度器,调度程序,分配器 
+ 
+959 dispersant  分散剂 
+ 
+960 displace  v. 移置,替换 
+ 
+961 displacement  n. 换置,转位,移动; [计算机] 位移 
+ 
+962 display  n. 显示,陈列,炫耀; v. 显示,表现,夸示 
+ 
+963 dispose  v. 处理,处置,销毁 
+ 
+964 disposition  n. 性情,处置; [计算机] 配置情况 
+ 
+965 disregard  n. 忽视; v. 忽视,不顾 
+ 
+966 dissector  析象管 
+ 
+967 dissemination  传播,宣传,传染(病毒) 
+ 
+968 dissipation  损耗 
+ 
+969 dissolve  v. 溶解,解散 
+ 
+970 distinction  n. 差别,不同,对比,区分,辨别 
+ 
+971 distinguish  v. 区别,辨别,表现突出 
+ 
+972 distort  v. 扭曲 
+ 
+973 distortion  n. 扭曲,变形,曲解 
+ 
+974 distribute  v. 分配,散布 
+ 
+975 distributed  分布的,分布式的 
+ 
+976 dithered  颤动的 
+ 
+977 dithered colour  抖动色 
+ 
+978 dithering  抖动 
+ 
+979 ditto  n. 同上,同上符号,很相似的东西; a. 同样的,前项的; ad. 与前同地 
+ 
+980 divergence  n. 分歧 
+ 
+981 diversion  n. 转向,转移 
+ 
+982 divide  v. 除,分割,划分,隔开 
+ 
+983 dividend  n. 红利,股息,彩金,被除数 
+ 
+984 divider  除法器 
+ 
+985 divisibility  可除性,可约性 
+ 
+986 division  n. 区分,分开,除法,公司,部门，师（军队里） 
+ 
+987 divisor  除数 
+ 
+988 document  n. 文件,公文; v. 记载,用文件等证明; [计算机] 文档 
+ 
+989 document delivery  文档传递 
+ 
+990 document format  文档格式 
+ 
+991 document handling  文件处理 
+ 
+992 document icon  文件图标 
+ 
+993 document name  文件名 
+ 
+994 document template  文档模板 
+ 
+995 document window  文档窗口 
+ 
+996 documentation  n. 文件 
+ 
+997 dollar sign  美元符，币符 
+ 
+998 domain  n. 领域; [计算机] 域 
+ 
+999 dominance  n. 支配(控制,统治,权威,优势) 
+ 
+1000 dominant  a. 占优势的 
+ 
+1001 DOS prompt  DOS提示符 
+ 
+1002 dot  n. 点,圆点,小孩子,小东西; v. 作小点记号,加小点于,点缀; [计算机] 点 
+ 
+1003 dot addressable  点可寻址的 
+ 
+1004 double  n. 两倍; a. 两倍的,双重的; v. 加倍的,快步走,加倍努力 
+ 
+1005 double click  双击 
+ 
+1006 double space  两倍行距 
+1007 double speed  双速 
+ 
+1008 double strike  双线 
+ 
+1009 double-click  双击 
+ 
+1010 doughnut  n. 油炸圈饼 
+ 
+1011 down  a. 向下的; ad. 向下; n. 绒毛,汗毛; prep. 沿着...而下 
+ 
+1012 down arrow  下箭头键 
+ 
+1013 download  v. 下载 
+ 
+1014 downstream  ad. 下游地; a. 下游的 
+ 
+1015 DPI  (dots per inch)每英寸点数 
+ 
+1016 draft  n. 草稿,草图,汇票; v. 起草,征兵 
+ 
+1017 drag  n. 拖,拖累; v. 拖累,拖拉,慢条斯理地走 
+ 
+1018 drag and drop  拖放 
+ 
+1019 drag image  拖拽图像 
+ 
+1020 drain  n. 下水道,排水沟,消耗; v. 耗尽,排出沟外 
+ 
+1021 dram  动态随机访问存储器 
+ 
+1022 draw  v. (drew,drawn) 拉,拖,挨近,提取,画,绘制 
+ 
+1023 draw direct  直接绘制 
+ 
+1024 drawable  可拉的 
+ 
+1025 drawing program  绘图程序 
+ 
+1026 drift  n. 漂移,漂流物,观望,漂流,吹积物,趋势; v. 漂移,漂流,吹积 
+ 
+1027 drill  n. 钻孔机,钻子,播种机; v. 训练,钻孔 
+ 
+1028 drive  n. 驾车,快车道,推进力,驱使; v. 开车,驱使,驾进力; [计算机] 驱动器; n.路，街 
+ 
+1029 drive bay  驱动器槽 
+ 
+1030 driver  n. 驾驶员,司机 
+ 
+1031 driving  n. 赶,操纵,驾驶; a. 推进的,强劲的,精力旺盛的; vbl. 骑 
+ 
+1032 drop  n. 滴,微量,落下; v. 放下,掉下 
+ 
+1033 drop in  顺便拜访 
+ 
+1034 drop out  退出,退学 
+ 
+1035 drop-down list box  下拉列表框 
+ 
+1036 drop-down menu  下拉菜单 
+ 
+1037 drum  n. 鼓,鼓声; v. 击鼓,作鼓声 
+ 
+1038 drum plotter  鼓式绘图仪 
+ 
+1039 dryer  n. 干衣机,干燥剂 
+ 
+1040 DSP  数字信号处理器 
+ 
+1041 DTP  (desktop publishing)桌面印刷 
+ 
+1042 dual  a. 双重的 
+ 
+1043 dubbing  n. 复制(皮革保护油,油液)，配音 
+ 
+1044 due  n. 应得物; a. 预定的,应付的,到期的,应有的 
+ 
+1045 dumb  a. 无言的,哑的 
+ 
+1046 dummy  n. 傀儡,假人,哑巴; a. 虚拟; [计算机] 伪的 
+ 
+1047 dummy instruction  空指令 
+ 
+1048 dump  n. 垃圾场; v. 倾卸,切断电源,倾倒 
+ 
+1049 duodecimal  十二进位,十二进制的 
+ 
+1050 dupe  n. 受骗的人,上当者; vt. 欺骗,愚弄 
+ 
+1051 duplex running  双工运行 
+ 
+1052 duplicate  n. 副本,复本,复制品; a. 复制的,二重的; v. 复制; [计算机] 复制 
+ 
+1053 duplicate file  复制文件，备份文件 
+ 
+1054 duplicate key  复制键 
+ 
+1055 duplication  n. 副本,复制 
+ 
+1056 duplicator  复印机 
+ 
+1057 durability  n. 持久性(耐久性,耐用年限,寿命) 
+ 
+1058 duration  n. 持续,持久 
+ 
+1059 during  prep. 在...期间 
+ 
+1060 dust guard  防尘罩，防尘设备 
+ 
+1061 DV-I  数字视频交互 
+ 
+1062 dynamic  a. 动态的,有动力的,有力的 
+ 
+1063 each  a. 每个,每,每一; ad. 每个; int. 每个,个人,个自 
+ 
+1064 earth plate  接地板 
+ 
+1065 echo  n. 回声,回音,回波; v. 发回声,随声附和,摹仿; n.[计算机] DOS命令 :禁止(或允许)批处理命令行显示屏幕上 
+ 
+1066 edge  n. 边,边缘,优势; v. 侧身移动,挤进 
+ 
+1067 EDI  电子数据交换 
+ 
+1068 edit  v. 编辑,编校,修订 
+ 
+1069 edit box  编辑框 
+ 
+1070 edit command  编辑命令 
+ 
+1071 edit function  编辑功能 
+ 
+1072 edit key  编辑键 
+ 
+1073 edit line  编辑行 
+ 
+1074 edit pattern  编辑图案 
+ 
+1075 editing  n.编辑 
+ 
+1076 edition  n. 版,版本 
+ 
+1077 editor  n. 编辑,编者 
+ 
+1078 effect  n. 结果,影响,效果; v. 招致,引起,完成 
+ 
+1079 effective  a. 有效的,有影响的 
+ 
+1080 efficiency  a. 有效的,生效的; n. 效率 
+ 
+1081 efficiently  ad. 有效地 
+ 
+1082 eigenvalue  特征值 
+ 
+1083 eject  v. 逐放,放逐,驱逐 
+ 
+1084 elaboration  n. 苦心经营,精巧; n. 详细说明 
+ 
+1085 elapsed  经过 
+ 
+1086 elastic buffer  弹性缓冲区 
+ 
+1087 electron  n. 电子 
+ 
+1088 electron beam  电子束 
+ 
+1089 electronic  a. 电子的; n. [-s]电子学,电子设备 
+ 
+1090 electronic bulletin board  电子公告板 
+ 
+1091 electronic data interchange  电子数据交换 
+ 
+1092 electronic dictionary  电子词典 
+ 
+1093 electronic mail  电子邮件，电子传递 
+ 
+1094 electronic mailbox  电子信箱 
+ 
+1095 electronic publishing  电子出版 
+ 
+1096 electronic pulse  电子脉冲 
+ 
+1097 electronic shopping  电子购物 
+ 
+1098 electronic smog  电子污染 
+ 
+1099 electronic stylus  电子笔 
+ 
+1100 electronics  n. 电子学 
+ 
+1101 element  n. 成分,要素,元素 
+ 
+1102 elementary  a. 初级的,基本的 
+ 
+1103 elevation  n. 海拔,提高; [计算机] 标高 
+ 
+1104 elevator  电梯 或 飞机升降舵 
+ 
+1105 eliminate  v. 除去,排除,剔除; [计算机] 消除 
+ 
+1106 ellipse  n. 椭圆(形 
+1107 ellipsis  n. 省略 
+ 
+1108 em dash  破折号 
+ 
+1109 e-mail  n. 电子邮件 
+ 
+1110 embed  v. 使插入,使嵌入,深留; [计算机] 嵌入 
+ 
+1111 embedded  a. 植入的,内含的,深入的; v. 埋入,植入,深入; vbl. 埋入,植入,深入 
+ 
+1112 embossment  凸起 
+ 
+1113 emergency button  应急按钮，紧急键 
+ 
+1114 emphasis  n. 强调,重点 
+ 
+1115 emphasize  v. 强调,着重; vt. 强调 
+ 
+1116 empty  n. 空的东西,空物; a. 空的,空虚的,空腹的; v. 倒空,使...空; [计算机] 空的 
+ 
+1117 empty page  空页面 
+ 
+1118 empty record  空记录 
+ 
+1119 empty window  空窗口 
+ 
+1120 emulate  v. 效法,尽力赶上; [计算机] 仿真 
+ 
+1121 emulation  n. 效法,竞争 
+ 
+1122 emulation facility  仿真功能 
+ 
+1123 emulator  仿真器 
+ 
+1124 emulsion  感光乳剂,乳状液 
+ 
+1125 en dash  连字号 
+ 
+1126 enabled  可激活的 
+ 
+1127 encapsulate  v. 装入胶囊,封进内部,压缩 
+ 
+1128 encapsulation  n. 封装,包装 
+ 
+1129 encipher  v. 译成密码 
+ 
+1130 enclose  v. 围绕,放入封套,装; [计算机] 括入 
+ 
+1131 enclosed object  封闭对象 
+ 
+1132 enclosure  n. 附件,围墙,围绕 
+ 
+1133 encode  vt. 编码 
+ 
+1134 encoder  编码器 
+ 
+1135 encounter  n. 意外的相见,遭遇; v. 遇到,偶然碰到,遭遇 
+ 
+1136 encrypt  加密 
+ 
+1137 encryption  加密术 
+ 
+1138 end  n. 结束,终点,目标; v. 结束,终结,终止 
+ 
+1139 End key  结束键 
+ 
+1140 end mark  结束标志，结束符 
+ 
+1141 end of file  (EOF)文件结束 
+ 
+1143 end of line  行结束 
+ 
+1144 end user  n.最终用户 
+ 
+1145 endless loop  死循环 
+ 
+1146 endnote  尾注 
+ 
+1147 end-of-file marker  文件尾标记 
+ 
+1148 endpoint  端点 
+ 
+1149 engine  n. 发动机,引擎,机车,火车头 
+ 
+1150 engineering  n. 工程(学),工程技术 
+ 
+1151 enhanced keyboard  增强键盘 
+ 
+1152 enhanced mode  增强模式 
+ 
+1153 enlarge font  放大字体 
+ 
+1154 enlargement  n. 扩大 
+ 
+1155 enquiry  n. 询问 
+ 
+1156 enroll  v. 登记,使加入 
+ 
+1157 ensure  v. 确定,保证,担保 
+ 
+1158 enter  v. 进入,参加,开始; [计算机] 送入 
+ 
+1159 Enter key  输入键 
+ 
+1160 enterprise  n. 企业,事业 
+ 
+1161 entire  a. 全部的,整个的 
+ 
+1162 entire file  整个文件 
+ 
+1163 entire workbook  整个工作薄 
+ 
+1164 entirely  ad. 完全地 
+ 
+1165 entity  n. 存在,实体 
+ 
+1166 entrance  n. 入口; v. 使出神,使入迷; vt. 使出神 
+ 
+1167 entropy  n. 熵 
+ 
+1168 entry  n. 进入,入口,登记 
+ 
+1169 entry bar  登录栏 
+ 
+1170 enumerate  v. 列举,计算,枚举; [计算机] 枚举 
+ 
+1171 enumerator  计数器 
+ 
+1172 envelope  n. 信封 
+ 
+1173 environ  v. 包围,环绕 
+ 
+1174 environment  n. 环境 
+ 
+1175 environment space  环境空间 
+ 
+1176 environmental  a. 环境的 
+ 
+1177 epilogue  n. 结语,尾声,收场白 
+ 
+1178 epoch   n. (新)纪元,(新)时代 
+ 
+1179 EPROM  可擦可编程只读存储器 
+ 
+1180 equal  n. 对手,匹敌,同辈; a. 相等的,平等的,胜任的; v. 等于,比得上; [计算机] 相等 
+ 
+1181 equal sign  等号 
+ 
+1182 equalization   均衡,均等 
+ 
+1183 equalizer  均衡器 
+ 
+1184 equally  ad. 相等地,同样地,平等地 
+ 
+1185 equation  n. 方程(式),等式 
+ 
+1186 equipment  n. 设备,装备 
+ 
+1187 equipment failure  设备故障 
+ 
+1188 equivalence  n. 相等,等值 
+ 
+1189 equivalent  a. 等价的,相等的; n. 相等物 
+ 
+1190 equivocation  模糊话 
+ 
+1191 eradicate  v. 根除,扑减,根绝 
+ 
+1192 erase  v. 抹去,擦掉; [计算机] 擦除 
+ 
+1193 erase character  擦除符 
+ 
+1194 erase head  清洗磁头 
+ 
+1195 eraser  n. 橡皮擦 
+ 
+1196 eraser tool  擦除工具 
+ 
+1197 ergonomics  人类工程学,人机工程学 
+ 
+1198 erratum  勘误表 
+ 
+1199 error  n. 错误,过失 
+ 
+1200 error box  错误框 
+ 
+1201 error condition  错误状态 
+ 
+1202 error message  出错信息 
+ 
+1203 error recovery  出错恢复 
+ 
+1204 escalation  扩大,增加 
+ 
+1205 escape  n. 逃亡,避难设备; v. 逃脱,避开,溜走; [计算机] 换码 
+ 
+1206 Escape key  换码键 
+ 
+1207 esoteric  a. 秘传的 
+1208 especially  ad. 特别,尤其 
+ 
+1209 essential  n. 要素,要点; a. 必要的,重要的,本质的 
+ 
+1210 essentially  ad. 本质上,本来 
+ 
+1211 establish  v. 建立,确立,创办 
+ 
+1212 establishment  n. 确立,制定,设施 
+ 
+1213 estimator  估计量 
+ 
+1214 Ethernet  以太网 
+ 
+1215 evaluate  v. 评估,评价 
+ 
+1216 evaluation  n. 估价,评价 
+ 
+1217 evaluation copy  评测版 
+ 
+1218 even  a. 平坦的,偶数的,相等的; ad. 甚至,恰好,正当 
+ 
+1219 even-odd check  奇偶校验 
+ 
+1220 event  n. 大事,事件 
+ 
+1221 event handler  事件处理程序 
+ 
+1222 event ID  事件识别符 
+ 
+1223 event-driven  事件驱动 
+ 
+1224 every  a. 每,每个,每隔...的 
+ 
+1225 evolution   n. 进化,发展,进展 
+ 
+1226 example  n. 榜样,例子 
+ 
+1227 exceed  v. 超过,胜过,越出; vt. 超过,胜过 
+ 
+1228 except  v. 除,除外,反对; prep. 除了...之外,若不是,除非 
+ 
+1229 exception  n. 例外 
+ 
+1230 exceptional emergency  非常紧急情况 
+ 
+1231 excerpt  n. 摘录; v. 摘录,摘要; vt. 摘,引用 
+ 
+1232 exchange  n. 交换,汇兑,交易所; v. 交换,交易,兑换 
+ 
+1233 exchange algorithm  交换算法 
+ 
+1234 exclamation  n. 惊呼,惊叹词 
+ 
+1235 exclude  v. 除外,排除,拒绝; [计算机] 排除 
+ 
+1236 exclusive  a. 独占的,唯一的,排外的; [计算机] 互斥的 
+ 
+1237 executable  可执行的 
+ 
+1238 executable file  可执行文件 
+ 
+1239 executable form  可执行格式 
+ 
+1240 execute  v. 执行,实行,完成; [计算机] 执行 
+ 
+1241 execution  n. 实行,完成,执行 
+ 
+1242 executive  a. 行政的; n. 执行者,主管 
+ 
+1243 exerciser  试验程序 
+ 
+1244 exhaust  n. 排气,排气装置; v. 用尽,耗尽,使...精疲力尽; [计算机] 排除 
+ 
+1245 exist  v. 存在 
+ 
+1246 existing  [计算机] 现有的 
+ 
+1247 exit  n. 出口,退场,离去; v. 退出,脱离 
+ 
+1248 exit find  退出查找 
+ 
+1249 exit point  退出点 
+ 
+1250 expand  v. 使...膨胀,详述,扩张; [计算机] 扩充 
+ 
+1251 expander  扩充器 
+ 
+1252 expanding  扩展的，扩充的 
+ 
+1253 expansion  n. 扩大,膨胀 
+ 
+1254 expansion box  扩展盒 
+ 
+1255 expansion bus  扩展总线 
+ 
+1256 expansion card  扩展卡 
+ 
+1257 expansion slot  扩展槽 
+ 
+1258 expect  v. 预期,盼望,期待 
+ 
+1259 expended memory  扩充内存 
+ 
+1260 expenditure   n. (时间、劳力、金钱等)支出,使用,消耗 
+ 
+1261 expenses  n.开支，花费 
+ 
+1262 experience  n. 经历,经验; v. 经历,体验 
+ 
+1263 experiment  n. 实验,试验,尝试; v. 实验,尝试 
+ 
+1264 experimentation  n. 实验,试验 
+ 
+1265 expert system  专家系统 
+ 
+1266 expertise  n. 专家的意见,专门技术 
+ 
+1267 expiration date  截止日期 
+ 
+1268 expire   v. 期满,失效,终止,断气 
+ 
+1269 explain  解释,说明 
+ 
+1270 explanation  n. 解释,说明 
+ 
+1271 explanatory  a. 解释的,说明的 
+ 
+1272 expletive  a. 填补的(补足的,附加的,多余的); n. 填补物 
+ 
+1273 explicit  a. 明确的,详述的，明晰的,外在的 
+ 
+1274 explicit identification  显式标识 
+ 
+1275 explicit reference  显式引用 
+ 
+1276 explore  v. 探险,探测,探究; [计算机] 探讨 
+ 
+1277 explosion  n. 爆炸,爆发 
+ 
+1278 exponent  n. 说明者,说明物; a. 说明的; n. 指数 
+ 
+1279 exponential  指数的 
+ 
+1280 exponentiation  求幂 
+ 
+1281 export  输出,出口 
+ 
+1282 exporter  n. 出口商 
+ 
+1283 expose  v. 暴露,揭穿,陈列 
+ 
+1284 exposure  n. 暴露,揭露,曝光 
+ 
+1285 express  n. 快车,快递,专使; a. 急速的,明确的; v. 表达,表示 
+ 
+1286 expression  n. 表达,表示,表现,表情,措辞,词句 
+ 
+1287 expression error  表达式错 
+ 
+1288 expunge  v. 擦掉,删掉,除去 
+ 
+1289 extend  v. 扩充,延伸,伸展,扩展 
+ 
+1290 extensible  可扩充的 
+ 
+1291 extension  n. 延长,扩充,范围 
+ 
+1292 extent  n. 广度,宽度,长度,大小,范围,范围,程度; n. [律]<英>扣押, <美>临时所有权令 
+ 
+1293 external  n. 外部; a. 外部的,外用的,客观的,表面的 
+ 
+1294 external command  外部命令 
+ 
+1295 external declaration  外部说明 
+ 
+1296 external memory  外部存储器 
+ 
+1297 external variable  外部变量 
+ 
+1298 extra  a. 额外的; ad. 特别地; n. 额外的事物 
+ 
+1299 extract  n. 榨出物,精汁,选粹; v. 摘录,提取,吸取; [计算机] 提取 
+ 
+1300 extremely  ad. 极其,非常 
+ 
+1301 eyeballing  目测 
+ 
+1302 face  n. 脸,面容; v. 面对,朝,承认; [计算机] 面 
+ 
+1303 facility  n. 设施,设备; n. 灵巧,容易,熟练 
+ 
+1304 facsimile  n. 复写,传真; v. 传真 
+ 
+1305 factor  n. 因素,因子 
+ 
+1306 factorial  阶乘,阶乘的 
+ 
+1307 factoring  n. 因子分解 
+1308 fade  v. 褪色,消失,凋谢 
+ 
+1309 fade in  淡入 
+ 
+1310 fade out  淡出 
+ 
+1311 fail  v. 失败,不及格,辜负,缺少 
+ 
+1312 failure  n. 失败 
+ 
+1313 failure analysis  故障分析 
+ 
+1314 failure diagnosis  故障诊断 
+ 
+1315 failure testing  故障检测 
+ 
+1316 fall  n. 秋天,落下,瀑布; v. 倒下,落下,来临 
+ 
+1317 fallback  撤退; 后备计划，后备行动 
+ 
+1318 fallout ratio  错检率 
+ 
+1319 false  a. 不真实的,错误的,人造的,假的,虚伪的 
+ 
+1320 false signal  错误信号，假信号 
+ 
+1321 familiar  a. 熟悉的 
+ 
+1322 familiarize  vt. 使熟悉 
+ 
+1323 family  a. 家庭的; n. 家庭 
+ 
+1324 fan-in  扇入 
+ 
+1325 fan-out  扇出 
+ 
+1326 far pointer  远指针 
+ 
+1327 fast  a. 快速的,耐久的,紧的; ad. 很快地,紧紧地,彻底地; n. vi. 禁食, 绝食, 斋戒 
+ 
+1328 fast algorithm  快速算法 
+ 
+1329 fast select  快速选择 
+ 
+1330 fastback  快速返回 
+ 
+1331 fasten  v. 拴紧,使固定,系 
+ 
+1332 fat  a. 肥胖的; n. 脂肪 
+ 
+1333 fatal  a. 致命的,毁灭性的 
+ 
+1334 fatal error  不可恢复错误，致命错误 
+ 
+1335 fatal error message  严重错误信息 
+ 
+1336 father  n. 父亲 
+ 
+1337 father node  父节点 
+ 
+1338 fault  n. 故障,过失,缺点; vt. 挑剔,指责 
+ 
+1339 fault diagnosis  故障诊断 
+ 
+1340 fault signal  故障信号 
+ 
+1341 fault testing  故障测试 
+ 
+1342 fault-tolerance  容错 
+ 
+1343 feature  n. 特征,容貌; n. 特点,特色,特性 
+ 
+1344 feed  n. 饲养,饲料,一餐; v. 喂,饲养,靠...为生 
+ 
+1345 feedback  n. 反馈 
+ 
+1346 feeder  n. 饲养者,供给者,奶瓶 
+ 
+1347 feminine  a. 女性的 
+ 
+1348 ferrite  铁酸盐 
+ 
+1349 ferromagnetic  铁磁体 
+ 
+1350 fetch  n. 取得; v. 接来,取来,带来; [计算机] 取 
+ 
+1351 fetch protection  读取保护 
+ 
+1352 fiber  n. 纤维 
+ 
+1353 fiber-optic cable  光纤电缆 
+ 
+1354 fiche  卡片,缩微胶片 
+ 
+1355 field  a. 野外; n. 地,田地 
+ 
+1356 field name  域名，字段名 
+ 
+1357 field type  字段类型 
+ 
+1358 figure  n. 图形,数字,形状; v. 演算,认为,领会到 
+ 
+1359 file  n. 档案,公文箱,锉刀; v. 列队行进,归档,申请; [计算机] 文件 
+ 
+1360 filename  文件名 
+ 
+1361 filing  n. 锉(文件的整理汇集) 
+ 
+1362 fill  v. 装满,填充,弥漫; [计算机] 填充 
+ 
+1363 filler  填充符 
+ 
+1364 film  n. 电影; v. 把...拍成电影 
+ 
+1365 film recorder  缩微胶卷记录器 
+ 
+1366 filter  n. 筛选,滤波器,过滤器,滤色镜; v. 过滤,渗透,走漏; [计算机] 过滤 
+ 
+1367 final  a. 最后的; n. 决赛 
+ 
+1368 finalization  结束 
+ 
+1369 finally  ad. 最后,最终 
+ 
+1370 financial management  财务管理 
+ 
+1371 find  v. 发现,感觉到,认为 
+ 
+1372 find formatting  查找格式 
+ 
+1373 find what  查找目标 
+ 
+1374 fine  n. 罚款,罚金; a. 美好的,好的,晴朗的,健康的; v. 罚款 
+ 
+1375 fine tune  微调 
+ 
+1376 finish condition  终结条件 
+ 
+1377 finite  a. 有限的 
+ 
+1378 firmware  n. 固件 
+ 
+1379 first  ad. 首先,第一,优先; a. 第一的 
+ 
+1380 first fit  首先满足 
+ 
+1381 first line  首行 
+ 
+1382 fix  v. 使...固定,修理,准备 
+ 
+1383 fixed  a. 固定的,不变的,准备好的; v. 修理,使...固定,决定; vbl. 修理,使...固定,决定; [计算机] 固定的 
+ 
+1384 fixed disk  硬盘 
+ 
+1385 fixed-field file  固定字段文件 
+ 
+1386 fixing  固定,设备,修理 
+ 
+1387 flag  n. 旗标,旗子,信号旗; [计算机] 标志; v.枯萎,减退 
+ 
+1388 flag bit  标记位 
+ 
+1389 flagging  a. 疲惫的,萎靡的 
+ 
+1390 flash  n. 闪光,闪现,一瞬间; v. 闪光,闪现,闪烁; [计算机]Adobe公司的动画技术 
+ 
+1391 flash memory  闪存 
+ 
+1392 flashing  n. 决放,遮雨板,卫水板 
+ 
+1393 flat  a. 平坦的,单调的,扁平的; ad. 平直地,干脆地; n.[英]公寓 
+ 
+1394 flat screen  平面屏幕 
+ 
+1395 flatbed  平板式 
+ 
+1396 flatbed plotter  平板式绘图仪 
+ 
+1397 flatted scanner  平台式扫描仪 
+ 
+1398 flexibility  n. 灵活性,柔韧性 
+ 
+1399 flexible  a. 灵活的,易弯曲的,柔韧的 
+ 
+1400 flexible disk  软磁盘 
+ 
+1401 flicker-free  无闪烁的 
+ 
+1402 flip horizontal  水平翻转 
+ 
+1403 flip-flop  (方向等的)突变;; 触发器;; 夹趾拖鞋。 
+ 
+1404 floating  浮动 
+ 
+1405 flooding  n. 泛滥,产后出血 
+ 
+1406 floor  n. 地板,楼层,底部; v. 铺地板,击倒 
+ 
+1407 floppy  a. 叭塌叭塌响的,懒散的,邋遢 的1408 flow  n. 流,水流,流量; v. 流动; vi. 流,流动; vt. 淹没 
+ 
+1409 flowchart  流程图 
+ 
+1410 fluctuation  n. 波动,起伏 
+ 
+1411 fluidics  应用流体学 
+ 
+1412 flush  n. 流溢,面红,旺盛; a. 丰足的,齐平的,满盈的; v. 脸发红,淹没,旺盛; [计算机] 冲洗 
+ 
+1413 flutter  n. 摆动,鼓翼,烦扰; v. 摆动,鼓翼,烦扰 
+ 
+1414 flyback  回扫 
+ 
+1415 FM  n. 磁极(现场干线,现场更改,消防干管,外国使团) 
+ 
+1416 FM synthesizer  FM合成器 
+ 
+1417 focus  n. 焦点,焦距; v. 集中,聚集,使集中 
+ 
+1418 focus window  焦点窗口 
+ 
+1419 fold  n. 折层,羊栏,折痕; v. 折叠,包,交叉 
+ 
+1420 folder  n. 文件夹 
+ 
+1421 folding  可折叠的 
+ 
+1422 folio  编页码,对开本,页码,张数 
+ 
+1423 follower  n. 从者,属下,追补者 
+ 
+1424 following  n. 下列各项,部下,党羽; a. 下列的,其次的; vbl. 跟随 
+ 
+1425 font  字体 
+ 
+1426 font disk  字体盘 
+ 
+1427 foot  n. 脚 
+ 
+1428 footer  页脚 
+ 
+1429 footnote  n. 脚注(给...作脚注) 
+ 
+1430 for  conj. 因为; prep. 给,为 
+ 
+1431 for clause  循环子句 
+ 
+1432 for data  循环数据 
+ 
+1433 forbidden  a. 被禁止的 
+ 
+1434 forbidden character  禁用字符，非法字符 
+ 
+1435 force  n. 力量,武力,影响力; v. 强迫,强夺,加压力; [计算机] 强制 
+ 
+1436 forced  a. 被迫的,强迫的,用力的; v. 强迫; vbl. 强迫 
+ 
+1437 forecast  预测,预报 
+ 
+1438 foreground  n. 前景,最显著的位置; n.[计算机]前台; [计算机] 前景 
+ 
+1439 forget  v. 忘记,忽略 
+ 
+1440 fork  n. 叉; v. 叉起,耙,成叉状 
+ 
+1441 for-loop  循环 
+ 
+1442 for-loop structure  循环结构 
+ 
+1443 form  n. 形式,形状,表格; v. 形成,组成,建立 
+ 
+1444 format   n. 设计,版式; n.[计算机]格式,DOS命令 : 格式化(磁盘),用于空盘或使用过的磁盘建立新空盘来存储数据; v. vt.使格式化,设计,安排 
+ 
+1445 formation  n. 构造,编队,形成 
+ 
+1446 formatted  有格式的 
+ 
+1447 formatting  格式化 
+ 
+1448 formed  成形的 
+ 
+1449 formula  n. 公式,配方,规则；婴儿食品 
+ 
+1450 formulate  v. 用公式表示,明确的叙述 
+ 
+1451 fortuitous  a. 偶然的,意外的 
+ 
+1452 forward  a. 向前的,早的,迅速的,前锋; v. 转交,促进,运送; ad. 向前地 
+ 
+1453 forward direction  正向 
+ 
+1454 foundation  n. 基础,根据,建立 
+ 
+1455 fourscore  a. 八十的,八十个的; n. 八十,八十个,八十岁 
+ 
+1456 fps  frames per second 帧数 
+ 
+1457 fractal  分形 
+ 
+1458 fraction  n. 分数,小部分,破片 
+ 
+1459 fragment  n. 碎片,破片,断片; [计算机] 碎片 
+ 
+1460 fragmentation  分裂,破碎,存储残片 
+ 
+1461 fragmenting  分割 
+ 
+1462 frame  n. 框,结构,骨架; v. 构成,设计,陷害 
+ 
+1463 framework  n. 结构,构架,框架 
+ 
+1464 framing  成帧 
+ 
+1465 franking  打印标记 
+ 
+1466 free  a. 自由的,大方的,免费的; v. 释放,解放; ad. 自由地,免费 
+ 
+1467 freeware  免费软件 
+ 
+1468 freeze  v. 冻结,冷动,僵硬; [计算机] 冻结 
+ 
+1469 freight  n. 船货,运费,货运; v. 装货,运送 
+ 
+1470 frequency  n.&a. 频繁,频率 
+ 
+1471 frequently  ad. 经常地,频繁地 
+ 
+1472 fresh copy  最新副本 
+ 
+1473 from  prep. 从,从...起 
+ 
+1474 front  n. 前面,开头,前线; v. 面对,朝向,对付 
+ 
+1475 front edge  前沿 
+ 
+1476 frustum  截头锥体 
+ 
+1477 full  n. 全部,十分; a. 充满的,完全的,丰富的; ad. 完全地,整整; [计算机] 全 
+ 
+1478 full-screen  全屏幕 
+ 
+1479 fully  ad. 十分地,完全地,全 
+ 
+1480 function  n. 功能,函数,重大聚会; vi. 运行,起作用 
+ 
+1481 functional  a. 功能的 
+ 
+1482 fuse  n. 保险丝; v. 融化,融合 
+ 
+1483 fusing  熔化，点火，发射，起动 
+ 
+1484 fuzzy logic  模糊逻辑 
+ 
+1485 fuzzy theory  模糊论 
+ 
+1486 g  giga 千兆 
+ 
+1487 gain  n. 增益,获得,利润; v. 得到,增进,获利 
+ 
+1488 galleries  图表种类 
+ 
+1489 gallery  n. 美术馆,画廊 
+ 
+1490 gallium arsenide  砷化镓 
+ 
+1491 game  n. 游戏; vi. 赌博 
+ 
+1492 gap  n. (意见、个性等的)差异,缝隙,漏洞,缺口; 嘉普(财富500强公司之一，总部所在地美国,主要经营服装零售) 
+ 
+1493 garbage  n. 垃圾 
+ 
+1494 gate  n. 大门 
+ 
+1495 gateway  n. 门,通路; [计算机] 网间连接器 
+ 
+1496 gather  n. 集合,聚集; v. 聚集,集合,渐增; vt. 使聚集，推断 
+ 
+1497 general  n. 一般,将军,大体; a. 一般的,普遍的; v. 指挥,作...将军 
+ 
+1498 generate  v. 产生,发生; [计算机] 产生 
+ 
+1499 generator  n. 发电机,发生器 
+ 
+1500 generic  a.一般的,普通的,共有的 
+ 
+1501 get colors  选取颜色 
+ 
+1502 ghost  n. 鬼,幽灵 
+ 
+1503 Ghz  gigahertz千兆赫兹 
+ 
+1504 GIF  图形接口格式 
+ 
+1505 giga  千兆 
+ 
+1506 gigabyte  n. 十亿位元组 
+ 
+1507 gigacycle  千兆周 
+
+1508 glance  n. 一瞥,闪光,一滑; v. 瞥闪,瞥见,反光 
+ 
+1509 glare  n. 闪耀光,刺眼; v. 发眩光,瞪视 
+ 
+1510 glare filter  炫光过滤器 
+ 
+1511 glitch  小故障,小失误 
+ 
+1512 global  a. 全球性的,全局的 
+ 
+1513 glossary  n. 字典,辞典; [计算机] 词汇表 
+ 
+1514 glyph  字型,字的轮廓 
+ 
+1515 go  v. 去,走; [计算机] 执行 
+ 
+1516 goal  n. 目标,终点; n.球门;得分 
+ 
+1517 goto  转到 
+ 
+1518 GOTO statement  转向语句 
+ 
+1519 grab  n. 抓握,接应,掠夺; v. 抓取,抢去 
+ 
+1520 grabber  抓帧器 
+ 
+1521 gradation  灰度,浓淡度,渐变,过度 
+ 
+1522 grammar  n. 语法 
+ 
+1523 grant  n.拨款; vt.授予,同意,承认 
+ 
+1524 grantee  接受者 
+ 
+1525 grantor   授予者 
+ 
+1526 graph  n. 图表,曲线图; v. 图表,用图表表示; vt. 以(曲线)图表示 
+ 
+1527 graphic  a. 生动的,图表的 
+ 
+1528 graphic cursor  图形光标 
+ 
+1529 graphically  用图表表示 
+ 
+1530 graphics  n. 制图法,制图学,图表算法; n.[计算机]图形学,DOS命令 : 允许使用Shift-PtrSc键打印屏幕图形 
+ 
+1532 grave  a. 严肃的,庄重的,严重的; n. 坟墓 
+ 
+1533 gravity  n. 地心引力,重力,严重,庄重,严肃 
+ 
+1534 gray scale  灰度 
+ 
+1535 Greek  a. 希腊(人)的; n. 希腊人,希腊语 
+ 
+1536 Green Book  绿皮书 
+ 
+1537 grey scale  灰度 
+ 
+1538 grid  n. 格子; [计算机] 网格 
+ 
+1540 gridlines  网格线 
+ 
+1541 groove  n. 凹槽,惯例 
+ 
+1542 ground  n. 土地,战场,场地; a. 土地的,地面上的; v. 放在地上,使...搁浅,打基础 
+ 
+1543 grounding  接地,染色的底色 
+ 
+1544 group  n. 团体,组,团; v. 聚合,成群; [计算机] 成组 
+ 
+1545 growth  n. 增长 
+ 
+1546 guess  n. 猜测,推测,猜想; v. 猜测,推测 
+ 
+1547 gui  图形用户界面 
+ 
+1548 guide  n. 引导者,指南,路标; v. 指导,支配,管理 
+ 
+1549 guide line  准则 
+ 
+1550 guideline  n. 指引 
+ 
+1551 hacker  电脑黑客 
+ 
+1552 hairline rule  细线 
+ 
+1553 half  a. 一半的,不完全的; ad. 一半地; n. 半,一半 
+ 
+1554 halftone  半音,中间色调,网板 
+ 
+1555 half-word  半字 
+ 
+1556 halt  n. 停止,立定,休息; v. 使...停止,使...立定,犹豫 
+ 
+1557 halt command  停机命令 
+ 
+1558 halt mode  停机状态 
+ 
+1559 hand  n. 手,掌握,协助; v. 支持,交给 
+ 
+1560 handbook  n. 手册,指南 
+ 
+1561 handle  n. 柄,把手; v. 买卖,处理,操作 
+ 
+1562 handler  处理程序 
+ 
+1563 handling  n. 处理; a. 操作的; vbl. 操作; [计算机] 处理 
+ 
+1564 handset  电话听筒,手机,手持机 
+ 
+1565 handshaking  握手 
+ 
+1566 handwriting recognition  手写识别 
+ 
+1567 handy  a. 方便的,手边的 
+ 
+1568 hang  n. 悬挂,吊死; v. (hanged,hanged) 悬挂,绞死,逗留 
+ 
+1569 hangup  挂断 
+ 
+1570 hard  a. 硬的; ad. 努力地 
+ 
+1571 hard copy  硬拷贝 
+ 
+1572 hard disk  硬盘 
+ 
+1573 hard disk partition  硬盘分区 
+ 
+1574 hard drive  硬盘驱动器 
+ 
+1575 hard reset  硬重置 
+ 
+1576 harmonic  a. 调和的,音乐般的,和声的; n. 和音,调波; [计算机] 调和的 
+ 
+1577 hash code  散列码，无用信息 
+ 
+1578 hashing  散列法 
+ 
+1579 hashing function  散列函数 
+ 
+1580 HDTV  (high-definition TV)高清晰度电视 
+ 
+1581 head  n. 头,头脑,领袖; v. 为首,朝向,前进 
+ 
+1582 head alignment  磁头对准 
+ 
+1583 head of form  表头 
+ 
+1584 header  页眉,标题,报头,电子邮件头 
+ 
+1585 headers  消息头 
+ 
+1586 heading  n. 标题 
+ 
+1587 headphone  n. 戴在头上的收话器,双耳式耳机 
+ 
+1588 heap  n. 堆,许多,累积; v. 堆积; [计算机] 堆 
+ 
+1589 helical scan  螺旋扫描 
+ 
+1590 help  n. 帮助,援助; v. 帮助 
+ 
+1591 help index  帮助索引 
+ 
+1592 help information  帮助信息 
+ 
+1593 help key  帮助键 
+ 
+1594 help options  帮助选项 
+ 
+1595 help screen  帮助屏幕 
+ 
+1596 helper  n. 帮忙者,助手 
+ 
+1597 hertz  赫兹 
+ 
+1598 heterogeneous  a. 异种的,异质的,由不同成份形成的; [计算机] 非均匀的 
+ 
+1599 heuristic  试探的,启发式的 
+ 
+1600 hex  十六进制 
+ 
+1601 Hi-8  使用8mm宽磁带的录像带格式 
+ 
+1602 hidden  a. 隐藏的,秘密的; vbl. 藏着,隐藏,躲藏; [计算机] 隐藏的 
+ 
+1603 hide  v. 藏,隐瞒,遮避; n. 兽皮 
+ 
+1604 hide all  全部隐藏 
+ 
+1605 hierarchical  分层的,体系的 
+ 
+1606 hierarchy  n. 等级制度，层级[计] 
+ 
+1607 high  a.&ad. 高，高度的，高级的，高尚的; (=High School) 高中,中学 
+ 
+1608 high capacity  大容量 
+ 
+1609 high-end  高端 
+1610 highlight  n. 加亮区; v. 加亮,强调; [计算机] 醒目 
+ 
+1611 highlighting  加亮 
+ 
+1612 high-speed transmission  高速传输 
+ 
+1613 hiragana  平假名 
+ 
+1614 histogram  n. 柱状图; [计算机] 直方图 
+ 
+1615 history  n. 历史 
+ 
+1616 hit  n. 打击,打,冲撞,偶然发现; v. 打,打击,碰撞 
+ 
+1617 hits  采样数 
+ 
+1618 hold  v. 握住,拿着,持有; n. 把握,控制,船舱 
+ 
+1619 hole  n. 孔,洞,穴; v. 挖洞,掘坑,进洞 
+ 
+1620 holiday  n. 假期,假日 
+ 
+1621 hologram  全息照相,全息图 
+ 
+1622 home  a. 家(乡)的; ad. 回家,在家; n. 家 
+ 
+1623 homogeneous  a. 同种的,同质的,均质的 
+ 
+1624 homologate  认可,确认 
+ 
+1625 hook  n. 钩子; v. 钩住 
+ 
+1626 horizontal  a. 水平的,横的; n. 水平线,水平面 
+ 
+1627 horizontally  ad. 水平地(水平的) 
+ 
+1628 host  n. 主机,主人,主持人,东道主.; v.主持,做东. 
+ 
+1629 hot key  热键 
+ 
+1630 hot link  热点连接 
+ 
+1631 hotspot  热点，热区 
+ 
+1632 hourglass  n. 时漏,砂漏,水漏 
+ 
+1633 house  n. 房子,住宅 
+ 
+1634 housekeeping  n. 家事,家政,持家 
+ 
+1635 housing  n. 房屋(外壳,外套,外罩,住宅,卡箍,遮盖物) 
+ 
+1636 how  ad. 怎样; conj. 如何 
+ 
+1637 HP  惠普 
+ 
+1638 HTML  超文本置标语言 
+ 
+1639 hub  n. 毂,木片,中心 
+ 
+1640 hue  n. 色,色彩,叫声; [计算机] 色调 
+ 
+1641 Huffman encoding  哈夫曼编码 
+ 
+1642 huge model  巨模式 
+ 
+1643 human  a. 人的,人类的; n. 人 
+ 
+1644 human-computer  人机 
+ 
+1645 humidity  n. 湿度,湿气 
+ 
+1646 hunting  n. 打猎 
+ 
+1647 hybrid  n. 混血儿,杂种,混合物; a. 混合的,杂种的,混合语的 
+ 
+1648 hybrid software  混合软件 
+ 
+1649 hyperbola  双曲线 
+ 
+1650 hyperlink  超链接（Hyperlink）是WWW上使用最多的一种技巧，它通过事先定义好的关键字或图形，只要你用鼠标点击该段文字或图形，就可以自动连上相对应的其它文件。通过这种方式，就可以实现不同网页间的跳转问题。 
+ 
+1651 hypermedia  超媒体 
+ 
+1652 hypertext  超文本 
+ 
+1653 hyphen  n. 连字号; v. 以连字号连接 
+ 
+1654 hyphenation  用连字符号连接,断字 
+ 
+1655 I/O  (input/output)输入/输出 
+ 
+1656 I-beam  I型光标 
+ 
+1657 IBM  缩写 = International Business Machines 国际商用机器公司（一家大型计算机公司） 
+ 
+1658 IC  (integrated circuit)集成电路 
+ 
+1659 icon  n. 圣像,画像,肖像; n. [计算机] 图标,图符 
+ 
+1660 icon resource  图标资源 
+ 
+1661 ID code  标识码，识别码 
+ 
+1662 idempotent  幂等,幂等的 
+ 
+1663 identical  a. 相同的,同一的 
+ 
+1664 identically  相等地 
+ 
+1665 identification  n. 身份的证明; n. 视为同一,证明同一,确认 
+ 
+1666 identification code  识别代号 
+ 
+1667 identifier   (ID)标识符 
+ 
+1668 identifier attribute  标识符属性 
+ 
+1669 identify  v. 识别,认明,鉴定 
+ 
+1670 idle  a. 懒惰的,闲散的,停顿的; v. 不作事,闲散,浪费,(机器)空转 
+ 
+1671 idle character  空字符，无效字符 
+ 
+1672 if  conj. 如果; n. 条件,设想 
+ 
+1673 if-expression  如果表达式 
+ 
+1674 ignore  v. 不顾,不理,忽视 
+ 
+1675 illegal  a. 不合法的,非法的 
+ 
+1676 image  n. 图像,影像,肖像,想像 
+ 
+1677 imaginary  a. 想象的,虚构的 
+ 
+1678 imaging  成像 
+ 
+1679 imaging system  成像系统 
+ 
+1680 imbedded  嵌入的 
+ 
+1681 immediate  a. 立即的,即刻的,直接的,最接近的 
+ 
+1682 impact  n. 冲击,冲突,影响; v. 挤入,撞击,对...发生影响 
+ 
+1683 impact paper  复写纸，压敏纸 
+ 
+1684 impact printer  击打式打印机 
+ 
+1685 impedance  阻抗 
+ 
+1686 imperative  n. 命令,诫命,需要; a. 命令式的,急需的 
+ 
+1687 impingement  冲击 
+ 
+1688 implement  n. 工具,器具; vt. 实现,执行,使...生效 
+ 
+1689 implementation  n. 安装启用,实行,履行; ; 工具 
+ 
+1690 implements  n.工具 
+ 
+1691 implication  n. 暗示,含意 
+ 
+1692 implicit  a. 暗示的,盲从的; [计算机] 隐式 
+ 
+1693 implicit declaration  隐式说明 
+ 
+1694 implied  v. 意思是(包含); a. 储蓄的 
+ 
+1695 implosion  n. 内爆(从外向内的压力作用) 
+ 
+1696 import  n. 进口; v. 进口,输入; vt. 输入,进口 
+ 
+1697 importer  n.进口商 
+ 
+1698 improper  a. 不合适的,错误的,不道德的 
+ 
+1699 improve  v. 改良,改善,增进,提高 
+ 
+1700 impulse  n. 冲动; v. 推动 
+ 
+1701 inaccessible  a. 难接近的,难达到的,难达成的 
+ 
+1702 inaccuracy  不准确度,错误 
+ 
+1703 inactive  a. 不活动的,停止的,怠惰的; [计算机] 不活动的 
+ 
+1704 inactive file  待用文件 
+ 
+1705 inactive window  非活动窗口 
+ 
+1706 inbound  a. 回内地的,归本国的; [计算机] 入站 
+ 
+1707 inbox  收件箱 
+ 
+1708 include  v. 包括,包含,连...在内; [计算机] 包括 
+ 
+1709 include columns  包含列 
+1710 include file  包含文件 
+ 
+1711 include rows  包含行 
+ 
+1712 include subdirectories  包含子目录 
+ 
+1713 inclusive  a. 包含...在内的; [计算机] 包括的 
+ 
+1714 incoherence  非相关性 
+ 
+1715 incoming  a. 引入的(入射的,增殖的); n. 进来(来到,收入) 
+ 
+1716 incompatibility  n. 不两立,不相容 
+ 
+1717 incompatible  a. 不相容的,不能并存的,矛盾的 
+ 
+1718 incorporate  a. 合并的,公司组织的,具体化的; v. 合并,组成公司,具体表现 
+ 
+1719 incorrect  a. 不正确的,错误的 
+ 
+1720 increase  n. 增加,增强,提高; v. 增加,提高 
+ 
+1721 increase font size  放大字体 
+ 
+1722 increase speed  加速 
+ 
+1723 increasing  vbl. 增加 
+ 
+1724 increment  n. 增加(增加物,增量,余差) 
+ 
+1725 indefinite  a. 模糊的,不确定的,无限的 
+ 
+1726 indefinitely  adv．不确定地 
+ 
+1727 indent  n. 契约,订货单; v. 切割成锯齿状,缩排,定货; [计算机] 缩排 
+ 
+1728 indentation  n. 刻痕(印压,缩进,曲折岸) 
+ 
+1729 indention  缩排,定货 
+ 
+1730 independent  a. 独立的,自主的; n. 独立派人士,无党派者 
+ 
+1731 independently  ad. 独立地,自立地 
+ 
+1732 index  n. 索引,指针,指数; v. 编入索引中,指出 
+ 
+1733 indicate  v. 显示,象征,指示; v.指明,表明 
+ 
+1734 indicator  n. 指示器,指示剂; [计算机] 指示符 
+ 
+1735 indirect   a. 间接的,迂回的 
+ 
+1736 indirection  间接 
+ 
+1737 indirectly  ad. 间接地 
+ 
+1738 individual  a. 个别的; n. 个人,个体 
+ 
+1739 individually  ad. 个别地 
+ 
+1740 induction  n. 感应,感应现象; 归纳法 
+ 
+1741 industrial  a. 工业的,产业的 
+ 
+1742 industry  n. 工业,产业,勤勉,刻苦 
+ 
+1743 inexperienced  a. 无经验的,不熟练的 
+ 
+1744 infected  被感染的 
+ 
+1745 inference  n. 推论 
+ 
+1746 inferiors  下级的，差的 
+ 
+1747 infinite  a. 无限的,无穷的; n. 无限 
+ 
+1748 infinity  n. 无限大,无限 
+ 
+1749 infix  插入 
+ 
+1750 info  信息,情报 
+ 
+1751 info window  信息窗口 
+ 
+1752 inform  v. 告诉,通知; vi. 检举,告发; vt. 通知,告诉,向...报告 
+ 
+1753 information  n. 信息 
+ 
+1754 inherit  v. 继承 
+ 
+1755 inheritance  n. 遗传,遗产 
+ 
+1756 inhibit  v. 禁止,抑制; [计算机] 禁止 
+ 
+1757 inhibited  a. 羞怯的, 内向的 
+ 
+1758 inhibition  n. 禁止,禁制,压抑 
+ 
+1759 initial  n. 词首大写字母; a. 开始的,最初的,字首的; v. 签姓名的首字母 
+ 
+1760 initialization  n. 初始化,赋初值 
+ 
+1761 initialize  v. 初始化 
+ 
+1762 initially  ad. 最初,开头 
+ 
+1763 initiate  n. 入会,开始; a. 新加入的; vt. 开始,创始,启蒙 
+ 
+1764 initiator  n. 创始者,首倡者,发起人 
+ 
+1765 injection  n. 注射 
+ 
+1766 ink  n. 墨水 
+ 
+1767 ink effect  油墨效果 
+ 
+1768 ink-jet printer  喷墨打印机 
+ 
+1769 inline  在线的,联机的 
+ 
+1770 input  n. 输入 
+ 
+1771 inquiry  n. 打听,询问,调查,查问 
+ 
+1772 Ins  insert 插入键 
+ 
+1773 inscriber  记录器 
+ 
+1774 insert  n. 插入物; v. 插入 
+ 
+1775 insertion point  插入点 
+ 
+1776 inside  a. 里面的; ad. 在里面; n. 内部; prep. 在...里面 
+ 
+1777 inspection  n. 检查,视察 
+ 
+1778 install  v. 安装,安置,使...就职; n.[计算机] 安装,DOS命令 : 装入结束且驻留软件 
+ 
+1779 installation  n. 安装,装置 
+ 
+1780 instance  n. 例子; v. 举...为例,举例说明 
+ 
+1781 instant  n. 立即,瞬间; a. 立即的,即时的 
+ 
+1782 instant jump  即时跳转 
+ 
+1783 instantiate  实例化,例示 
+ 
+1784 instead  ad. 代替,顶替 
+ 
+1785 instruct  v. 教,命令,指导; [计算机] 指示 
+ 
+1786 instruction  n. 说明,须知,指令,教学 
+ 
+1787 instruction book  说明书 
+ 
+1788 instrument  n. 乐器,工具,仪器,器械 
+ 
+1789 instrumentation  仪表化,使用仪器 
+ 
+1790 insufficient  a. 不足的 
+ 
+1791 insulation  n. 隔离,孤立,绝缘 
+ 
+1792 insure  v. 保险,确保,投保...险 
+ 
+1793 integer  n. 完整的事物,整体,整数; [计算机] 整数 
+ 
+1794 integrate  v. 整合,使...成整体; a. 真诚的 
+ 
+1795 integrated  a. 整合的; v. 整合; vbl. 整合 
+ 
+1796 integrator  积分器 
+ 
+1797 integrity  n. 诚实,正直,完整,完善 
+ 
+1798 intellect  n. 智力，思维逻辑领悟力，理解力/nn. 知识份子，智力高的人，才智超群的人 
+ 
+1799 intelligence  n. 理解力,智力; n. 情报,情报工作,情报机关 
+ 
+1800 intelligent  a. 聪明的,智能的 
+ 
+1801 intend  v. 打算; vt. 想要,打算,计划 
+ 
+1802 intense  a. 非常的,强烈的,紧张的,热情的 
+ 
+1803 intensity  n. 激烈,强度,强烈,剧烈 
+ 
+1804 interaction  n. 相互作用,相互影响 
+ 
+1805 interactive  [计算机] 交互的 
+ 
+1806 interactive TV  交互式电视 
+ 
+1807 interactive video  交互式视频 
+ 
+1808 intercept  n. 截取,妨碍,截距; v. 拦截,阻止,截取; [计算机] 截断 
+ 
+1809 intercepting  截取 
+ 
+
+1810 interchange  n. 立体交叉道,互换; v. 交换,互换; [计算机] 互换 
+ 
+1811 interest  n. 兴趣,嗜好,利息; v. 使...感兴趣 
+ 
+1812 interface  n. 界面,接触面; [计算机] 界面,接口 
+ 
+1813 interfere  v. 妨碍,冲突,干涉 
+ 
+1814 interference  n. 冲突,干涉; [计算机] 于涉 
+ 
+1815 interior  a. 内部的,内地的,国内的,在内的; n. 内部 
+ 
+1816 interlace  v. 使交织,使组合,使交错 
+ 
+1817 interleave  交错,隔行扫描,插入纸 
+ 
+1818 interleave factor  交错因子 
+ 
+1819 interlink  链接 
+ 
+1820 interlock  v. 连结,连锁 
+ 
+1821 intermediate  a. 中级的,中间的; n. 中间体,媒介物 
+ 
+1822 intermittent  a. 间歇的,断断续续的 
+ 
+1823 intern  n. 实习医师 
+ 
+1824 internal  a. 国内的,内部的 
+ 
+1825 international  a. 国际的 
+ 
+1826 internationalization  [计算机] 国际化 
+ 
+1827 Internet  n. 因特网 
+ 
+1828 internet protocol  互联网协议 
+ 
+1829 internet protocol address  互联网协议地址 
+ 
+1830 interoperability  互操作性,互用性 
+ 
+1831 interoperable  彼此协作的 
+ 
+1832 interpret  v. 解释,演出,翻译; [计算机] 解释 
+ 
+1833 interpreter  n. 译员,口译者 
+ 
+1834 interrelated  相关的 
+ 
+1835 interrupt  n. 中断; v. 打断,妨碍,插嘴; [计算机] 中断 
+ 
+1836 intersection  n. 交集,十字路口,交叉点; [计算机] 交集 
+ 
+1837 interval  n. 间隔 
+ 
+1838 intervene  v. 插入,调停,干涉; [计算机] 介入 
+ 
+1839 intervention  n. 插入,介入,调停 
+ 
+1840 intranet  企业网,专用网 
+ 
+1841 intro  简介 
+ 
+1842 introduce  v. 介绍 
+ 
+1843 introduction  n. 介绍 
+ 
+1844 invalid  a. 无效的,伤残的; n. 病人,残疾者 
+ 
+1845 invariant  不变的,不变量 
+ 
+1846 invent  v. 发明; vt. 发明,创造 
+ 
+1847 inventory  n. 详细目录,存货清单 
+ 
+1848 inverse  a. 相反的,倒转的 
+ 
+1849 inverse video  反视频 
+ 
+1850 invert  a. 转化的; v. 反转,颠倒; [计算机] 反置 
+ 
+1851 investigate  v. 调查,研究; [计算机] 研究 
+ 
+1852 invisible  a. 看不见的,无形的 
+ 
+1853 invoice  n. 发票,发货单,货物; v. 开发票,记清单 
+ 
+1854 invoke  [计算机] 调用 
+ 
+1855 involve  v. 包含,含有,使陷入,使卷入,牵涉 
+ 
+1856 involved  v. 涉及(包含,遍及,占用,促成,自乘); a. 所包含的(形式复杂的) 
+ 
+1857 ion deposition  离子沉淀 
+ 
+1858 IP  (internet protocol)互联网协议 
+ 
+1859 iris  n. 虹膜,鸢尾属植物,彩虹之女神 
+ 
+1860 IRQs  (interrupt requests)终端请求 
+ 
+1861 ISA  工业标准结构 
+ 
+1862 ISDN  综合业务数字网 
+ 
+1863 I-shape cursor  I型光标 
+ 
+1864 isolation  n. 隔离,孤立 
+ 
+1865 isometric view  等距视图 
+ 
+1866 issue  n.发行物,期刊号,争论点; v. 发行,流出,造成...结果 
+ 
+1867 italic  a. 斜体的 
+ 
+1868 item   n. 项目,条款 
+ 
+1869 iterate  v. 重做,反复重申; vt. 反复申说 
+ 
+1870 iteration  迭代(法),循环,重复 
+ 
+1871 iterative  迭代的,重复的 
+ 
+1872 jack  n. 插座,千斤顶,男人; v. 抬起,提醒,扛举; n. 杰克 
+ 
+1873 jaggies  锯齿，锯齿状图形 
+ 
+1874 jam  n. 果酱,拥塞之物,堵塞; v. 挤,塞满,混杂 
+ 
+1875 jitter  n. 振动(信号的不稳定性); vt 散开(极为紧张) 
+ 
+1876 joggle  v. 轻摇,摇动,摇曳; n. 轻摇,摇动,臼合 
+ 
+1877 join  v. 参加,结合,加入 
+ 
+1878 journal  n. 日记,杂志,日报 
+ 
+1879 journaling  日志，日记 
+ 
+1880 joystick  控制杆,游戏杆 
+ 
+1881 joystick port  游戏杆端口 
+ 
+1882 jukebox  自动电唱机 
+ 
+1883 jump  n. 跳跃,跳动,上涨; v. 跳越,跃过,突升 
+ 
+1884 jump operation  转移操作 
+ 
+1885 jumper  n. 跳跃者, 跳高运动员, 跳跃的动物, 妇女穿的套头外衣, 海员的上衣, 工作服 
+ 
+1886 junction  n. 联接,会合处,交叉点 
+ 
+1887 justification  n. 辩护,证明正当,释罪; [计算机] 对齐 
+ 
+1888 justify  v. 替...辩护,证明,证明正当; [计算机] 调整 
+ 
+1889 kanji  日本汉字 
+ 
+1890 katakana  片假名 
+ 
+1891 KB  (KiloByte)1024字节 
+ 
+1892 keep  n. 生计,维持; v. 保持,保存,维持 
+ 
+1893 kern  紧排 
+ 
+1894 kernel  n. 核心,中心,精髓; [计算机] 核心 
+ 
+1895 kerning  字距调整 
+ 
+1896 key  a. 主要的,关键的; n. 钥匙; vt. 键入 
+ 
+1897 key combination  组合键 
+ 
+1898 key frame  关键帧 
+ 
+1899 key in  键入 
+ 
+1900 key name  键名 
+ 
+1901 keycaps  键罩，键帽 
+ 
+1902 keyed  键控的,键入 
+ 
+1903 keypad  小键盘 
+ 
+1904 keypunch  键控穿孔(机) 
+ 
+1905 keystroke  [计算机] 击键 
+ 
+1906 keyword  关键字 
+ 
+1907 keyword index  关键字索引 
+ 
+1908 kill  n. 杀,杀戮; v. 杀,破坏,消减 
+ 
+1909 killer  n. 瞄准器(扼杀剂,消光杂质,屠刀,杀人者 
+
+1910 kilo  n. 公斤公里之略 
+ 
+1911 kilobyte  n. 千字节 
+ 
+1912 kilogram  n. 千克,公斤 
+ 
+1913 kilometer  n. =kilometre 公里 
+ 
+1914 kilowatt  n. 千瓦 
+ 
+1915 kiosk  n. 亭,凉亭,报摊 
+ 
+1916 kit  n. 装备,工具箱; v. 装备 
+ 
+1917 kludge  杂牌电脑,组装计算机 
+ 
+1918 knob  n. 把手,瘤 
+ 
+1919 label  n. 标签,签条,商标; v. 贴标签于,分类; n.[计算机]标记, DOS命令 : 加上或修改磁盘的标签 
+ 
+1920 label field  标签字段 
+ 
+1921 label record  标签记录 
+ 
+1922 labeled  有标签的 
+ 
+1923 labor  n. 工作,劳动,劳力,劳方; v. 苦干,劳动,分娩,阵痛; vi. 工作 
+ 
+1924 laboratory  n. 实验室;实验大楼 
+ 
+1925 lag  n. 落后,滞后; v. 落后; vi. 走得慢,落后 
+ 
+1926 LAN server  局域网服务器 
+ 
+1927 landscape  n. 风景,山水,风景画; v. 美化…的景观,进行造园工程 
+ 
+1928 language  n. 语言 
+ 
+1929 laptop computer  膝上型计算机 
+ 
+1930 large button  放大按钮 
+ 
+1931 large model  大模式 
+ 
+1932 laser  n. 激光 
+ 
+1933 laser diode  激光二极管 
+ 
+1934 laser disc  光盘 
+ 
+1935 Laser Disk  光盘 
+ 
+1936 laser printer  激光打印机 
+ 
+1937 latch  n. 门闩; v. 上闩 
+ 
+1938 latency  n. 潜伏,潜在 
+ 
+1939 launch   n.&v. 下水,发射,开始,升天,汽艇 
+ 
+1940 layer  n. 层 
+ 
+1941 layout  n. 布局,安排,设计 
+ 
+1942 leaders  前导字符 
+ 
+1943 leading  n. 领导,疏导,铅板; a. 领导的,主要的,在前的; vbl. 领导,引领,以铅接合; [计算机] 行间空白 
+ 
+1944 leaf  n. 叶,树叶,花瓣; v. 生叶,翻...的页 
+ 
+1945 learning curve  学习曲线 
+ 
+1946 leased  租用的 
+ 
+1947 leave  离开,告假,遗留,听任 
+ 
+1948 leaves  n. 树叶,花瓣; v. 离开,出发,留下 
+ 
+1949 led  lead的过去式(分词); (light emitting diode)发光二极管 
+ 
+1950 left  a. 左边的; ad. 向左; n. 左边; vt. 将...留在... 
+ 
+1951 left indent  左端缩进 
+ 
+1952 left justify  左对齐 
+ 
+1953 left section  左部 
+ 
+1954 legal  a. 法律的,合法的,法定的 
+ 
+1955 legend  n. 传说,传奇 
+ 
+1956 lending  n. 借贷,借贷物,借来的衣服; a. 借贷的; vbl. 借 
+ 
+1957 letter  n. 信,字母 
+ 
+1958 letter row  字母行 
+ 
+1959 level  n. 水平,水准,标准; a. 同高的,平坦的,齐平的; v. 弄平,瞄准,对准 
+ 
+1960 lever   n. 杠杆,似杠杆之工具; v. 撬开,使用杠杆 
+ 
+1961 lexical  a. 字典的,语句的 
+ 
+1962 lexicon  n. 辞典,语典 
+ 
+1963 LF  (line feed)换行 
+ 
+1964 liabilities  n.负债 
+ 
+1965 librarian  n. 图书管理员 
+ 
+1966 library  n. 图书馆 
+ 
+1967 licensed  a. 得到许可的; v. 许可; vbl. 许可 
+ 
+1968 life cycle  生命周期 
+ 
+1969 ligature  n. 绳,索,缚带; v. 缚,捆,结扎 
+ 
+1970 light  n. 光,光亮,灯; a. 轻的,光亮的,容易的; v. 点燃,著火,变亮 
+ 
+1971 limit  n. 限度,限制; vt. 限制,限定 
+ 
+1972 limitation  n. 限制 
+ 
+1973 limited  a. 有限的; Limited公司(财富500强公司之一，总部所在地美国,主要经营零售) 
+ 
+1974 limiter  限幅器 
+ 
+1975 line  n. 行,线,航线; v. 排成一行,顺...排列,划线于 
+ 
+1976 line feed  换行，走行 
+ 
+1977 line space  行间距 
+ 
+1978 line spacing  行距 
+ 
+1979 linearity  线性,直线性 
+ 
+1980 linefeed  换行 
+ 
+1981 link  n. 环节,联系; v. 连接,联系 
+ 
+1982 linker  [计算机] 链接器 
+ 
+1983 list  n. 目录,名单,明细表; v. 列出,列于表上,记入名单内 
+ 
+1984 list box  列表框 
+ 
+1985 listen  v. 听 
+ 
+1986 listening  收听,收听的,注意的 
+ 
+1987 listing  [计算机] 清单 
+ 
+1988 literal  a. 逐字的,字面上的,文字的; [计算机] 文字的 
+ 
+1989 live  a. 活的,生动的,精力充沛的,直播的; v. 活,居住,过著 
+ 
+1990 live operation  有效操作 
+ 
+1991 live time  使用期限 
+ 
+1992 load  n. 负荷,重担,装载量; v. 装载,装填,担负,给(枪)装子弹; [计算机] 装入 
+ 
+1993 loaded  a. 有负载的(装着货的,装有弹药的,加重的); v. 装载 
+ 
+1994 loader  输入程序,装入程序 
+ 
+1995 loading  装入,装载 
+ 
+1996 local  a. 地方性的,当地的,局部的; [计算机] 局部的 
+ 
+1997 locale  n. 现场,场所 
+ 
+1998 localization  n. 局限,地方分权,地方化 
+ 
+1999 locally  ad. 地方性地,局部性地,位置上 
+ 
+2000 locate  v. 找出,设于,位于 
+ 
+2001 locator  定位器 
+ 
+2002 lock  n. 锁,刹车,水闸; v. 锁,上锁,拘禁; [计算机] 锁定 
+ 
+2003 lock a file  锁定文件 
+ 
+2004 lock onto  锁定 
+ 
+2005 locking  锁定,捕捉 
+ 
+2006 lockout  闭锁,切断,同步损失 
+ 
+2007 lockup  锁定,闭 
+ 
+2008 log  n. 记录,圆木,日志; v. 伐木,切,航行 
+ 
+2009 log in  请求联机，注册 
+2010 log off  注销 
+ 
+2011 logarithm  对数 
+ 
+2012 logged  存入数据 
+ 
+2013 logger  记录器,注册器 
+ 
+2014 logging  记录,请求联机 
+ 
+2015 logic  n. 逻辑(学),逻辑性 
+ 
+2016 logical  a. 符合逻辑的,逻辑上的 
+ 
+2017 Login  登录，注册 
+ 
+2018 logo  n. 图形,商标; [计算机] 语标 
+ 
+2019 logoff  下网 
+ 
+2020 logon  注册，登录上网 
+ 
+2021 logout  退出，注销 
+ 
+2022 long  a. 长的,很久的,冗长的; v. 渴望,热望,极想; ad. 长期地 
+ 
+2023 look  n. 看,神色,样子,脸色; v. 看,看,注视 
+ 
+2024 look in  顺便来访=drop in 
+ 
+2025 look up  (在词典中、资料中) 查寻 
+ 
+2026 lossless compression  无损压缩 
+ 
+2027 lossy compression  有损压缩 
+ 
+2028 lost  a. 失去的,遗失的,迷惑的; v. 遗失,损失,失败; vbl. 遗失,损失,失败 
+ 
+2029 loudspeaker  n. 扬声器,喇叭 
+ 
+2030 low  n. 低点,低价,低; a. 低的,消沉的,低等的; ad. 低下地,谦卑地,低 
+ 
+2031 low end  低端，低档 
+ 
+2032 low memory  低端内存 
+ 
+2033 lower case  小写字母盘 
+ 
+2034 lowercase  小写体,小写字母 
+ 
+2035 low-level language  低级语言 
+ 
+2036 lumen  n. 流明,内腔 
+ 
+2037 luminance  亮度 
+ 
+2038 lump  n. 块状,瘤,很多; v. 使...成块状,混在一起,忍耐 
+ 
+2039 lumped network  集总网络 
+ 
+2040 lux  勒克司(照明单位) 
+ 
+2041 lvalue  左值 
+ 
+2042 m  兆 
+ 
+2043 Mach  n. 马赫 
+ 
+2044 machine  n. 机器,机械装置,机械般工作的人; v. 以机器制造; [计算机] 机器 
+ 
+2045 machine language  机器语言 
+ 
+2046 macro  宏,巨 
+ 
+2047 magazine  n. 杂志 
+ 
+2048 magnetic card  磁卡 
+ 
+2049 magnetic disk  磁盘 
+ 
+2050 magnetic drum  磁鼓 
+ 
+2051 magnetic record  磁记录 
+ 
+2052 magnetic track  磁道 
+ 
+2053 magnification  n. 扩大,夸张,赞美; [计算机] 放大率 
+ 
+2054 magnitude  n. 大小,重要,光度,（地震）级数 
+ 
+2055 mail  n. 邮件; v. 邮寄 
+ 
+2056 mail box  信箱，信箱区，邮箱 
+ 
+2057 mailbox  n. 邮筒,邮箱 
+ 
+2058 mailer  邮件程序 
+ 
+2059 mailing address  邮寄地址 
+ 
+2060 mailing label  邮件标签 
+ 
+2061 main  a. 主要的; n. 主要部分,干线 
+ 
+2062 mainframe  n. 主机 
+ 
+2063 mainline  主线 
+ 
+2064 maintain  v. 维持,维修,保养,坚持 
+ 
+2065 maintainability  可维护性 
+ 
+2066 maintainable  可维护的 
+ 
+2067 maintenance  n. 维护,保持,维修,生活费用 
+ 
+2068 major  n. 主修,成年人,陆军少校; a. 主要的,较多的,大部份的; v. 主修 
+ 
+2069 majority  n. 多数,大多数 
+ 
+2070 make  v. 做,制造,使; n. 牌子,型号 
+ 
+2071 male connector  公插头 
+ 
+2072 malfunction  n. 故障; v. 发生故障,不起作用 
+ 
+2073 manage  v. 处理,维持,达成 
+ 
+2074 management  n. 管理,经营,处理 
+ 
+2075 manager  n. 经理 
+ 
+2076 manifest  n. 载货单,运货单,旅客名单; a. 显然的,明白的; v. 显示,出现,证明 
+ 
+2077 manifold  n. 复印本,多种; a. 多种的,有许多部份的,多方面的; v. 复写,繁殖,增多 
+ 
+2078 manifolder  复印机 
+ 
+2079 manifolding  复写，复印 
+ 
+2080 manipulate  v. 操纵,利用,假造; [计算机] 操作 
+ 
+2081 manipulator  操纵器,操作者 
+ 
+2082 manner  n. 样子,礼貌,风格,方式 
+ 
+2083 mantissa  尾数 
+ 
+2084 manual  a. 手工的,体力的; n. 手册,指南 
+ 
+2085 manually  用手，手动地 
+ 
+2086 manufacture  n. 产品,制造,制造业; v. 制造; vt. 制造,加工 
+ 
+2087 manufacturer  n. 制造商 
+ 
+2088 manufacturing  n. 制造业; a. 制造业的 
+ 
+2089 manuscript  a. 手抄的; n. 手稿,原稿 
+ 
+2090 map  n. 地图; v. 映射,绘制...之地图,计划; [计算机] 存储区分配图 
+ 
+2091 map program  映象程序 
+ 
+2092 mapping  映射,映像 
+ 
+2093 margin  n. (时间,金钱)富余,利润,页边空白,边缘 
+ 
+2094 mark  n. 标志,分数,马克; v. 做标记于,留意,打分数 
+ 
+2095 mark symbol  标记符号 
+ 
+2096 marked  a. 有记号的,显著的,醒目的; v. 作记号,打分数,表示; vbl. 作记号,打分数,表示 
+ 
+2097 marked record  标记记录 
+ 
+2098 marker  n. 作记号的人,记分员,书签; [计算机] 记号 
+ 
+2099 marker file  标记文件 
+ 
+2100 marketing  n. 行销,买卖; vbl. 销售,买卖 
+ 
+2101 marquee  n. 大天幕,华盖 
+ 
+2102 marshal  n. 陆空军高级将官,典礼官,职行官; v. 整顿,配置,汇集 
+ 
+2103 masculine  n. 阳性,男性; a. 男性的,阳性的,有丈夫气的 
+ 
+2104 mask  n. 口罩,假面具,掩饰; v. 戴面具,掩饰,化装; [计算机] 掩码 
+ 
+2105 mask bit  屏蔽位 
+ 
+2106 mask bus  屏蔽总线 
+ 
+2107 mass  n. 块,大多数,质量; a. 群众的,大规模的; v. 使...集合 
+ 
+2108 master  n. 主人,硕士,母机; a. 主人的,主要的; v. 征服,控制,精通 
+ 
+2109 mastering  控制 
+
+2110 mat  n. 垫,丛,衬边; a. 粗糙的; v. 纠缠在一起,铺席于...上,使...无光泽 
+ 
+2111 match  n. 比赛,火柴,对手; v. 使...相配,与...竞争,相配 
+ 
+2112 material  n. 材料,原料,物质;; n. 素材,题材,资料; a. 物质的,实体的 
+ 
+2113 materialization   n. 具体化 
+ 
+2114 materialize  v. 赋与实质,使体现,物质化; v. 成有形,体现,实现 
+ 
+2115 math  n. 数学 
+ 
+2116 mathematical  a. 数学的 
+ 
+2117 matrix  n. 母体,子宫; 细胞; 脉石,字母; n.矩阵 
+ 
+2118 matte  暗区,不光滑的 
+ 
+2119 maximize  v. 取...最大值,最佳化; [计算机] 最大化 
+ 
+2120 maximize button  最大化按钮 
+ 
+2121 maximum  n. 极点,最大量,极大; a. 最高的,最大极限的 
+ 
+2122 MB  (mega byte)兆位 
+ 
+2123 MDK  多媒体开发工具包 
+ 
+2124 mean  n.平均值,平均数; a. 低劣的,卑贱的,平均的; v. 意谓,想要,意欲 
+ 
+2125 meanings  含义 
+ 
+2126 measure  n. 措施,办法,量度,尺寸; v. 测量,量 
+ 
+2127 measurement  n. 测量,衡量,尺寸,大小 
+ 
+2128 mechanical language  机器语言 
+ 
+2129 mechanical mouse  机械式鼠标 
+ 
+2130 mechanism  n. 机械,机构,结构; 机制，原理 
+ 
+2131 media  n. 媒体,新闻媒介,传播媒介 
+ 
+2132 medium  n. 媒体,方法,媒介; a. 适中的,中等的 
+ 
+2133 mega  兆,百万 
+ 
+2134 megabit  兆位 
+ 
+2135 megacomputer  百万次计算机 
+ 
+2136 melody  n. 旋律,曲子,美的音乐,曲调 
+ 
+2137 member  n. 成员,会员 
+ 
+2138 memo  n. 备忘录 
+ 
+2139 memorandum  n. 备忘录 
+ 
+2140 memory  n. 记忆 
+ 
+2141 mention  n. 提及,说起; v. 提到,谈到; vt. 说起,提到 
+ 
+2142 menu  n. 菜单 
+ 
+2143 menu bar  菜单栏 
+ 
+2144 menu option  菜单选择 
+ 
+2145 merge  v. 合并,消失,吞没; [计算机] 合并 
+ 
+2146 mesh  n. 网孔,网丝,陷阱; v. 以网捕捉,啮合,编织; [计算机] 网络 
+ 
+2147 message  n. 消息,信息 
+ 
+2148 meta-  [前缀]超越，超出 
+ 
+2149 metafile  图元文件 
+ 
+2150 meter  n. 公尺,韵律,计量器; v. 以计量器计量 
+ 
+2151 metric  a. 公制的,米制的; b. 度量标准 
+ 
+2152 micro-  [词头]微，百万分之一 
+ 
+2153 microcircuit  微电路 
+ 
+2154 microcode  微代码,微指令 
+ 
+2155 microcomputer  n. 微电脑; [计算机] 微机计算机 
+ 
+2156 microfiche  微缩胶片 
+ 
+2157 microfilm  n. 缩影胶片 
+ 
+2158 microinstruction  微指令 
+ 
+2159 micro-minicomputer  微小型计算机 
+ 
+2160 microphone  n. 麦克风,扩音器 
+ 
+2161 microprocessor  n.微处理器; [计算机] 微处理器 
+ 
+2162 microprogram  微程序 
+ 
+2163 microprogramming  微程序设计 
+ 
+2164 microsecond  微秒 
+ 
+2165 microsoft  微软(财富500强公司之一，总部所在地美国,主要经营软件数据服务) 
+ 
+2166 microwave  n. 微波 
+ 
+2167 middle  a. 中等的,中间的; n. 中间 
+ 
+2168 midi  音乐设备数字接口 
+ 
+2169 migrate   v. 移动,移往,随季节而移居; [计算机] 迁移 
+ 
+2170 migration  n. 移民,移往,移动 
+ 
+2171 mile  n. 英里 
+ 
+2172 milli-  [词头]毫，千分之一 
+ 
+2173 milliampere  毫安 
+ 
+2174 millimeter  n. 毫米 
+ 
+2175 millisecond  毫秒 
+ 
+2176 minicom  小型计算机 
+ 
+2177 minidisk  小磁盘 
+ 
+2178 minimal  a. 最低限度的,最小的 
+ 
+2179 minimalization  极小化，取最小值 
+ 
+2180 minimize  v. 将...减到最少; [计算机] 最小化 
+ 
+2181 minimize button  最小化按钮 
+ 
+2182 minimum  a. 最低的,最小的; n. 最小量,最低限度 
+ 
+2183 minor  n. 未成年人,副修科目; a. 次要的,较小的,二流的,未成年的; v. 辅修; [音乐] 小调 
+ 
+2184 minuend  被减数 
+ 
+2185 minus  a. 负的,减去的; n. 减号,负号; prep. 减去 
+ 
+2186 minus sign  减号 
+ 
+2187 minutes  会议记录 
+ 
+2188 mirror  n. 镜子; v. 反映,反射 
+ 
+2189 mirroring  镜象的 
+ 
+2190 miscellaneous   a. 各种的,多方面的; [计算机] 杂的; n. [合同法律用语]其他约定 
+ 
+2191 mismatch  vt.使错配，配合不当 
+ 
+2192 misoperation  误操作 
+ 
+2193 miss  n. 小姐; vt. 想念; vt. 漏掉,错过 
+ 
+2194 missing  a. 缺掉的,失踪的 
+ 
+2195 mission  n. 任务,代表团,使命; [计算机] 使命 
+ 
+2196 mistake  n. 错误,误会; v. 犯错,误认 
+ 
+2197 mix  n. 混合物,混乱; v. 混合,弄混,与; [计算机] 混合 
+ 
+2198 mixer  n. 混合器(混铁炉,混频器,混和者) 
+ 
+2199 mixture  n. 混合,混合物 
+ 
+2200 mnemonic  助记的,记忆的 
+ 
+2201 mode  n. 方式,样式,时尚，时兴 
+ 
+2202 model  n. 模型,模范,模特儿; a. 模范的,作模型用的; v. 做模型,塑造,模仿 
+ 
+2203 modelling  n. 模化(成型,模拟,仿形) 
+ 
+2204 modem  调制解调器 
+ 
+2205 modem commands  调制解调器命令 
+ 
+2206 modification  n. 修正,修饰,修改 
+ 
+2207 modified  修改的，变更的 
+ 
+2208 modifier  n. 修正的人,修饰字或片语 
+ 
+2209 modify  v. 修改,更正,修饰 
+2210 modular  模块化的 
+ 
+2211 modularization  模块化，积木化 
+ 
+2212 modularized program  模块化程序 
+ 
+2213 modulate  v. 调整,转调 
+ 
+2214 modulation  n. 调音,调节,抑扬 
+ 
+2215 modulator  调制器 
+ 
+2217 module  [计算机] 模块; n. 组件 
+ 
+2218 module check  模块检查，模块检验 
+ 
+2219 moire effect  莫尔效应 
+ 
+2220 moment  n. 片刻,瞬间；力矩 
+ 
+2221 monitor  n. 监督器,级长,监听员; v. 监视,监听,监督; [计算机] 显示器,监视 
+ 
+2222 mono-  [词头]单，单一的 
+ 
+2223 monochrome  n. 单色画,单色画法; a. 单色的,黑白的; [计算机] 单色的 
+ 
+2224 monochrome display  单色显示 
+ 
+2225 monochrome monitor  单色监视器 
+ 
+2226 monophonic  单声道的 
+ 
+2227 monostable  单稳态的 
+ 
+2228 montage   n. 混成画,拼集的照片,蒙太奇 
+ 
+2229 month  n. 月 
+ 
+2230 more  n. 更多; a. 多的,程度较大的,更大的; ad. 多,更多,进一步; n.[计算机] DOS命令 : 使DOS每次显示一屏信息, 以取代连续卷动 
+ 
+2231 morphing  变形 
+ 
+2232 mosaic  a. 摩西的; n. 马赛克,镶嵌细工,镶木细工 
+ 
+2233 motherboard  母板 
+ 
+2234 motif  n. 主题,意念,动机 
+ 
+2235 motion blur  运动模糊 
+ 
+2236 motion control  运动控制 
+ 
+2237 motor  a. 机动的,汽车的; n. 发动机,马达 
+ 
+2238 mount  n. 山峰,乘用马,框,衬纸; v. 增长,装上,爬上,乘马 
+ 
+2239 mouse  n. 老鼠,鼠标 
+ 
+2240 move  n. 移动,迁居,步骤,动作; v. 移动,搬家,使...感动,(有时也意译为"跳槽"); [计算机] 移动 
+ 
+2241 movement  n. 活动,运动 
+ 
+2242 movie file  电影文件 
+ 
+2243 movie ID  电影标识符 
+ 
+2244 MPC  (Multimedia PC)多媒体PC 
+ 
+2245 ms  毫秒; 女士 
+ 
+2246 multi-address  多地址 
+ 
+2247 multilevel  多级 
+ 
+2248 multimedia  n.多媒体 
+ 
+2249 multimedia PC  多媒体PC 
+ 
+2250 multi-platform  多平台 
+ 
+2251 multiple  a. 多样的,多重的; n. 倍数 
+ 
+2253 multiplexer  多路器 
+ 
+2254 multiplexing  多路技术 
+ 
+2255 multiplexor  多路器 
+ 
+2256 multiplicand  被乘数 
+ 
+2257 multiplication  n. 乘法,增加,乘法表; [计算机] 乘法 
+ 
+2258 multiplicity  n. 多数,重复,多样 
+ 
+2259 multiplier  乘数 
+ 
+2260 multiprocessing  多重处理,多处理技术 
+ 
+2261 multiprocessor  多处理器 
+ 
+2262 multiprogramming  多道程序 
+ 
+2263 multitasking  多任务处理 
+ 
+2264 multithreading  多线程，多线索 
+ 
+2265 multi-user  多用户 
+ 
+2266 multi-user input  多用户输入 
+ 
+2267 multi-window  多窗口 
+ 
+2268 music chip  音乐芯片 
+ 
+2269 must  n. 必须,未发酵葡萄汁,绝对必要的事物; conj. 必须 
+ 
+2270 mutex  互斥(体) 
+ 
+2271 mystify  v. 神秘化,使难解,迷惑 
+ 
+2272 n  纳 
+ 
+2273 name  n. 名字,名称,姓名; v. 命名,称呼,任命; [计算机] 名称 
+ 
+2274 name code  名字代码 
+ 
+2275 naming  命名 
+ 
+2276 nanosecond  纳秒 
+ 
+2277 narrative  n. 叙述,故事; a. 叙述的,叙事的,故事体的 
+ 
+2278 native  a. 本国的,本土的; n. 本地人 
+ 
+2279 nature  n.自然,自然界,自然状态; 本性,天性,性质; 质; 性格; 性; 本质 
+ 
+2280 navigate  v. 航行,驾驶,操纵 
+ 
+2281 navigation  n. 航行,航海 
+ 
+2282 navigation key  定位键 
+ 
+2283 navigational  a. 导航的(航海的) 
+ 
+2284 necessary  a. 必需的,必要的; n. [pl.]必需品 
+ 
+2285 needle  n. 针; v. 用针缝 
+ 
+2286 negate  v. 否定,否认,打消 
+ 
+2287 negation gate  "非"门 
+ 
+2288 negative  a. 否定的,负的,消极的; n. 底片,负数; vt. 否定 
+ 
+2289 negotiation  n. 谈判,协商 
+ 
+2290 Neper   奈培 
+ 
+2291 nest  n. 巢,窝; v. 筑巢；嵌入 
+ 
+2292 nested  嵌套的 
+ 
+2293 network  n. 网络; vt. 联络,交流 
+ 
+2294 networking  n.一种互助性的网络体系，计算机网络的设计 
+ 
+2295 neural  a. 神经的 
+ 
+2296 neutral  a. 中立的,中性的; n. 中立者 
+ 
+2297 new  a. 新的; n. 新的东西 
+ 
+2298 newsgroup  新闻组 
+ 
+2299 next  a. 下一个的; ad. 其次; n. 下一个; prep. 靠近 
+ 
+2300 next page  下一页 
+ 
+2301 nickname  n. 绰号,昵称; v. 给...取绰号,叫错名字 
+ 
+2302 node  n. 节,结节,瘤; [计算机] 节点 
+ 
+2303 noise  n. 声音,响声,响声,喧哗声,噪声; v. 谣传 
+ 
+2304 nomenclature  n. 命名法,专门语,术语 
+ 
+2305 nominal  a. 名义上的,有名无实的 
+ 
+2306 non-breaking space  不间断空格 
+ 
+2307 noninteractive  不相关的，非交互的 
+ 
+2308 non-interlaced  逐行，非隔行 
+ 
+2309 non-linear  非线性的 
+ 
+2310 non-numeric  非数字的，非数值的 
+ 
+2311 non-reusable  不可重用的 
+2312 non-scrollable  不可滚动的 
+ 
+2313 nonsolid color  非纯色 
+ 
+2314 nonzero  非零 
+ 
+2315 normal  a. 正常的,正规的; n. 正常状态 
+ 
+2316 normalize  v. 使常态化,使合标准,使合规格 
+ 
+2317 notation  n. 记号法,表示法,注释; [计算机] 记法 
+ 
+2318 note  n. 笔记,注解,备忘录; v. 记录,注解,注意; n. 票据,便条,纸币 
+ 
+2319 note indicator  附注记号 
+ 
+2320 notebook  n. 笔记本 
+ 
+2321 notebook computer  笔记本型计算机 
+ 
+2322 notepad  记事本 
+ 
+2323 notify  v. 通知,通告,报告 
+ 
+2324 notion  n. 观念,想法,主张 
+ 
+2325 novice  n. 新手,初学者 
+ 
+2326 nucleus  n. 核,核心,原子核 
+ 
+2327 null  a. 无效力的,无效的,无价值的; n. 零; [计算机] 空 
+ 
+2328 Num Lock key  数字锁定键 
+ 
+2329 number  n. 号码,数字; v. 编号,加号码,总计; vi. 总计; vt. 编号 
+ 
+2330 numbering  编号 
+ 
+2331 numeral  n. 数字,数; a. 数字的,表示数字的 
+ 
+2332 numeration  记数,计算 
+ 
+2333 numeric  数字的 
+ 
+2334 numerical  a. 数字的,用数字表示的 
+ 
+2335 numerous  a. 为数众多的,许多 
+ 
+2336 object  n. 物,物体,目标,宾语; v. 反对 
+ 
+2337 obscure  a. 微暗的,难解的,不著名的; v. 使...阴暗,隐藏,使...含糊 
+ 
+2338 observation  n. 观察; vb.了解 
+ 
+2339 observer  n. 观察者 
+ 
+2340 obsolete  a. 已废弃的,过时的 
+ 
+2341 obstruction  n. 障碍,妨碍,闭塞 
+ 
+2342 occasionally  ad. 偶尔地 
+ 
+2343 occlude  v. 使闭塞,封闭,关闭,逐出 
+ 
+2344 occupation  a. 军事占领的,职业的; n. 职业 
+ 
+2345 occupied state  占用态 
+ 
+2346 occupy  v. 占领,占,住进 
+ 
+2347 occur  v. 发生; vi. 出现,存在,发生 
+ 
+2348 occurrence  n. 发生,事件,发现 
+ 
+2349 OCR  光字符阅读器，光字符识别 
+ 
+2350 octal  八进制的 
+ 
+2351 odd  a. 奇数的,古怪的,剩余的; . 奇数 
+ 
+2352 odd-even check  奇偶校验 
+ 
+2353 odometer  n. 里程表 
+ 
+2354 OEM  初始设备制造厂家 
+ 
+2355 oersted  奥斯特(磁场强度单位) 
+ 
+2356 off  a. 远的,休假的,空闲的; ad. 走开,出发,隔断; prep. 离开,脱落,在...之外 
+ 
+2357 off state  关闭状态 
+ 
+2358 offer  n. 出价,提议; v. 提供,出价,企图 
+ 
+2359 off-hook  摘机 
+ 
+2360 office  n. 办公室 
+ 
+2361 office automation  办公自动化 
+ 
+2362 office network  办公室网 
+ 
+2363 off-line  脱机 
+ 
+2364 offset  n. 抵销,支派,平版印刷; v. 弥补,抵销,用平版印刷; [计算机] 偏移 
+ 
+2365 ohm  n. 欧姆 
+ 
+2366 OK  a. 好,不错,可以; ad. 好,不错,可以 
+ 
+2367 OK button  OK按钮 
+ 
+2368 old password  原口令 
+ 
+2369 omission  n. 省略,遗漏,疏忽 
+ 
+2370 omit  v. 省略,疏忽,遗漏 
+ 
+2371 on the fly  在运行中 
+ 
+2372 one-address  单地址 
+ 
+2373 one-chip  单片的 
+ 
+2374 one-level  一级 
+ 
+2375 one-to-many  一对多 
+ 
+2376 one-to-one  一一对应 
+ 
+2377 one-way  adj.单程的；单行的 
+ 
+2378 on-hook  挂机 
+ 
+2379 online  n.联机，在线 
+ 
+2380 on-line  a.联机的，联线的 
+ 
+2381 only  a. 唯一的; ad. 只,仅仅; conj. 可是,不过 
+ 
+2382 on-screen  屏幕上的 
+ 
+2383 on-state  接通状态，开启状态 
+ 
+2384 opaque  a. 不透明的,难懂的 
+ 
+2385 open  n. 公开,户外,空旷; a. 开著的,开放的,公开的; v. 打开,公开,开放 
+ 
+2386 open architecture  开放式体系结构 
+ 
+2387 open file name  打开文件名 
+ 
+2388 open inbox  打开收件箱 
+ 
+2389 open system  开放系统 
+ 
+2390 opening file  打开文件 
+ 
+2391 operand  操作数 
+ 
+2392 operate  v. 操作,运转,动手术 
+ 
+2393 operating  操作的 
+ 
+2394 operating ambient  运行环境 
+ 
+2395 operating system  操作系统 
+ 
+2397 operating time  操作时间 
+ 
+2398 operation  n. 手术, 行动，活动, 操作 
+ 
+2399 operational  a. 操作的,运作的 
+ 
+2400 operator  n. 操作员,话务员,报务员 
+ 
+2401 opposite  a. 相对的,相反的,对面的; prep. 对面 
+ 
+2402 optical  a. 眼睛的,视觉的,光学的 
+ 
+2403 optimization  优化; n. 最佳化 
+ 
+2404 optimize  v. 使...完美,乐观,使...完善; v.优化 
+ 
+2405 optimum  n. 最适宜; a. 最适宜的 
+ 
+2406 option  n. 选择 
+ 
+2407 optional  a. 可以任选的,非强制的 
+ 
+2408 Orange Book  橙皮书 
+ 
+2409 order  n.订单,命令; n. 顺序,整齐,勋章,阶级,决议; vt.命令,调整,定购 
+ 
+2410 ordering  定购,命令,次序 
+ 
+2411 ordinal  n. 序数; a. 顺序的; [计算机] 序号 
+ 
+2412 organization  n. 机构,组织 
+2413 organize  vi. 组织起来; vt. 组织 
+ 
+2414 orient  a. [诗]东方的; n. 东方,亚洲 
+ 
+2415 orientation  n. 定位,适应,情况介绍; [计算机] 定向 
+ 
+2416 oriented  导向的,定向的 
+ 
+2417 origin  n. 起源,出身,开端 
+ 
+2418 original  a. 最初的,原始的,有独创性的,原版的; n. 起源,原件,原稿 
+ 
+2419 originally  ad. 本来,原来,最初; 重要的 
+ 
+2420 os  操作系统 
+ 
+2421 oscillometer  示波计 
+ 
+2422 oscilloscope  示波器 
+ 
+2423 other  a. 别的,其他的; pron. 另一个人(或事) 
+ 
+2424 otherwise  ad. 否则,要不然,不同地,别的方式 
+ 
+2425 outbox  待发箱 
+ 
+2426 outcome  n. 结果 
+ 
+2427 outconnector  外接器 
+ 
+2428 out-gate  输出门 
+ 
+2429 outgoing  n. 外出,开支,流出; a. 喜欢外出的; [计算机] 输出 
+ 
+2430 outlet   n. 出口,出路,通风口,批发商店 
+ 
+2431 outline  n. 大纲,轮廓,概要; v. 描画轮廓,描述要点 
+ 
+2432 outline font  轮廓字体 
+ 
+2433 output  n. 产量,输出,输出功率; vt. 输出(信息等) 
+ 
+2434 outside  ad. 在外面; n.&a. 外部; prep. 在...外; pron. 在...外边 
+ 
+2435 overall  a. 全部的,全体的,一切在内的; ad. 总的来说,全部地 
+ 
+2436 overdue  a. 过期的,未兑的,迟到的 
+ 
+2437 overflow  n. 溢值,超值,泛滥; v. 泛滥,溢出,充溢; [计算机] 溢出 
+ 
+2438 overhead  n. 经常开支,普通用费; a. 在头上的,高架的; ad. 在头顶上,在空中,在高处; [计算机] 总开销 
+ 
+2439 overheat  v. 使过热,过热 
+ 
+2440 overlap  n. 重叠,重复; v. 重叠,重复; [计算机] 重叠 
+ 
+2441 overlay  覆盖 
+ 
+2442 overload  vt. 使超载 
+ 
+2443 override  v. 弃绝,渺视; [计算机] 废除 
+ 
+2444 overrun  v. 蔓延,泛滥; vt. 否决,驳回 
+ 
+2445 overstriking  (字体)加粗 
+ 
+2446 overtime  n. 加班时间(加班加点费); ad. 在规定时间之外(超出时间地) 
+ 
+2447 overview  n. 概观; [计算机] 概貌 
+ 
+2448 overwrite  重写 
+ 
+2449 owner  n. 所有人,物主 
+ 
+2450 ownership  n. 所有权 
+ 
+2451 pacing  基本的；步测 
+ 
+2452 pack  n. 包裹,一群,一副; v. 包装,捆扎,塞满 
+ 
+2453 package  n. 包裹,套装软件,包; v. 包装 
+ 
+2454 packet  n. 储存器,讯息封,小包; v. 打包,装进小包 
+ 
+2455 packing  n. 包装 
+ 
+2456 pad  n. 填补,衬垫,印色盒,信笺簿; v. 填补,徒步,夸大 
+ 
+2457 pad character  填充字符 
+ 
+2458 padding  n. 垫充,垫塞,填料 
+ 
+2459 paddle  n. 桨,划桨,明轮翼; v. 划桨,戏水,抚弄 
+ 
+2460 page  n. 页; v. (给...)当听差; vt. (通过扩音器、传呼机等)呼叫 
+ 
+2461 pagination  分页,标记页数 
+ 
+2462 paging  内存分页,页面调度 
+ 
+2463 paint  n. 油漆,颜料,绘画作品; v. 油漆,绘画 
+ 
+2464 paintbrush  画笔 
+ 
+2465 pair  n. 双,对,副; v. 使...成对 
+ 
+2466 palette  n. 调色板,颜料 
+ 
+2467 pan  n. 平底锅; v. 严厉批评 
+ 
+2468 pane  n. 窗玻璃,方框,方格; v. 嵌窗玻璃 
+ 
+2469 panel  n. 面板,嵌板,仪表盘,座谈小组; v. 嵌镶; 专门问题小组 
+ 
+2470 panic dump  应急转储 
+ 
+2471 paper  n. 纸,文件,论文,报纸; v. 用纸糊,贴壁纸; adj.纸制的 
+ 
+2472 paper jam  卡纸 
+ 
+2473 paper size  纸张大小 
+ 
+2474 paragraph  n. 段落; vt. 将...分段 
+ 
+2475 parallel  a. 平行的; ad. 平行地; n. 平行线; vt. 与...平行 
+ 
+2476 parent  n. 父母,父母亲,根源 
+ 
+2477 parent directory  父目录 
+ 
+2478 parentheses  圆括号 
+ 
+2479 parenthesis  n. 括弧,插入语,附带 
+ 
+2480 parity  n. 同等,同格,同位 
+ 
+2481 parse  v.&n. 从语法上分析 
+ 
+2482 parser  语法分析器 
+ 
+2483 part  n. 部份,零件,角色; v. 分开,分离,分配; ad. 部份地,有几分 
+ 
+2484 partial  a. 部分的,偏袒的,偏爱的 
+ 
+2485 participant  a. 参与的; n. 参加者,参与者 
+ 
+2486 particular  n. 个别项目,详细说明; a. 特别的,独有的,挑剔的 
+ 
+2487 particularly  ad. 特别,尤其 
+ 
+2488 partition  n. 分割,隔离物,隔墙; v. 区分,隔开,分割 
+ 
+2489 partner  n. 合作者,搭档; v. 同...合作,做...的搭档 
+ 
+2490 pass  n. 途径,通行,及格; v. 经过,消逝,传递 
+ 
+2491 passage  n. 通道,走廊,一段文章 
+ 
+2492 password  n. 口令 
+ 
+2493 paste  n. 糊,浆糊; v. 粘,贴 
+ 
+2494 paste from  从…粘贴 
+ 
+2495 patch  n. 片,补绽,碎片; v. 补缀,掩饰,平息 
+ 
+2496 patent   n. 专利权,执照,专利品; a. 专利的,显著的,新奇的; v. 取得...的专利权,请准专利 
+ 
+2497 path  n. 路线,轨道,路程,小路,小径 
+ 
+2498 pattern  n. 图案,式样,典范; v. 仿造,模仿 
+ 
+2499 pause  暂停,中止 
+ 
+2500 Pause key  暂停键 
+ 
+2501 PC  (personal computer)个人计算机 
+ 
+2502 PC-compatible  PC兼容机 
+ 
+2503 PDA  个人数字助理 
+ 
+2504 peer  n. 同侪,匹敌,贵族; v. 凝视,窥视 
+ 
+2505 pels  像素，图元 
+ 
+2506 penalty  n. 处罚,惩罚 
+ 
+2507 pending  a. 未决定的,待决的; prep. 直到,当...的时候,在...期间 
+ 
+2508 percent  a. 百分之一,(与基数词连用)百分之...的; n. 百分之... 
+ 
+2509 percentage  n. 百分率 
+ 
+2510 perforate  v. 穿孔于,刺穿 
+ 
+2511 perforator  穿孔机 
+ 
+2512 perform  v. 执行,表演,做 
+2513 performability  可执行性 
+ 
+2514 performance  n. 表演,表现; n. 性能 
+ 
+2515 period  n. 学时,课时,一段时间,时期,周期,句点 
+ 
+2516 periodic table  (元素)周期表 
+ 
+2517 periodicity  n. 定期性,周期性,周期数 
+ 
+2518 peripheral  a. 不重要的,外围的 
+ 
+2519 permanence  n. 永久,持久 
+ 
+2520 permanent  a. 永久的,持久的 
+ 
+2521 permanent swap file  永久交换文件 
+ 
+2522 permanently  ad. 永久地，持久地 
+ 
+2523 permission  n. 同意,许可,允许 
+ 
+2524 permit  n. 许可证,执照; v. 允许,许可 
+ 
+2525 permutation  n. 交换,排列 
+ 
+2526 person  n. 人 
+ 
+2527 personal  a. 私人的,个人的; n. 私人信息启示 
+ 
+2528 personalize  个人化 
+ 
+2529 personnel  n. 人员,职员; a. 个人的,人事的 
+ 
+2530 perspective  n. 远景,看法,透视; a. 透视的 
+ 
+2531 pertain  v. 属于,关于 
+ 
+2532 phase  n. 相, 相位,时期,局面,阶段; v. 逐步执行,实行,按计划进行 
+ 
+2533 phenomenon  n. 现象 
+ 
+2534 phone  n. 电话; v. 打电话 
+ 
+2535 phoneme  音位 
+ 
+2536 phosphor  磷光体 
+ 
+2537 photocell  光电池 
+ 
+2538 phrase  n. 短语,习语; vt. 表达,叙述 
+ 
+2539 physical  a. 身体的,物理的,物质的; n. 体检 
+ 
+2540 physical address  物理地址 
+ 
+2541 physically  ad. 身体上地 
+ 
+2542 pic  (Picture)图像压缩 
+ 
+2543 pick  n. 精选,鹤嘴锄; v. 摘,挑选,挑惕,剔除;; 挑衅 pick a fight 向人挑战 
+ 
+2544 picking  采集 
+ 
+2545 pickup  n. 拾(拾音器,传感器); a. 现成的(挑选的) 
+ 
+2546 pickup reel  拾带盘 
+ 
+2547 picosecond  皮秒 
+ 
+2548 picture  n. 图画,照片,景色; v. 画,描写,想像 
+ 
+2549 pilot  n. 飞行员,领航员,引航员; v. 领航,驾驶,向导 
+ 
+2550 pin  n. 大头针,针,拴; v. 将...用针别住,钉住,压住; n 鸦雀无声,出奇的静 
+ 
+2551 pipe  n. 管,烟斗,笛; v. 以管输送,吹哨子,吹笛; 尖声说话 pipe up 
+ 
+2552 pipeline  n. 管道,管线 
+ 
+2553 pipelining  流水线 
+ 
+2554 piping  管道 
+ 
+2555 piracy  n. 海盗行为,剽窃,著作权侵害 
+ 
+2556 pirate software  盗版软件 
+ 
+2557 pitch  n. 程度,投掷,音高; v. 投,向前倾跌,扎牢,定调,用沥青覆盖 
+ 
+2558 PivotTable  数据透视表 
+ 
+2559 pix  图像 
+ 
+2560 pixel  像素 
+ 
+2561 pixmap  象图映射 
+ 
+2562 place  n. 地方,处境,职务; v. 放置,任命,安排 
+ 
+2563 placeholder  位置标志符,占位符 
+ 
+2564 placement  n. 方位(位置,堆放) 
+ 
+2565 plain  n. 平原,草原; a. 简单的,平坦的,平常的,家常的; a.纯的，不掺杂的 
+ 
+2566 plan  n. 计划,策略,方法; v. 计划,设计,意欲 
+ 
+2567 plane  a. 平的; n. 飞机,平面,刨子; v. 刨 
+ 
+2568 plane graph  平面图 
+ 
+2569 planes  位面 
+ 
+2570 planner  n. 计划者 
+ 
+2571 planning  n. 计划(分配); v. 计划(分配) 
+ 
+2572 plant  n. 植物; v. 种植; n. 工厂 
+ 
+2573 platen  压纸卷筒,压盘,滚筒 
+ 
+2574 platform  n. 平台,月台,讲台,坛 
+ 
+2575 play  n. 游戏,游玩,剧本,比赛; v. 玩,进行比赛,演奏,播放 
+ 
+2576 player  n. 比赛者,运动员 
+ 
+2577 plot  n. 图,阴谋,情节; v. 绘图,密谋,计划 
+ 
+2578 plotter  n. 阴谋者,计划者 
+ 
+2579 plug  n. 塞子,消防拴,电插头; v. 插入,塞住,接插头 
+ 
+2580 plug and play  即插即用 
+ 
+2581 plug in  插上插头 
+ 
+2582 pocket  n. 口袋,钱,袋; v. 装...在口袋里,隐藏,私吞 
+ 
+2583 point  n. 点,要点,尖端; v. 指出,指,描准 
+ 
+2584 point size  磅 
+ 
+2585 pointer  n. 指示的人,教鞭,暗示 
+ 
+2586 pointer type  指针类型 
+ 
+2587 pointing  指点,指示 
+ 
+2588 points  磅 
+ 
+2589 poll  n. 投票,民意测验,选举人民意; v. 轮询,获得...票,剪树枝 
+ 
+2590 polling  n. 投票 
+ 
+2591 polygon  多边形 
+ 
+2592 polymorphism  多形性 
+ 
+2593 polynomial  多项式 
+ 
+2594 pool  n. 池,水塘,撞球 
+ 
+2595 pop  n. 取出,砰然声,流行乐曲; a. 流行的,热门的,通俗的; v. 取出,发出爆裂声,突然伸出 
+ 
+2596 pop-down  弹下 
+ 
+2597 pop-down menu  弹下式菜单 
+ 
+2598 pop-up  弹出式 
+ 
+2599 pop-up menu  弹出式菜单 
+ 
+2600 pop-up window  弹出式窗口 
+ 
+2601 portability  可移植性,可携带,轻便 
+ 
+2602 portable  a. 轻便的,手提式的; n. 手提打字机 
+ 
+2603 portfolio  n. 文件夹,证券投资组合 
+ 
+2604 portion  n. 部分,份,命运; v. 将...分配,分配 
+ 
+2605 portrait  n. 肖像,画像 
+ 
+2606 position  n. 位置,职位,状态; v. 安置,决定...的位置 
+ 
+2607 positive  a. 肯定的,积极的,绝对的; a. 正面的,正数的,阳性的 
+ 
+2608 possibility  n. 可能性 
+ 
+2609 possible  a. 可能的 
+ 
+2610 possibly  ad. 可能地,也许 
+ 
+2611 post  n. 邮件,标竿,职位; v. 邮递,公布,布置 
+ 
+2612 post production  后期制作 
+2613 postamble  后同步信号 
+ 
+2614 postfix  后缀 
+ 
+2615 post-office  n.邮局 
+ 
+2616 postpone  v. 延期; vt. 推迟,延期 
+ 
+2617 potentially  ad. 潜在地 
+ 
+2618 power  n. 力量,势力,动力; v. 使...有力量,供以动力,激励 
+ 
+2619 power user  高级用户 
+ 
+2620 powerful  a. 强有力的 
+ 
+2621 ppm  每分钟页数，百万分之… 
+ 
+2622 practice  n. 练习,实行,习惯; v. 练习,实习,开业 
+ 
+2623 pragmatics  语用学,语用论 
+ 
+2624 preamble  n. 前文,序文,前言 
+ 
+2625 pre-amplifier  前置放大器 
+ 
+2626 prebuilt  预建的 
+ 
+2627 precede  v. 在...之前,优于,较...优先 
+ 
+2628 precedence  n. 优先,居先 
+ 
+2629 precedents  引用单元格 
+ 
+2630 preceding  a. 在前的,在先的 
+ 
+2631 precision  a. 精确的; n. 精确,精密度 
+ 
+2632 precondition  v. 事先具备条件,事先训练; n. 先决条件 
+ 
+2633 predicate  n. 述语; a. 述语的; v. 断定为,意味 
+ 
+2634 predict  v. 预知,预言,预报 
+ 
+2635 preemption  n. 先买 
+ 
+2636 preface  n. 序文,绪言,前言; v. 作序,写前言,以...开始 
+ 
+2637 prefer  v. 较喜欢,宁可,提出 
+ 
+2638 preference  n. 偏爱,优先,喜爱物 
+ 
+2639 preferred  首选的 
+ 
+2640 pre-fetch  预取 
+ 
+2641 prefix  n. 前缀; vt. 加...作为前缀,置于前面 
+ 
+2642 prefix notation  前缀表示法 
+ 
+2643 prelude  n. 序幕,前奏 
+ 
+2644 preparation  n. 准备 
+ 
+2645 preprocess  预处理 
+ 
+2646 preprocessor  预处理程序,预处理器 
+ 
+2647 pre-production  前期制作 
+ 
+2648 prepunch  预先穿孔 
+ 
+2649 prerequisite  n. 先决条件 
+ 
+2650 presence  n. 出席,在场 
+ 
+2651 presentation  n. 陈述,介绍,赠与; n. [美]讲课,报告 
+ 
+2652 preserve  v. 保护,保持,维持,防腐,做蜜饯 
+ 
+2653 preset  v. 事先调整 
+ 
+2654 press  n. 新闻界,压力; v. 按,压 
+ 
+2655 pressing  a. 紧迫的,紧急的,切实的; vbl. 压迫 
+ 
+2656 prestore  预存储 
+ 
+2657 presumption  n. 推测,可能性 
+ 
+2658 prevent  v. 预防,防止 
+ 
+2659 prevent changes  防止修改 
+ 
+2660 preview  n. 事先查看,查阅; v. 事先查看,查阅 
+ 
+2661 previous  a. 在...之前,先,前,以前的 
+ 
+2662 previously  ad. 以前(预先) 
+ 
+2663 price  n. 价格,代价,价值; v. 定...的价格,标价 
+ 
+2664 primarily  ad. 首先,主要地 
+ 
+2665 primary  n. 最主要者; a. 主要的,初期的,根本的 
+ 
+2666 prime  a. 首要的,最好的; n. 青春,壮年,全盛时期 
+ 
+2667 prime index  主索引 
+ 
+2668 primitive  a. 原始的; n. 原始人 
+ 
+2669 principal   a. 主要的; n. 负责人,校长,资本 
+ 
+2670 print  n. 版,印刷物,印迹; v. 印刷,出版,打印 
+ 
+2671 printable  可印刷的 
+ 
+2672 printer  n. 打印机 
+ 
+2673 printing  n. 印刷,印刷术; vbl. 印刷 
+ 
+2674 printout  打印输出 
+ 
+2675 prior  a. 更重要的,较早的,在先的; ad. 居先 
+ 
+2676 privacy  n. 隐私,隐居,秘密 
+ 
+2677 private  a. 私人的; n. 士兵 
+ 
+2678 private folder  私人文件夹 
+ 
+2679 privilege  n. 特权,特别恩典,基本人权; v. 给与...特权 
+ 
+2680 privileged  a. 有特权的 
+ 
+2681 probabilistic  概率性的 
+ 
+2682 probable  a. 很可能的; n. 很可能的事 
+ 
+2683 probably  ad. 大概,或许 
+ 
+2684 problem  a. 成问题的; n. 问题 
+ 
+2685 procedural  a. 程序的 
+ 
+2686 procedure  n. 程序,手续,步骤 
+ 
+2687 proceed  v. 著手进行,继续进行 
+ 
+2688 process  n. 过程; v. 加工; vi. 列队前进; vt. 加工,处理 
+ 
+2689 processing  n.&adj.加工(的) 
+ 
+2690 processor  n. 处理器,处理机 
+ 
+2691 produce  n. 产品,农产品; v. 产生,生产,提出 
+ 
+2692 product  n. 产品,成果,乘积 
+ 
+2693 production  n. 生产,产品, 作品,成果 
+ 
+2694 production level video  制作级视频 
+ 
+2695 productivity  n. 生产率,生产能力 
+ 
+2696 professional  a. 职业的,专业的; n. 专业人员 
+ 
+2697 profile  n. 侧面,轮廓,人物素描; v. 描绘...轮廓,评论人物; n. 概要,人物简介 
+ 
+2698 profiling  程序概要分析 
+ 
+2699 program  n. 节目,程序,计划; v. 规划,拟...计划,制作节目 
+ 
+2700 programmable  可编程的 
+ 
+2701 programmer  n. 程序员,程序规划员 
+ 
+2702 programming  n. 规画,设计; vbl. 规画,设计 
+ 
+2703 progress  n. 进步,发展,前进; v. 促进,进步,进行 
+ 
+2704 project  n. 工程,项目,计划,事业; v. 计划,设计,表达; v. 投射,放映,凸出 
+ 
+2705 project plan  项目规划，工程计划 
+ 
+2706 projection  n. 发射,计画,突出部分 
+ 
+2707 projector  n. 放映机(探照灯,发射装置,设计者,制图投射线) 
+ 
+2708 prologue  n. 开场白,序言,序幕; v. 说开场的,加上...前言 
+ 
+2709 promote  v. 促进,提升,升迁,促销 
+ 
+2710 prompt  n. 提示; a. 迅速的,敏捷的,立刻的; vt. 激起,促进,推动 
+ 
+2711 prompt command  提示命令 
+ 
+2712 prompting  n. 刺激,激励,暗示 
+2713 proof  a. 防...的,耐...的; n. 校样,证据,证明; v. 检验,校对; vt. 检验 
+ 
+2714 proper  a. 适当的,正确的,合适的,正当的,规矩的 
+ 
+2715 properly  ad. 适当地,相当地,当然地 
+ 
+2716 property  n. 财产,性质 
+ 
+2717 proportion  n. 比例,均衡,部份 
+ 
+2718 proprietary  a. 专利的(所有的); n. 所有权(所有人) 
+ 
+2719 protect  v. 保护 
+ 
+2720 protected  受保护的 
+ 
+2721 protected mode  保护模式 
+ 
+2722 protection  n. 保护 
+ 
+2723 protocol  n. 草案, 协议,礼仪; vt 拟定议定书 
+ 
+2724 prototype  n. 原型 
+ 
+2725 prove  v. 证明,查验,显示 
+ 
+2726 PrtSc  (print screen)打印屏幕 
+ 
+2727 pruning  修剪 
+ 
+2728 pseudo  假的,冒充的 
+ 
+2729 public  a. 公共的,公众的; n. 公众,民众 
+ 
+2730 public domain  公共领域 
+ 
+2731 publication  n. 出版,发行,出版物,公布,发表 
+ 
+2732 publish  v. 出版; vt. 出版,发行 
+ 
+2733 publisher  n. 出版者,发行人 
+ 
+2734 puck  圆盘 
+ 
+2735 pulldown  折叠式的 
+ 
+2736 pull-down menu  下拉菜单 
+ 
+2737 pulse  n. 脉冲,脉波,脉搏; v. 跳动,脉跳 
+ 
+2738 punch  n. 打洞器,钻孔机,殴打; v. 以拳重击,开洞,剪票; n. 酒、水、糖等制成的鸡尾酒 
+ 
+2739 punctuation  n. 标点 
+ 
+2740 purchase  n. 购买,购买的物品; v. 购买 
+ 
+2741 pure  a. 纯的,纯洁的,纯理论的,抽象的,完全的 
+ 
+2742 pure code  纯代码 
+ 
+2743 purge  n. 整肃,清除,泻药; v. 清除,泻,整肃 
+ 
+2744 purpose  n. 目的,意图 
+ 
+2745 push  n. 推,奋力,决心; v. 推,挤,逼迫 
+ 
+2746 push-button  adj．用按钮操纵的 
+ 
+2747 pyramid  n. 金字塔 
+ 
+2748 quad  n. 四边形(象限,四倍,四心线组,嵌块); vt 用空铅填 
+ 
+2749 quadrant  象限 
+ 
+2750 quad-speed drive  四倍速驱动器 
+ 
+2751 qualifier  n. 给与资格的人,限定物,限定句 
+ 
+2752 qualify  v. 取得资格,有资格 
+ 
+2753 quality  n. 品质,特质,才能 
+ 
+2754 quantity  n. 量,数量,大量 
+ 
+2755 quantization  量子化,数字化 
+ 
+2756 quantize  量化,数字转换 
+ 
+2757 quantizer  量化器,数字转换器 
+ 
+2758 quantizing noise  量化噪声 
+ 
+2759 quantum  n. 分配量,额,量 
+ 
+2760 quark  夸克 
+ 
+2761 quartet  n. 四重奏 
+ 
+2762 query  n. 疑问,疑问号,质问; v. 问 
+ 
+2763 question  n. 问题,疑问,疑问句; v. 询问,审问,怀疑 
+ 
+2764 questionary  调查表 
+ 
+2765 queue  n. 行列,长队; v. 排队; vi. 排长队 
+ 
+2766 quick  a. 快的,迅速的; ad. 快,迅速地; n.皮下（尤指指甲下）细嫩或敏感的肉；活肉 
+ 
+2767 quiescing  停顿 
+ 
+2768 quiet  n. 安静,闲适,平静; a. 安静的,静止的,宁静的; v. 静止,使...减少,使...安心 
+ 
+2769 quinary  五进制的,第五位的 
+ 
+2770 quintet  五位字节 
+ 
+2771 quit  v. 离开,辞职,停止 
+ 
+2772 quotation  n. 1．引语,语录; 2．报价单; 3．行情表 
+ 
+2773 quotation marks  引号 
+ 
+2774 quote  n. 引用; v. 引述,举证,报价 
+ 
+2775 quotient  n. 商 
+ 
+2776 radar  n. 雷达 
+ 
+2777 radian  弧度 
+ 
+2778 radiate  v. 放射,散发,辐射 
+ 
+2779 radix  基数,根 
+ 
+2780 ragged  a. 衣衫褴褛的,粗糙的,刺耳的 
+ 
+2781 rail  n. 栏杆,铁轨,扶手; v. 以横木围栏,铺铁轨 
+ 
+2782 raise  n. 上升,高地,增高; v. 升起,举起,饲养 
+ 
+2783 ram  (random access memory)随机存取存储器 
+ 
+2784 RAM cache  RAM 高速缓存 
+ 
+2785 random  n. 随意,任意; a. 任意的,随便的,胡乱的 
+ 
+2786 randomness  随机性 
+ 
+2787 range  n. 范围,行列,射程; v. 排列,归类于,延伸; n. 山脉 
+ 
+2788 rank  n. 排名,等级,军衔,阶级; a. 繁茂的,恶臭的,讨厌的; v. 排列,归类于,列于 
+ 
+2789 rapid  a. 迅速的,飞快的,急促的 
+ 
+2790 raster  光栅,扫描线 
+ 
+2791 rate  n. 比率,等级,价格; v. 估价,认为,检定等级 
+ 
+2792 rated  额定的 
+ 
+2793 rating  n. 等级 
+ 
+2794 ratio  n. 比,比率 
+ 
+2795 rational  a. 合理的,理性的; n. 有理数 
+ 
+2796 raw  a. 生的 
+ 
+2797 reach  n. 延伸,范围,河段; v. 到达,伸出,延伸 
+ 
+2798 reactivate  v. 使恢复现役,再开工 
+ 
+2799 read  读,阅读,看懂,理解 
+ 
+2800 readability  可读性 
+ 
+2801 readable  a. 值得一读的,易读的,读起来津津有味的 
+ 
+2802 reader  n. 读物,读本,读者 
+ 
+2803 readily  ad. 不迟疑地,迅速地,轻易地 
+ 
+2804 reading  a. 阅读的; n. 阅读 
+ 
+2805 readme  自述文件 
+ 
+2806 read-only file  只读文件 
+ 
+2807 read-write  读写 
+ 
+2808 ready  a. 准备好的,乐意的,情愿的 
+ 
+2809 real  a. 实际的,现实的,真的,真实的 
+ 
+2810 reallocation  重新分配 
+ 
+2811 realm  n. 王国,领域 
+ 
+2812 real-time  a.实时的 
+2813 reappear  v. 再出现; 再现 
+ 
+2814 rear  n. 后面,背后; a. 后面的,背面的,后方的; v. 养育,饲养,举起 
+ 
+2815 rearrange  v. 重新安排（某物）; 改变（某物）的秩序 
+ 
+2816 reason  n. 理由,原因,理智,理性; v. 说服,推论,下判断 
+ 
+2817 reasoning  n. 推论,推理,论证; vbl. 说服,推论 
+ 
+2818 reassemble  重装，再汇编 
+ 
+2819 rebinding  重新连接 
+ 
+2820 reboot  再引导 
+ 
+2821 rebuild  v. 再建,改建,重建 
+ 
+2822 recalibrate  重校 
+ 
+2823 recall  n. 回忆,召回,取消; v. 回想起,召回,恢复 
+ 
+2824 receipt  n. 收据 
+ 
+2825 receive  v. 收到,接受,迎接 
+ 
+2826 receiver  n. 接收器,收款员,接待者 
+ 
+2827 receiving  接收(的) 
+ 
+2828 receptacle  n. 容器 
+ 
+2829 recharge  再充电 
+ 
+2830 recipe  n. 食谱,处方,秘诀 
+ 
+2831 recipient  n. 接受者,收信人 
+ 
+2832 reciprocal  a. 相互的,互惠的; [数］n. 倒数 
+ 
+2833 reclaim  v. 开垦,纠正,收回 
+ 
+2834 reclaimer  回收程序 
+ 
+2835 recognition  n. 认出,承认 
+ 
+2836 recognize  v. 认出,认可,承认 
+ 
+2837 recommend  v. 建议,推荐,劝告,介绍 
+ 
+2838 recompile  重编译 
+ 
+2839 reconciliation  n. 调和(和解,一致,甘愿) 
+ 
+2840 reconfiguration  重新配置，再组和 
+ 
+2841 reconstruct  v. 重建,改造,复兴 
+ 
+2842 record   记录,唱片,履历; v. 记录,将(声音等)录下 
+ 
+2843 recorder  n. 录音机; 直笛，又称木笛、竖笛或牧童笛 
+ 
+2844 recording  a. 记录的,记录用的; n. 录音 
+ 
+2845 recover  v. 恢复,复原,补偿 
+ 
+2846 recoverable  可恢复的 
+ 
+2847 recovery  n. 恢复,复原,痊愈 
+ 
+2848 rectangle  n. 长方形,矩形 
+ 
+2849 rectangular  n. 矩形 
+ 
+2850 recursion  循环,递归 
+ 
+2851 redefine  重新定义 
+ 
+2852 redirect  a. 再直接的; v. 重新传入,重新寄送 
+ 
+2853 redirection  n. 转移呼叫 
+ 
+2854 redisplay  重新显示 
+ 
+2855 redo  重做 
+ 
+2856 redraw  重画，刷新屏幕 
+ 
+2857 reduce  v. 减少,分解,减低 
+ 
+2858 reduction  n. 减少,缩小 
+ 
+2859 redundancy  n. 冗余 
+ 
+2860 redundant  a. 多余的 
+ 
+2861 reel  n. 卷筒,线轴; v. 卷,绕; vi. 眩晕,蹒跚; vt. 卷 
+ 
+2862 reenter  重入 
+ 
+2863 reenterable  可重入的 
+ 
+2864 reentrant  再重入的,再进入的 
+ 
+2865 reevaluate  vt.重新评价 
+ 
+2866 refer  v. 把…提交,谈及,谘询,参考 
+ 
+2867 reference  n. 参考,出处,参照 
+ 
+2868 reference manual  参考手册 
+ 
+2869 referral  1. 提及;参考; 2. 推荐;介绍;指点; 3. 被推荐人;(经介绍)转诊病人 
+ 
+2870 refinement  n. 精致,高尚,精巧 
+ 
+2871 reflect  v. 反映,归咎 
+ 
+2872 reflection  n. 反映,沉思,映像 
+ 
+2873 reflow  回流 
+ 
+2874 refraction  n. 折光,折射 
+ 
+2875 refresh  v. 使...生气蓬勃,提起精神,恢复精神 
+ 
+2876 regardless  a. 不管,不注意,不顾 
+ 
+2877 regenerate  vt. 再生(回收,革新); a. 再生的(更新的,革新的) 
+ 
+2878 regeneration  n. 再生,重建 
+ 
+2879 region  n. 地区,地域,地带 
+ 
+2880 register  v. 记录,登记,注册,挂号; n. 暂存器,记录,登记簿 
+ 
+2881 registration  n. 登记,注册 
+ 
+2882 regression  n. 复原,逆行,退步 
+ 
+2883 regular  a. 有规律的,有规则的,整齐的,正规的 
+ 
+2884 regular-mail  普通邮件 
+ 
+2885 regulation  n. 规则,规章 
+ 
+2886 regulator  n. 调整者,取缔的人,调整器 
+ 
+2887 rehabilitation  n. 复原 
+ 
+2888 reinstall  重新安装，重新设置 
+ 
+2889 reinstate  v. 恢复(原职); vt. 使恢复原有的职位 
+ 
+2890 reject  n. 被拒之人,不合格品,不及格者; v. 拒绝,驳回,丢弃 
+ 
+2891 related  a. 有关系的,有关联的; v. 讲,有关系; vbl. 讲,有关系 
+ 
+2892 related file  相关文件 
+ 
+2893 relation  n. 关系,家人,亲戚,叙述,陈述 
+ 
+2894 relational  关系的,相关的 
+ 
+2895 relative  a. 相对的,比较的; n. 亲戚,亲属 
+ 
+2896 release  n. 释放,让渡,发行; v. 释放,让与,准予发表 
+ 
+2897 relevant character  相关字符 
+ 
+2898 reliability  n. 可靠性 
+ 
+2899 reload  再装入 
+ 
+2900 relocate  v. 重新装置,再配置,放在新地方 
+ 
+2901 remain  v. 保持,依然,剩余,留下，逗留; n.遗迹，剩余物，残骸 
+ 
+2902 remainder  n. 剩余物,其他的人,残余; v. 廉价出售 
+ 
+2903 remaining  a.剩余的 
+ 
+2904 remark  n. 备注,评论,注意; v. 评论,注意,述及 
+ 
+2905 remember  v. 记得,记忆 
+ 
+2906 remote  a. 偏僻的,遥远的,远程的 
+ 
+2907 remotely  远程地 
+ 
+2908 removal  n. 移动,移居,除去 
+ 
+2909 remove  n. 距离; v. 除去,迁移,开除 
+ 
+2910 rename  v.重新命名 
+ 
+2911 render  vt. 提供,报答,着色,致使; vi. 给予补偿; n. 交纳, 粉刷, 打底 
+ 
+2912 rendering  n. 翻译,表现,描写 
+2913 rendezvous  n. 约会,约会地点 
+ 
+2914 renovate  v. 更新,革新,刷新 
+ 
+2915 rent  n. 租金; v. 租; vi. 出租; vt. 出租,租用 
+ 
+2916 reorder  重新排序,再定购 
+ 
+2917 reorganization  n. 改组,再编制,改造 
+ 
+2918 repaginate  重编页码 
+ 
+2919 repaint  v. 重画 
+ 
+2920 repair  n. 修理,补救; v. 修理,补救,补偿 
+ 
+2921 repeat  n. 重复,反复; v. 重复,复述,复诵 
+ 
+2922 repeatability  可重复性 
+ 
+2923 repeated  a. 重复的,再之的; v. 重复,复述; vbl. 重复,复述 
+ 
+2924 repeatedly  ad. 重复地；一再 
+ 
+2925 repeater  中继器,转发器 
+ 
+2926 reperforator  复穿孔机 
+ 
+2927 repertory  n. 仓库(积贮,全部剧目) 
+ 
+2928 repetition  n. 重复,反复 
+ 
+2929 repetitive  a. 重复的 
+ 
+2930 replace  v. 取代 
+ 
+2931 replaceable  可置换的 
+ 
+2932 replacement  n. 交换,更换,代替者 
+ 
+2933 replan  重新计划 
+ 
+2934 replay  v. 重新比赛,重演; n. 重赛 
+ 
+2935 replica   n. 复制品 
+ 
+2936 replicate  v. 折叠,复制,模写; n. 八音阶间隔的反复高低音 
+ 
+2937 replication  n. 复制 
+ 
+2938 replicator  复制器 
+ 
+2939 reply  v.&n. 回答,答复 
+ 
+2940 report  n. 报告,报导,成绩单; v. 报告,报导,记录 
+ 
+2941 repository  n. 贮藏室(博物馆,资源丰富地区) 
+ 
+2942 represent  vt. 表现,表示,描绘,代表; vi. 提出异议 
+ 
+2943 representation  n. 表示法,表现,陈述，答辩 
+ 
+2944 representative  n. 代表,众议员,典型; a. 代表性的,代议制的,典型的 
+ 
+2945 reproduce  v. 再生,复制,生殖 
+ 
+2946 reproducer  扬声器，复制器，再生器 
+ 
+2947 request  n. 要求,请求; vt. 请求,要求 
+ 
+2948 require  v. 需要,要求 
+ 
+2949 required  必需的 
+ 
+2950 requirement  n. 要求 
+ 
+2951 reread  v. 重读,再读 
+ 
+2952 rerun  重新运行,再运行 
+ 
+2953 resample  重新采样 
+ 
+2954 resend  再发送 
+ 
+2955 reservation  n. 预定 
+ 
+2956 reserve  n. 预备品,贮存,预备舍; vt. 保留,预订,延期 
+ 
+2957 reserved  v. 保留(预定,推迟); a. 保留的(预订的,冷淡的,缄默) 
+ 
+2958 reset  n. 重新设定,重新组合; v. 重新设定,重新放置,重新组合 
+ 
+2959 reshape  v. 改造,使成新的形状,打开新局面 
+ 
+2960 reside  v. 住,居留,属于 
+ 
+2961 resident  a. 居住的; n. 居民 
+ 
+2962 residual  a. 残余的,剩余的 
+ 
+2963 resistance  n. 抵抗力,反抗,反抗行动;阻力,电阻;反对 
+ 
+2964 resize  调整大小 
+ 
+2965 resolution  n. 坚定,决心,决议,决定,果断,刚毅,消退：病理状态的减退,分辨率,清晰度 
+ 
+2966 resolve  n. 决定之事,决心,坚决; v. 决定,解决,决心 
+ 
+2967 resolver  分解器 
+ 
+2968 resolving power  分辨力 
+ 
+2969 resonance  n. 共鸣,共振,洪亮 
+ 
+2970 resource  n. 资源 
+ 
+2971 resource allocation  资源分配 
+ 
+2972 respect  n. 尊敬,关心,方面; v. 尊敬,尊重 
+ 
+2973 respectively  ad. 各自地,分别地 
+ 
+2974 respond  v. 回答,回报,反应 
+ 
+2975 response  n. 反应,回答,响应 
+ 
+2976 rest  a. 其余的; v.&n. 休息; vi. 搁(在),休息; vt. 使休息 
+ 
+2977 restart  重新启动 
+ 
+2978 restore  v. 回复,恢复,归还 
+ 
+2979 restrict  n. 限制、限定、约束; v. 限制,约束 
+ 
+2980 restricted  v. 限制(节流); a. 限制的(受限制的,有限的,保密的) 
+ 
+2981 restricting  限制(的) 
+ 
+2982 restriction  n. 限制,约束; vi. 结果,(作为结果)发生 
+ 
+2983 restrictor  限定器 
+ 
+2984 restructure  v. 更改结构,重健构造 
+ 
+2985 result  n. 结果,成绩,答案; v. 产生,起于,致使 
+ 
+2986 resultant  a. 合成的(有结果的); n. 合成矢量(结果,产物,终结式) 
+ 
+2987 resulting  结果的 
+ 
+2988 resume  v. 再继续,重新开始; n. 简历,履历 
+ 
+2989 resynchronization  n.再同步 
+ 
+2990 resynchronize  v.再同步 
+ 
+2991 retain  v. 保持,保留 
+ 
+2992 retainer  n. 家臣,扈从,保持者 
+ 
+2993 retention  n. 保存(保持力,包装牢固,记忆力,保留物) 
+ 
+2994 retrace  v. 重描,折回,绕回 
+ 
+2995 retransmit  重新发送，传输，中继 
+ 
+2996 retrieval  n. 取回,恢复,修补 
+ 
+2997 retrieve  v. 取回,恢复,补偿; n. 取回,恢复的希望 
+ 
+2998 retrofit  更新 
+ 
+2999 retry  重试 
+ 
+3000 return  n. 返回,归还,报答; v. 返回,归还,回来 
+ 
+3001 returned  退回的 
+ 
+3002 returns  报告，统计表，研究成果 
+ 
+3003 reusable  可再用的 
+ 
+3004 reuse  v. 再使用; vt. 重新使用 
+ 
+3005 reverb  混响 
+ 
+3006 reversal  n. 翻转,倒转,反转 
+ 
+3007 reverse  n. 相反,背面,失败; a. 反面的,相反的,颠倒的; v. 颠倒,逆转,倒退 
+ 
+3008 reverse characters  反白字符 
+ 
+3009 reverse video  反视频 
+ 
+3010 revert  v. 恢复,复归,回到 
+ 
+3011 review  n. 检讨,复习,回顾,评审; v. 温习,检讨,评论 
+ 
+3012 revise  n. 校订,修正,再校稿; v. 校订,修正,校正 
+3013 revokable  可取消的 
+ 
+3014 revoke  vt. 撤回(回想); n. 取消(回想) 
+ 
+3015 revolutionize  v. 鼓吹革命,大事改革 
+ 
+3016 rewind  回绕,倒带 
+ 
+3017 rework  重做,改写 
+ 
+3018 rewrite  n. 重写,改写; vt. 改写,重写 
+ 
+3019 RGB  (red, green, blue)红绿兰颜色表示法 
+ 
+3020 ribbon  n. 缎带,色带,带状物; v. 用丝带装饰,撕碎 
+ 
+3021 rid  v. 免除,清除,使...获自由 
+ 
+3022 right  a. 对的,正确的; ad. 对; int. 好; n. 权利,右; vt. 纠正; adv.恰恰,正好 
+ 
+3023 rights  权利 
+ 
+3024 rigid  a. 僵硬的,刻板的,严格的 
+ 
+3025 ring  n. 环,戒指,铃声; v. 响,鸣,回响 
+ 
+3026 ripple  n. 涟波,涟漪,波纹; v. 使...起涟漪,起微波,起潺潺声 
+ 
+3027 risc  精简指令系统计算机 
+ 
+3028 roaming  移动 
+ 
+3029 robot  n. 机器人 
+ 
+3030 roll  n. 卷,滚动,名单; v. 滚,使...转动,摇摆 
+ 
+3031 roller  n. 滚筒,滚轴,滚转机 
+ 
+3032 roll-in  滚入 
+ 
+3033 rolling  a. 旋转的,波动的,起伏的; n. 旋转,轰响,动摇 
+ 
+3034 roll-out  滚出 
+ 
+3035 Rom  (read only memory)只读存储器 
+ 
+3036 room  房间,空间 
+ 
+3037 root  n. 根,根源; v. 生根,扎根 
+ 
+3038 root directory  根目录 
+ 
+3039 rostrum camera  活动照相机 
+ 
+3040 rotary  a. 旋转的; n. 运行的机器 
+ 
+3041 rotate  v. (使)旋转 
+ 
+3042 rotate left  左旋90度 
+ 
+3043 rotate right  右旋90度 
+ 
+3044 rotating  旋转的 
+ 
+3045 rotation  n. 旋转,循环 
+ 
+3046 round  n. 圆,范围,巡回; a. 圆的,肥胖的,完全的; v. 弄圆,绕行,使...完全 
+ 
+3047 rounding  舍入,凑整 
+ 
+3048 route  n. 航线,路线; vt. 按路线发送 
+ 
+3049 router   路由程序,路由器 
+ 
+3050 routine  a. 常规的,例行的; n. 例行公事,常规 
+ 
+3051 row  n. 排,船游,吵闹; v. 划,划船,责骂 
+ 
+3052 row height  行高 
+ 
+3053 rule  n. 惯例,规则,统治; v. 裁定,统治,支配; vi. 裁决,统治; vt. 统治 
+ 
+3054 ruler  n. 尺子; n. 统治者 
+ 
+3055 ruler line  标尺线 
+ 
+3056 run  n. 奔跑,路程,趋向; v. 跑,运转,进行,运转,经营,褪色; vbl. 跑,进行,延续 
+ 
+3057 run around  在...四处奔跑 
+ 
+3058 running  n. 赛跑,流出,运转; a. 流动的,跑著的,连续的; vbl. 跑,运转,经营 
+ 
+3059 run-time  运行时间 
+ 
+3060 safe  a. 安全的; n. 保险箱 
+ 
+3061 safely  ad. 安全地 
+ 
+3062 safety  a. 保险的; n. 安全 
+ 
+3063 salary  n. 薪水; vt. 给...薪水 
+ 
+3064 sale  n. 销售,削价出售 
+ 
+3065 salvage  n. 救捞(抢修,废物利用,废弃品,救难费); vt 救捞(抢修,废物利用) 
+ 
+3066 same  a. 同样的; ad. 同样地; pron. 同样的人或事 
+ 
+3067 sample  n. 样品,标本; v. 抽取样品 
+ 
+3068 sampler  n. 样板(取样器,样品检查员) 
+ 
+3069 sampling  n. 抽样(脉冲调制,连续选择); a. 抽样的(脉冲调制的,连续选择的) 
+ 
+3070 satellite  n. 卫星 
+ 
+3071 satisfy  v. 使...满意,赔偿 
+ 
+3072 saturation  n. 饱和(浸透,磁性饱和,色度学章度) 
+ 
+3073 save  n. 救援,救球,节约; v. 解救,保存,节省; prep. 除...之外 
+ 
+3074 saving  n. 存款; vbl. 拯救,救助 
+ 
+3075 say  v. 说,讲 
+ 
+3076 scale  n. 鳞,刻度,衡量,数值范围; v. 依比例决定,攀登 
+ 
+3077 scaling  缩放比例 
+ 
+3078 scan  n. 扫描,押韵,细查; v. 扫描,详细调查,分析韵律 
+ 
+3079 scanner  n. 扫描机,扫描盘,光电子扫描装置 
+ 
+3080 scatter  n. 散播之物,散布; v. 散开,散布,散播 
+ 
+3081 scattered  分散的 
+ 
+3082 scenario  n. 情节,剧本 
+ 
+3083 schedule  n. 时间表,一览表,计划; v. 安排,计划,预定,编制目录 
+ 
+3084 scheduled  adj．预先安排的；定期的 
+ 
+3085 scheduler  调度程序 
+ 
+3086 schema  图解,计划,模式 
+ 
+3087 scientific  a. 科学的 
+ 
+3088 scissoring  剪切,删除 
+ 
+3089 scope  n. 范围 
+ 
+3090 score  n. 得分,刻痕,二十;背景音乐; v. 刻划,划线,得分 
+ 
+3091 scramble  n. 攀缘,争取; v. 攀缘,搅炒,混杂一起 
+ 
+3092 scrap  n. 小片,残余物,废料; v. 扔弃,互相殴打 
+ 
+3093 scratch  n. 抓痕,抓的声音,乱写; v. 搔痒,抓,抹掉 
+ 
+3094 screen  n. 屏,幕,银幕,屏风; v. 选拔,掩蔽,遮蔽 
+ 
+3095 screw  n. 螺丝钉,吝啬鬼,压迫; v. 扭紧,压榨 
+ 
+3096 script  n. 原稿,手稿, 手迹; n. 脚本 
+ 
+3097 scroll  n. 卷轴,目录; v. 卷动 
+ 
+3098 scrolling  卷动 
+ 
+3099 scsi  小型计算机系统接口 
+ 
+3100 seal  n. 印章,封条,海豹; v. 盖印,封闭,猎海豹 
+ 
+3101 seamless  无缝的 
+ 
+3102 search  n. 搜寻,探究; v. 搜寻,探求,调查 
+ 
+3103 searching  搜索的 
+ 
+3104 seasonal  a. 季节的,依照季节的,周期性的 
+ 
+3105 second  n. 秒; a. 第二的,其次的,多余的; a. 第二 
+ 
+3106 secondary  a. 中级的,中等的,次要的 
+ 
+3107 section  n. 部分,章节,部门,路段; 断面,剖面,截面; v. 划分 [同]divide 
+ 
+3108 sector  n. 扇形,扇区; n. 部门,区域 
+ 
+3109 secure  a. 无虑的,安心的,安全的; v. 固定,获得,使...安全 
+ 
+3110 security  n. 安全; n. 保证金,抵押品,债券,证券 
+ 
+3111 see  v. 看见,看出,明白,知道 
+ 
+3112 seek  n. 找寻; v. 寻求,寻找,搜索 
+3113 seek time  寻道时间 
+ 
+3114 segment  n. 部分; v. 部分,段,分割; vt. 分割 
+ 
+3115 segmentation   程序分段 
+ 
+3116 seismic  a. 地震的 
+ 
+3117 seldom  ad. 很少 
+ 
+3118 select  a. 精选的; n. 被挑选出来的人或物; v. 选择; vi. 选择,挑选,选拔; vt. 选择,挑选 
+ 
+3119 selected  选定的 
+ 
+3120 selection  n. 选择,挑选 
+ 
+3121 selective  a. 选择的,选择性的 
+ 
+3122 selector  n. 挑选者 
+ 
+3123 self  n. 自我,自己,本身 
+ 
+3124 self-check  自检，自校验 
+ 
+3125 semantic  语义的 
+ 
+3126 semicolon  分号 
+ 
+3127 seminar  n. (大学的)研究班,研讨会 
+ 
+3128 send  v. 送给,传,寄 
+ 
+3129 send mail  发送邮件 
+ 
+3130 sender  n. 寄件人,发报机,发话机 
+ 
+3131 sense  n. 侦测,感应,感觉; v. 感觉,了解 
+ 
+3132 sensitive  a. 敏感的,仪器灵敏的,易受伤害的,感光的 
+ 
+3133 sensitivity  n. 敏感,多愁善感,感受性 
+ 
+3134 sensor  n. 传感器，探测器 
+ 
+3135 sent mail  发出邮件 
+ 
+3136 sentence  n. 句子,意见,宣判; v. 宣判,判决 
+ 
+3137 sentinel  n. 哨兵(标记,传送); vt 放哨(守卫) 
+ 
+3138 separate  n. 分开,抽印本; a. 分开的,各自的,单独的; v. 分开,隔开,分居 
+ 
+3139 separated  adj. 分居（未必离婚） 
+ 
+3140 separately  ad. 分别地(各别地,独立地,借助外力地) 
+ 
+3141 separation  n. 分离,分居,缺口 
+ 
+3142 separator  分隔符 
+ 
+3143 septet  七位字节 
+ 
+3144 sequence  n. 序列,继起的事,顺序 
+ 
+3145 sequencer  音序器 
+ 
+3146 sequencing  顺序 
+ 
+3147 sequential  a. 连续的(序贯的) 
+ 
+3148 sequentially  顺序地,继续地 
+ 
+3149 serial  n. 序列,串列; a. 连续的,一连串的 
+ 
+3150 serialize  v. 写成连载长篇而刊登 
+ 
+3151 serif  衬线 
+ 
+3152 serve  v. 可作...用,服务,对待 
+ 
+3153 server  n. 服伺者,服勤者,伺候者 
+ 
+3154 service  n. 服务,公务部门,服役; vt. 维护,保养 
+ 
+3155 servicing  维修 
+ 
+3156 servo  伺服 
+ 
+3157 session  n. 会议,开庭期,市盘 
+ 
+3158 set  n. 组合,集合,设定; n.一套,一副; v. 放置,设定; v.(太阳)落下去 
+ 
+3159 setting  n. 安装,放置,周围,环境 
+ 
+3160 setup  n. 装备,组织,计划 
+ 
+3161 seven  七 
+ 
+3162 several  a. 几个,若干; pron. 几个 
+ 
+3163 severe  a. 剧烈的,严重的,严峻的,严厉的,严格的 
+ 
+3164 severity  n. 严格,严重,激烈 
+ 
+3165 sextet  六位字节 
+ 
+3166 SGML  标准广义置标语言 
+ 
+3167 shade  n. 色度,荫凉处,稍微; v. 渐变,遮蔽,微减 
+ 
+3168 shading  底纹,留下阴影 
+ 
+3169 shadow  n. 影像,阴暗,预兆; v. 遮蔽,使...忧沉,预示 
+ 
+3170 shadow mask  阴罩，障板 
+ 
+3171 shape  n. 形状,定形,身材; v. 定形,使...成形,塑造 
+ 
+3172 share  n. 部份,股份,分担; v. 共享,共有,分配 
+ 
+3173 shareware  共享软件 
+ 
+3174 sharing  共享 
+ 
+3175 sharp  a. 刺耳的,锋利的,急剧的; ad. [时刻]正,准; 夏普(财富500强公司之一，总部所在地日本,主要经营电子电气) 
+ 
+3176 shell  n. 贝壳,壳,外形; v. 去壳,脱落; n.[计算机] DOS命令 : 安装备用的COMMAND.COM文件, 并改变环境尺寸 
+ 
+3177 shell out  退到外壳 
+ 
+3178 shield  n. 盾,防卫物; v. 保护,遮蔽 
+ 
+3179 shift  n. 变化,移动,接班; v. 改变,移转 
+ 
+3180 Shift key  换档键 
+ 
+3181 ship  n. 船,舰; v. 以船运送,乘船,运送 
+ 
+3182 shipment  n. 装船,出货 
+ 
+3183 shipping  n. 船运(发货,运输,乘船) 
+ 
+3184 shoot  n. 射击,芽,发射; v. 射击,发出,发芽 
+ 
+3185 short  a. 短的,矮的; n. 短裤; adv. 短暂地；突然地,急地 
+ 
+3186 shortcut  n. 捷径 
+ 
+3187 shortcut key  快捷键 
+ 
+3188 shorthand  n. 速记 
+ 
+3189 should  conj. 应该,将要 
+ 
+3190 show  n. 显示,表现,表演; v. 表示,显现,展现 
+ 
+3191 showing  显示,放映 
+ 
+3192 shredder  碎纸机 
+ 
+3193 shut  a. 关闭的,合拢的,围绕的; v. 关上,闭起,幽禁; vbl. 关上,闭起,幽禁 
+ 
+3194 shutdown  关机 
+ 
+3195 sibling  n. 兄弟姐妹 
+ 
+3196 side  n. 旁边,侧,方面; a. 旁的,侧的; v. 偏袒 
+ 
+3197 sign  n. 符号,正负号,手势,迹象,招牌; v. 签，做手势，做标记 
+ 
+3198 signal  n. 信号,导火线,动机; v. 向...作信号 
+ 
+3199 signature  1. 签名,签署;画押 
+ 
+3200 signed  带正负号的 
+ 
+3201 significant  a. 有意义的,相当数量的,意味深长的,重要的,重大的 
+ 
+3202 significantly  ad. 较大地(重要地) 
+ 
+3203 silicon  n. 硅 
+ 
+3204 silicon chip  硅片 
+ 
+3205 similar  a. 相似的,类似的,相同,一样 
+ 
+3206 simple  a. 简单的,简朴的,单纯的 
+ 
+3207 simplex  单工的,单一的 
+ 
+3208 simplify  v. 简化,使单纯; vt. 简化 
+ 
+3209 simply  ad.&a. 简单地,仅仅 
+ 
+3210 simulate  v. 假装,冒充,模仿,模拟 
+ 
+3211 simulation  模拟,仿真 
+ 
+3212 simulator  模拟程序 
+3213 simultaneity  同时性 
+ 
+3214 simultaneous  a. 同时发生的 
+ 
+3215 since  ad. 后来; conj. 既然,因为; prep. 自从 
+ 
+3216 sine  正弦 
+ 
+3217 single  a. 单身的,单纯的,单一的 
+ 
+3218 sit  v. 坐,坐 
+ 
+3219 site  n. 位置,场所; v. 使...位于,使...放置 
+ 
+3220 site licence  站点许可权 
+ 
+3221 situation  n. 位置,形势,局面,处境,状况,职位 
+ 
+3222 six  a. 六,六个 
+ 
+3223 sixteen-bit  16位 
+ 
+3224 size  n. 尺寸,大小; v. 按大小排列或分类; vt. 按大小排列(或分类) 
+ 
+3225 skeleton  n. (建筑物、计划的)骨架,纲要,骨骼 
+ 
+3226 skew  a. 斜交的(不对称的,误解的); n. 斜交(歪斜,歪轮,斜砌石) 
+ 
+3227 skill  n. 技能,技巧 
+ 
+3228 skip  n. 跳跃,跳读; v. 跳越,蹦跳,略过,跳过 
+ 
+3229 slack  n. 松弛,家常裤; a. 松弛的,不流畅的; v. 使松弛,松弛 
+ 
+3230 slash  vt. 深砍(螺纹滚,削减,湿地); n. 深砍(螺纹滚,削减,湿地)，斜线"/" 
+ 
+3231 slave  n. 奴隶,附件,卑鄙的人; v. 拼命工作 
+ 
+3232 sleep  n. 睡眠,静止,睡意; v. 睡觉,睡眠,静止 
+ 
+3233 slice  n. 薄的切片,一部份; v. 切成薄片,分配 
+ 
+3234 slicer  双向限幅器,限制器 
+ 
+3235 slide  n. 滑,幻灯片,雪崩; v. 使滑,滑,跌落 
+ 
+3236 slide show  n.幻灯片放映 
+ 
+3237 slider  滑动器 
+ 
+3238 slot  n. 水沟,细长的孔,狭缝,硬币投币口; n. 组织、系统中的一个位置或空位; v. 留细长的孔 
+ 
+3239 slotting  开槽，打孔 
+ 
+3240 slow  a. 慢的; ad. 慢慢地; v. 放慢,减速 
+ 
+3241 slow scan TV  慢扫描电视 
+ 
+3242 slowly  a. 慢慢地; ad. 缓慢地 
+ 
+3243 small  a. 小的 
+ 
+3244 smart  a. 聪明的,漂亮的; v. 刺痛; a. 时髦的，巧妙的 
+ 
+3245 smart terminal  灵巧终端 
+ 
+3246 smooth  a. 平稳的,流畅的,安祥的; v. 使...光滑,变平滑 
+ 
+3247 smoothed line  平滑线 
+ 
+3248 smoothing  滤除 
+ 
+3249 smudge  n. 污点,渍痕; v. 弄脏; vt. 涂脏 
+ 
+3250 snapshot  快照 
+ 
+3251 so  ad. 如此,如是,如...那样; conj. 所以,因此,所以 
+ 
+3252 soak  n. 浸,湿透,大雨; v. 使上下湿透,浸,吸入 
+ 
+3253 social  a. 社会的 
+ 
+3254 socket  n. 插座,插口 
+ 
+3255 soft  a. 软的 
+ 
+3256 soft disk  软磁盘 
+ 
+3257 software  n. 软件 
+ 
+3258 solely  ad. 独自地,单独地 
+ 
+3259 solid  a. 固体的,结实的,可靠的,实心的; n. 固体 
+ 
+3260 solid color  单色 
+ 
+3261 solitaire  纸牌 
+ 
+3262 solution  n. 解答,解决办法,溶解,溶液 
+ 
+3263 solvability   可解性，溶解度 
+ 
+3264 solve  v. 解答(难题),解决; vt. 解答,解决 
+ 
+3265 solver  解算机，求解程序 
+ 
+3266 somewhat  n. 某物,几分; ad. 多少,几分 
+ 
+3267 son  n. 儿子 
+ 
+3268 sonar  n. 声纳 
+ 
+3269 song  n. 歌曲 
+ 
+3270 song key  歌曲键 
+ 
+3271 sophisticated  a. 诡辩的,久经世故的 
+ 
+3272 sort  n. 种类,样子,态度; v. 分类,整理,排序; n.[计算机] DOS命令 : 在字符型文件中进行数据排序, 或者将DOS命令的输出进行排序 
+ 
+3273 sorter  分类程序,分类机 
+ 
+3274 sound  n. 声音,吵闹,海峡; a. 健全的,可靠的,合理的; v. 听,发出声音,测量 
+ 
+3275 sounding  n. 音响(探测,水的深度,试探); a. 发声的(夸大的) 
+ 
+3276 space  n. 位置,空间,距离; v. 隔开,分隔 
+ 
+3277 spacebar  空格键 
+ 
+3278 spacing  n. 留间隔,空隙,排字法 
+ 
+3279 spare  n. 剩余,备用零件,备用轮胎; a. 多余的,备用的,简陋的; v.节约 
+ 
+3280 spatial  a. 空间的 
+ 
+3281 speaker  n. 说话者,发言者,说某种语言者,扬声器 
+ 
+3282 special  n. 专辑,专车,特色菜,特价,特刊; a. 特别的,专门的 
+ 
+3283 specialize  v. 特殊化 
+ 
+3284 specific  n. 特效药,特性,详情; a. 特殊的,明确的,具有特效的 
+ 
+3285 specifically  ad. 特定的,明确的 
+ 
+3286 specification  n. 规格,详述,详细说明书 
+ 
+3287 specifier  分类符 
+ 
+3288 specify  v. 明确说明,叙述,指定,详细说明 
+ 
+3289 spectral  a. 波谱的 
+ 
+3290 speech  n. 演讲 
+ 
+3291 speed  n. 速度,迅速,超速; v. 加速,超速,推进 
+ 
+3292 spell  n. 一段时间,符咒,魅力; v. (spelt,spelt) 拼,拼写,拼成 
+ 
+3293 spelling  n. 拼法,拼写 
+ 
+3294 spike  n. 长钉,钉鞋; v. 以大钉钉牢,使...失效 
+ 
+3295 spill  n. 溢出,流; v. 溢出,洒,使...流出 
+ 
+3296 spindle  n. 纱锭,纺锤,轴; v. 变细长 
+ 
+3297 spinner  n. 纺纱工人,纺纱机 
+ 
+3298 splice  v.&n. 接合,衔接; vt. 拼接 
+ 
+3299 split  n. 劈开,裂片,裂口; a. 分散的; v. 分离,分开,劈开 
+ 
+3300 splitting  爆裂式的 
+ 
+3301 spool  n. 线轴,缠线用的框; v. 缠绕在线轴上 
+ 
+3302 spot  n. 污点,地点,斑点; a. 当场的,现实买卖的; v. 污点,认出,用灯光照射 
+ 
+3303 spread  n. 传布,伸展; a. 扩延的; v. 传布,推广,伸出 
+ 
+3304 spreadsheet  电子表格,数据表 
+ 
+3305 spring  n. 春天,弹簧,跳跃,泉水; a. 春天的; v. 弹起，弹出,跳,裂开 
+ 
+3306 sprite  n. 精灵 
+ 
+3307 spurious  a. 假的,伪造的 
+ 
+3308 SQL  结构化查询语言 
+ 
+3309 square  n. 正方形,街区,平方; a. 正方形的,正直的,公正的; v. 一致,符合,使...成方形; n. 广场 
+ 
+3310 square brackets  方括号 
+ 
+3311 square wave  方波 
+ 
+3312 squeeze  n. 压榨,挤; v. 紧握,挤 
+ 
+
+3313 stability  n. 稳定性 
+ 
+3314 stabilization  稳定化 
+ 
+3315 stabilizer  稳定剂,稳定器 
+ 
+3316 stable  a. 稳定的,安定的; n. 马厩,马棚 
+ 
+3317 stack  n. 堆叠,堆; v. 堆积,做牌,选派 
+ 
+3318 stacker  栈式存储器 
+ 
+3319 stack-up  层叠 
+ 
+3320 stackware  栈件 
+ 
+3321 stage  n. 阶段,舞台,驿站; v. 上演,表演,乘驿车旅行 
+ 
+3322 staging  分段运输 
+ 
+3323 stamp  n. 印,邮票,打印器; v. 捺印,顿足,贴上邮票 
+ 
+3324 stand  n. 站立,停顿,楼台,货摊; v. 站立,忍受,位于,坐落 
+ 
+3325 stand-alone  独立 
+ 
+3326 standardize  v. 标准化,使合于标准 
+ 
+3327 standby  备用 
+ 
+3328 stanza  n. 节 
+ 
+3329 star  n. 星,明星; v. 以星状物装饰,变成演员 
+ 
+3330 start  n. 起点; v. 开始,起身,出发 
+ 
+3331 start bit  起始位 
+ 
+3332 start logging  开始登录 
+ 
+3333 starter  n. 起动机(发射架,发起者,调度员) 
+ 
+3334 starting  n.出发，开始 
+ 
+3335 start-up  启动 
+ 
+3336 startup disk  启动盘 
+ 
+3337 startup screen  启动屏幕 
+ 
+3338 state  n. 州,国,情形; a. 国家的,正式的; v. 说,陈述,声明,规定 
+ 
+3339 stated  a. 决定了的,一定的,定期的; v. 陈述,说明; vbl. 陈述,说明 
+ 
+3340 statement  n. 声明,陈述 
+ 
+3341 static  n. 静电,静电干扰; a. 静态的,静电的 
+ 
+3342 static object  静态对象 
+ 
+3343 static RAM  静态RAM 
+ 
+3344 station  n. 车站,站,位置; v. 安置,配置 
+ 
+3345 stationary  a. 不动的(稳定的); n. 固定物(驻军) 
+ 
+3346 statistical  a. 统计的,统计学的 
+ 
+3347 statistics  n. 统计,统计数字,统计学 
+ 
+3348 status  n. 地位,身份,情形,状况 
+ 
+3349 status bar  状态栏 
+ 
+3351 stay  n. 停留,停止,依靠; v. 停留,留宿,制止 
+ 
+3352 steady state  稳态 
+ 
+3353 step  n. 步骤,步,踏级; v. 踏,以步测量 
+ 
+3354 step frame  步进帧(采集) 
+ 
+3355 stereo  a. 立体声的; n. 立体声 
+ 
+3356 stereophonic  立体声的 
+ 
+3357 stick model  条形造型 
+ 
+3358 sticky  a. 粘的,粘性的 
+ 
+3359 still  a. 静止的,不动的,静寂的; ad. 仍然,更,静止地; conj. 然而,但是 
+ 
+3360 stipple  v. 点画,点描 
+ 
+3361 stockroom  库房 
+ 
+3362 stop  n. 停止,车站,滞留; v. 停止,停止,制止 
+ 
+3363 stop bit  停止位 
+ 
+3364 stop logging  暂停登录 
+ 
+3365 stopping  停止,停下来 
+ 
+3366 storage  n. 储存体,储藏,仓库 
+ 
+3367 storatron  存储管 
+ 
+3368 store  n. 商店,贮藏,仓库; v. 储存,贮藏,供给 
+ 
+3369 storeroom   n. 储藏室 
+ 
+3370 story board  故事板 
+ 
+3371 straight  a. 直的,正直的,坦率的; ad. 直接 
+ 
+3372 strategy  n. 战略,策略 
+ 
+3373 stratification  成层法 
+ 
+3374 stray  n. 走失的家畜,浪子; a. 迷途的,偶然的; v. 迷路,彷徨 
+ 
+3375 stream  n. 流,水流,人潮; v. 使流出,流动 
+ 
+3376 stretch  n. 伸展,张开; a. 可伸缩的; v. 伸展,张开,延伸 
+ 
+3377 stride  n. 大步,一跨步; v. 迈大步走,跨过 
+ 
+3378 strike  n. 罢工,打击,殴打; v. 打,罢工,划燃 
+ 
+3379 strikeout  加删除线 
+ 
+3380 string  n. 线,一串,字串; v. 串起,成串,收紧 
+ 
+3381 stroke  n. 笔划,打,中风; v. 划尾桨,抚 
+ 
+3382 strong  a. 强壮的 
+ 
+3383 structural  a. 结构的,构造的 
+ 
+3384 structure  n. 结构,构造,建筑物; v. 构成,建立,建造 
+ 
+3385 structured  a. 有组织的,有结构的,有安排的 
+ 
+3386 stub  n. 断株,烟蒂; v. 挖除断株,连根拔除 
+ 
+3387 stuff  n. 材料,原料,东西; v. 填满,塞满 
+ 
+3388 style  n. 风格,时尚,字体; v. 称呼,设计 
+ 
+3389 style sheet  样式单 
+ 
+3390 stylus  n. 铁笔,尖笔,唱针 
+ 
+3391 subassembly  部件，组件 
+ 
+3392 subchannel  子通道，分通道 
+ 
+3393 subclass  子类，小分类，子集合 
+ 
+3394 subcommand  子命令 
+ 
+3395 subcontractor  转包商,次承包商 
+ 
+3396 subdirectory  分目录，子目录 
+ 
+3397 subgroup  子群；给…加副标题 
+ 
+3398 subheading  n. 副标题 
+ 
+3399 subject  n. 科目,主题; a. 服从的,易患的 
+ 
+3400 sublayer  子层 
+ 
+3401 subminiature  超小型 
+ 
+3402 submission  n. 服从,柔和 
+ 
+3403 submit  vt.呈送,递交,主张; vt. 使服从,屈服 
+ 
+3404 submodule  子模块 
+ 
+3405 subordinate  n. 属下,附属物; a. 下级的,次要的,附属的; v. 使...居下位,使...服从 
+ 
+3406 subprogram  子程序，辅程序 
+ 
+3407 subroutine  子程序 
+ 
+3408 subscribe  v. 捐献,赞成,订阅 
+ 
+3409 subscriber  n. 签署者,捐献者,订户 
+ 
+3410 subscript  下标,标记,索引 
+ 
+3411 subsequence  n. 随后,随后发生的事,结果 
+ 
+3412 subsequent  a. 随后的,后来的 
+ 
+3413 subsequently  ad. 后来,随后 
+3414 subserve  促进,帮助 
+ 
+3415 subset  子集 
+ 
+3416 subsidiary  a. 辅助的,附属的; n. 子公司,附属机构 
+ 
+3417 substantial  n. 重要部份,本质; a. 大量的,实质上的,有内容的 
+ 
+3418 substantially  ad. 实质上,本质上,大体上 
+ 
+3419 substitute  n. 代替者,代用品; v. 代替; vi. (for)代替; vt. 用...代替,代以 
+ 
+3420 substitution  n. 代理,替换,交换 
+ 
+3421 subsystem  子系统 
+ 
+3422 subtotal  小计 
+ 
+3423 subtract  v. 减去,扣掉,减少 
+ 
+3424 subtracter  减法器 
+ 
+3425 subtraction  n. 减法,减去 
+ 
+3426 subtree  子树 
+ 
+3427 subtype  图表类型 
+ 
+3428 successful  a. 成功的 
+ 
+3429 succession  n. 连续,继承权,继位 
+ 
+3430 successive  a. 接连的,连续的,接二连三的 
+ 
+3431 successor  n. 继承人 
+ 
+3432 such  a. 如此的,这样的 
+ 
+3433 sudden death  突然故障 
+ 
+3434 sufficient  a. 足够的,充分的 
+ 
+3435 suffix  n. 后缀 
+ 
+3436 suggest  v. 建议,提出 
+ 
+3437 suggestion  n. 建议 
+ 
+3438 suitable  a. 合适的,适宜的 
+ 
+3439 suitcase  n. 手提箱 
+ 
+3440 sum  n. 总数,全部,概略; v. 总计,概括,合计 
+ 
+3441 summarize  v. 概述,摘要而言 
+ 
+3442 summary  n. 摘要,概要; a. 摘要的,简略的 
+ 
+3443 summary info  摘要信息 
+ 
+3444 sun  n. 太阳; vt. 晒太阳 
+ 
+3445 superclass   超类 
+ 
+3446 supercomputer  n. 巨型电子计算机 
+ 
+3447 superimpose  v. 将某物置於另一物上（尤指後者仍可见、 可闻等） 
+ 
+3448 superscalar  超标量 
+ 
+3449 superscript  上标 
+ 
+3450 superset  超集，扩展集 
+ 
+3451 supervise  v. 监督,管理,指导 
+ 
+3452 supervisor  n. 监督人, 管理人, 检查员, 督学, 主管人,导师 
+ 
+3453 supervisory  管理的,监控的 
+ 
+3454 supplier  n. 供给的人,供给国,承制厂商 
+ 
+3455 supplies  物资，贮藏量 
+ 
+3456 supply  n. 补给,供给; v. 补给,供给 
+ 
+3457 support  n. 支持,援助,供养; vt. 支援,帮助,支持 
+ 
+3458 supporters  支持者，载体 
+ 
+3459 suppose  v. 推想,假设,以为,认为; 应该,获准(be suppose to),让(虚拟语气) 
+ 
+3460 supposed  v. 假定(必须以...为条件); a. 想象上的 
+ 
+3461 suppress  v. 镇压,使...止住,禁止 
+ 
+3462 suppression  n. 抑压,镇压,抑制 
+ 
+3463 sure  a. 确信,必然的,必定的; ad. 当然,确实地,无疑地 
+ 
+3464 surface  n. 表面,平面; a. 表面的,肤浅的; v. 使...成平面,被露出来,在表面工作 
+ 
+3465 surge  n. 巨涌,汹涌,澎湃; v. 汹涌,澎湃 
+ 
+3466 surplus  a. 多余的,过剩的; n. 过剩,剩余物,盈余,顺差 
+ 
+3467 surrounding  a. 周围的; n. 环境,周围的事物 
+ 
+3468 surveillance  n. 监视,监督 
+ 
+3469 survey  n. 纵览,视察,测量; v. 审视,视察,通盘考虑,调查 
+ 
+3470 suspend  v. 推迟,悬(浮),挂,暂停,取消; vi. 吊,悬浮; vt. 悬,挂,吊,暂停,中止 
+ 
+3471 suspension  n. 悬挂,未决,中止 
+ 
+3472 sustain  v. 承受,支持,经受,维持 
+ 
+3473 swab  擦净 
+ 
+3474 swap  v.&n. 交换; vt. 交换,用...作交易 
+ 
+3475 swap file  交换文件 
+ 
+3476 swim  游泳 
+ 
+3477 switch  n. 开关,转换,接通或切断…电流,转动; v. 转变,切换,摆动 
+ 
+3478 syllable  n. 音节 
+ 
+3479 syllogism  n. 三段论法,推论法,演绎 
+ 
+3480 symbol  n. 符号,标志,象征 
+ 
+3481 symbolic  n. 代号; a. 象征的,符号的 
+ 
+3482 symmetric  （指图案等）对称的 
+ 
+3483 symptom  n. 症状,征兆 
+ 
+3484 sync  同步 
+ 
+3485 sync bit  同步位 
+ 
+3486 sync pulses  同步脉冲 
+ 
+3487 synchronization  同步化 
+ 
+3488 synchronize  v. 使同时,同时发生 
+ 
+3489 synchronous  a. 同时的,同步的 
+ 
+3490 synergic  a. 协作的(合作的) 
+ 
+3491 synergistic  协同的,协作的 
+ 
+3492 synonym  n. 同义词 
+ 
+3493 syntactic  语法的,句法的 
+ 
+3494 syntactical  a.句法的 
+ 
+3495 syntax  n. 句法 
+ 
+3496 synthesizer  n. 合成器(综合器) 
+ 
+3497 system  n. 系统,体系,制度,体制 
+ 
+3498 tab  (tabulate)制表 
+ 
+3501 tablet  n. 药片,匾 
+ 
+3502 tabs  跳格设定，制表符 
+ 
+3503 tabulate  v. 作成表,作成一览表,使成平面; a. 平板状的,平面的 
+ 
+3504 tabulator  制表机,跳格键 
+ 
+3505 tachometer  转速计 
+ 
+3506 tactics  n. 策略,战术 
+ 
+3507 tag  n. 标签,附属物,名称; v. 附以签条,尾随,添饰; n.标记, 标记符 
+ 
+3508 tailgate  尾板,后档板 
+ 
+3509 tailor  n. 裁缝师,成衣匠; v. 缝制,做裁缝,使...适应 
+ 
+3510 take  v. (took,taken) 拿,取; v. 修(课程),花费,记录,认为,搭乘 
+ 
+3511 talent  n. 才能,人才,天资 
+ 
+3512 talk  n. 谈话,会谈,讲话; v. 说话,谈话,讨论 
+ 
+3513 talker  n. 说话的人,健谈者 
+ 
+3514 tandem  串联 
+ 
+3515 tape  n. 录像带,录音带,磁带,带子; v. 以带子绑起 
+ 
+3516 target  n. 靶,目标; vt. 把...作为目标; 塔吉特(财富500强公司之一，总部所在地美国,主要经营零售) 
+ 
+3517 tariff  n. 关税 
+ 
+3518 task  n. 工作,任务 
+ 
+3519 teach  v. 教,教书,教导 
+ 
+3520 team  n. 队,组; v. 协同工作 
+ 
+3521 technical  a. 工艺的,技术的 
+ 
+3522 technique  n. 技术 
+ 
+3523 technology  n. 技术,工艺 
+ 
+3524 telecommunication  n. 电传视讯,远距离通信,电磁通信 
+ 
+3525 telecommuting  远程联机，远程交换 
+ 
+3526 teledata  远程数据 
+ 
+3527 telegraph  n. 电报,电报机; v. 打电报,显示 
+ 
+3528 telemeter  遥测计 
+ 
+3529 telephone  n.电话，v.打电话 
+ 
+3530 teleprinter  电传打印机 
+ 
+3531 teleprocessing  远程处理 
+ 
+3532 teletext  文字电视广播 
+ 
+3533 Teletype  电传打字机,电报交换机 
+ 
+3534 teletypewriter  电传打字机 
+ 
+3535 television  n. 电视 
+ 
+3536 telex  n. 电传; v. 发电传 
+ 
+3537 tell  v. 告诉,分辨，辨别 
+ 
+3538 template  模板,样板 
+ 
+3539 tempo  n. 拍子,速率 
+ 
+3540 temporarily  a. 临时的; ad. 暂时地,临时地 
+ 
+3541 temporary  a. 暂时的,临时的; n. 临时工 
+ 
+3542 tenancy  n. 租用(占有) 
+ 
+3543 tension  n. 紧张,张力,拉力 
+ 
+3544 term  n. 学期,术语,名词,期限; v. 称,呼 
+ 
+3545 term list  检索词表 
+ 
+3546 terminal  n. 终端机,终点,末端; a. 终点的,按期的,致死的 
+ 
+3547 terminal strip  接线条，端子板 
+ 
+3548 terminate  a. 有结尾的,有限的; v. 结束,终止,满期 
+ 
+3549 terminating  使终结 
+ 
+3550 termination  n. 终止,结束 
+ 
+3551 terminology  n. 用辞,术语 
+ 
+3552 ternary  三进制的 
+ 
+3553 test  n. 测试,试验; v. 测试,试验,接受测验 
+ 
+3554 tetrad  四位组 
+ 
+3555 text  n. 本文,文件,正文; v. 发短信 
+ 
+3556 text file  文本文件 
+ 
+3557 texture  n. (材料等的)结构,质地 
+ 
+3558 then  ad. 那么; 当时，然后，于是 
+ 
+3559 thereafter  ad. 其后,从那时以后 
+ 
+3560 therefore  ad. 因此,所以 
+ 
+3561 thermal  a. 热的,热量的; n. 上升的热气流 
+ 
+3562 thermal dye diffusion  热染扩散 
+ 
+3563 thermal printer  热敏打印机 
+ 
+3564 thermal transfer printer  传热打印机 
+ 
+3565 thermal wax transfer printer  热腊打印机 
+ 
+3566 thesaurus  n. 辞典,宝库,知识宝库 
+ 
+3567 thick  a. 厚的; ad. 厚,浓,密 
+ 
+3568 thickness  n. 厚度,一层,含混不清 
+ 
+3569 thin-film  薄膜 
+ 
+3570 think  v. 想,考虑,想像 
+ 
+3571 third  a. 第三(的); n. 三分之一; num. 第三 
+ 
+3572 thirty-two bit system  32位系统 
+ 
+3573 this  a. pron. 这,这个 
+ 
+3574 though  ad. 可是,然而,不过; conj. 尽管,虽然; prep. 但. 
+ 
+3575 thousand  a. 千,成千 
+ 
+3576 thread  n. 线,纤维,思路,线索; v. 穿线于,穿过,成线 
+ 
+3577 three  num. 三; pron.&a. 三(个,只...) 
+ 
+3578 threshold  n. 极限,门槛,入口,开端 
+ 
+3579 through  ad. 穿越,完全; prep. 经过,穿过,凭借 
+ 
+3580 throughput  吞吐量 
+ 
+3581 throughput rate  吞吐率 
+ 
+3582 throw  n. 投,掷,抛; v. 丢,掷,抛 
+ 
+3583 thumbnail  n. 大拇指的指甲,极小之物,小图片; a. 极小的,极短的; "豆腐干"(文章) 
+ 
+3584 tick  n. 被套(赊欠,滴答声,片刻,无线电信号); vt 赊销(滴答响,记以小点) 
+ 
+3585 ticket  n. 票,券 
+ 
+3586 tilde  波浪字符 
+ 
+3587 tile  n. 砖瓦; v. 铺以瓦,铺以瓷砖 
+ 
+3588 tilt  (使)倾斜 
+ 
+3589 time  n. 时间,期限,次数,乘; v. 计时,定时,乘; n.[计算机] DOS命令 : 显示并允许改变系统时间 
+ 
+3590 timer  n. 计时员(记时器,跑表,定时器,延时调节器) 
+ 
+3591 times  n. 《纽约时报》 
+ 
+3592 time-share  分时 
+ 
+3593 timeslice  时间片 
+ 
+3594 timing  n. 时间的掌握(安排,配合) 
+ 
+3595 tiny  a. 极小的,微小的 
+ 
+3596 tiny model  微模式 
+ 
+3597 tip  n. 顶,尖端,小费; v. 装顶端,倾斜,给小费 
+ 
+3598 title  n. 头衔,名称,标题; v. 赋予头衔 
+ 
+3599 today  n.&ad. 今天 
+ 
+3600 together  ad. 一起 
+ 
+3601 token  n. 表征，记号,代币 
+ 
+3602 tolerance  n. 宽容,容忍; n.公差 
+ 
+3603 tone  n. 音调,语气,品质; v. 调和,以特殊腔调说,配合 
+ 
+3604 toner  色剂. 墨粉,炭粉 
+ 
+3605 tool  n. 工具 
+ 
+3606 tool box  工具箱，工具组 
+ 
+3607 toolbar  工具条 
+ 
+3608 toolbox  n. 工具箱 
+ 
+3609 toolkit  工具包 
+ 
+3610 top  n. 顶端,极点,最高地位;陀螺; a. 最高的,顶上的; v. 高耸,加以顶端,超越 
+ 
+3611 top-down  自顶向下; 组织管理严密的 
+ 
+3612 topic  n. 题目,话题,主题 
+ 
+3613 topology  拓扑学,布局 
+ 
+3614 tornado  n. 龙卷风 
+ 
+3615 total  a. 全体的,总的,全然的; v. 总计,共计 
+3616 touch  n. 触觉,接触,少许; v. 接触,触及,感动 
+ 
+3617 toward  prep. 对于,关于,接近,将近,向,朝 
+ 
+3618 tower  n. 塔,高楼,堡垒; v. 高耸,超越 
+ 
+3619 toy problem  游戏问题，玩具问题 
+ 
+3620 trace  n. 痕迹,踪迹,微量; v. 追踪,回溯,描绘 
+ 
+3621 track  n. 小路,跑道,轨道,踪迹; v. 跟踪,追踪 
+ 
+3622 trackball  追踪球 
+ 
+3623 tracking  寻道,跟踪 
+ 
+3624 tractor  n. 拖拉机 
+ 
+3625 trademark  n. 商标 
+ 
+3626 traffic  a. 交通的; n. 交通; vi. 交易,买卖 
+ 
+3627 trailer  n. 追踪者,拖车; 电影预告片 
+ 
+3628 train  n. 火车,行列;长裙拖地部分; v. 训练,教养 
+ 
+3629 transaction  n. 交易,处理,办理 
+ 
+3630 transceiver  收发器 
+ 
+3631 transcribe  v. 抄写,译写 
+ 
+3632 transcriber  信息转换器，转录器 
+ 
+3633 transcript  n. 成绩单 
+ 
+3634 transducer  转换器,传感器 
+ 
+3635 transfer  n. 迁移,移动,换车; v. 转移,调转,调任 
+ 
+3636 transform  v. 转换,使...变形 
+ 
+3637 transformation  n. 变形,变质 
+ 
+3638 transformer   n. 变压器 
+ 
+3639 transient  a. 短暂的 
+ 
+3640 transistor  n. 晶体管(收音机) 
+ 
+3641 transition   n. 过渡,转变 
+ 
+3642 translate  翻译，解释; （尤指人，地点，条件）改变， 转移，调动 
+ 
+3643 translation  n. 翻译,译文 
+ 
+3644 translator  n. 翻译者 
+ 
+3645 transliterate  直译 
+ 
+3646 transliteration  直译,音译 
+ 
+3647 transmission  n. 传输,传送,变速器 
+ 
+3648 transmit  v. 传输,转送,传达 
+ 
+3649 transmitter  n. 转送的,传达人,让渡者 
+ 
+3650 transparency  透明度,幻灯片 
+ 
+3651 transport  n.运输、运输工具；(常用复数）强烈的情绪、狂喜或狂怒; v.运输；流放；为强烈的情绪所激动 
+ 
+3652 transportable  便携式计算机,可传送的 
+ 
+3653 transpose  v. 调换,颠倒顺序,移项 
+ 
+3654 trap  n. 圈套,陷阱; v. 设圈套,设陷阱 
+ 
+3655 trap handler  陷阱处理程序 
+ 
+3656 trashcan  n. 垃圾桶 
+ 
+3657 travel  v.&n.旅行,传播 
+ 
+3658 traverse  n. 横贯,横木; v. 横过,铭刻 
+ 
+3659 tray  n. 盘,托盘,碟 
+ 
+3660 treat  n. 宴飨,款待; v. 视为,对待,处理,治疗 
+ 
+3661 treatment  n. 治疗 
+ 
+3662 treble  n. 最高音部; a. 三倍的,最高部的; v. 使...增为三倍 
+ 
+3663 tree  n. 树 
+ 
+3664 trellis  框架,格式结构 
+ 
+3665 trend  n. 趋势,倾向,方位; v. 倾向 
+ 
+3666 triad  三元组 
+ 
+3667 trigger  n. 触发器,板机,制滑机; v. 触发(事件) 
+ 
+3668 triple  n. 三倍之数,三个一组; a. 三倍的 
+ 
+3669 triplet  三元组中的一个; (pl)三元组 
+ 
+3670 trouble  n. 麻烦,困难; v. 困扰,麻烦,烦恼 
+ 
+3671 true  a. 真的,真实的,正确的 
+ 
+3672 truncate  v. 切去头端,缩短,截棱成平面; a. 切去了头,缩短了的,截形的 
+ 
+3673 trunk  n. 树干,躯干,(汽车后部)行李箱,象鼻 
+ 
+3674 truth  n. 事实,确实 
+ 
+3675 try  n. 尝试,试验; v. 试,尝试 
+ 
+3676 tube  n. 地铁,电子管,显像管,管,软管;电视 
+ 
+3677 tuner  调谐器 
+ 
+3678 tuning  调整 
+ 
+3679 tunnel  n. 隧道,地下道; v. 挖隧道 
+ 
+3680 turn  n. 转弯; v. 旋转; n. 行为,举止,（依次轮流的）顺序 
+ 
+3681 turnaround  转变,突然好转 
+ 
+3682 turning  n. 旋转,回转,转向 
+ 
+3683 turnkey  n. 监狱的看守,狱吏 
+ 
+3684 turnover  n. 翻覆,翻折,半圆卷饼,营业额,成交量; a. 翻折的领子 
+ 
+3685 turquoise   n. 土耳其玉,蓝玉 
+ 
+3686 twentieth  n. 二十分之一; num.&a. 第二十 
+ 
+3687 twice  ad. 两倍,两次; n. 两次 
+ 
+3688 twip  缇 
+ 
+3689 twist  n. 一扭,扭曲; v. 拧,扭曲 
+ 
+3690 two  num.a. 二 
+ 
+3691 type  n. 类型,品种,样式,模范; v. 打字; n. 铅字,字体 
+ 
+3692 type size  字号 
+ 
+3693 type style  字型 
+ 
+3694 typeface  字型,铅字样 
+ 
+3695 typewriter  n. 打字机 
+ 
+3696 typical  a. 典型的,有代表性的 
+ 
+3697 UI  (user interface)用户界面 
+ 
+3698 umlaut  元音变音 
+ 
+3699 unable  a. 不能的,不会的; v. 不能,不会 
+ 
+3700 unassigned  未赋值的 
+ 
+3701 unattended  a.无人照顾的 
+ 
+3702 unauthorized  非法的，越权的 
+ 
+3703 unavailable  a.(指人)不可会见的，不可与之交谈的 
+ 
+3704 unbind  切断,解开 
+ 
+3705 unchanged  a.不变的；依然如故的 
+ 
+3706 unclassified  非保密的 
+ 
+3707 unconditional  a. 无条件的,无限制的,绝对的 
+ 
+3708 undefined  未定义的 
+ 
+3709 undelete  复原，恢复被删除的文件 
+ 
+3710 under  prep. 在...之下,低于 
+ 
+3711 underflow  下溢 
+ 
+3712 underline  v. 在...下面划线 
+ 
+3713 underscore  v. 划线于...下; v.强调 
+ 
+3714 understand  v. 理解,了解,领会,闻知 
+ 
+3715 understanding  n. 谅解,理解; vbl. 了解 
+ 
+3716 undesirable  a. 不受欢迎的,不良的 
+ 
+3717 undo  v. 解开,取消 
+ 
+3718 undone  a. 未完成的,破减的,解开的; vbl. 恢复原状,解开 
+ 
+3719 unformat  恢复被意外格式化的磁盘 
+ 
+3720 unfortunately  ad. 不幸地 
+ 
+3721 ungroup  取消组 
+ 
+3722 unhide  取消隐藏 
+ 
+3723 unidirectional     单向的 
+ 
+3724 union  n. 联盟,结合,工会 
+ 
+3725 unique  a. 独一无二的,独特的,稀罕的 
+ 
+3726 unit  n. 单位,单元 
+ 
+3727 unitary  单 
+ 
+3728 universal  a. 普遍的,通用的,宇宙的 
+ 
+3729 university  n. 大学 
+ 
+3730 unix  一种多任务多用户操作系统 
+ 
+3731 unknown  a. 未知的 
+ 
+3732 unless  conj. 除非; prep. 除...外 
+ 
+3733 unlike  a. 不同的,不相似的; prep. 不像,和...不同 
+ 
+3734 unlink  解链 
+ 
+3735 unload  v. 卸货,摆脱...之负担,倾销 
+ 
+3736 unlock  v. 开启,显露,放开 
+ 
+3737 unmarked  无记号的 
+ 
+3738 unnecessary  a. 不必要的,多余的; n. 不必要的东西 
+ 
+3739 unpack  v. 卸下 
+ 
+3740 unpredictable  adj. 无法预料的; 不可预知的 
+ 
+3741 unprotect  撤消保护 
+ 
+3742 unrecognized  未被承认的 
+ 
+3743 unsafe  a.不安全的;危险的 
+ 
+3744 unsigned  无符号的 
+ 
+3745 unsuccessful  a. 不成功的,失败的 
+ 
+3746 until  prep.&conj. 直到...为止 
+ 
+3747 unused  a. 不用的,不使用的,从未用过的 
+ 
+3748 unwanted  adj. 不想要的; 无人要的; 不该有的 
+ 
+3749 up  a. 向上的; prep.&ad. 向上 
+ 
+3750 up arrow  上箭头键 
+ 
+3751 update file  更新文件 
+ 
+3752 upgrade  vt. 提高(上升,浓集,加强); n. 提高(上升,浓集,加强) 
+ 
+3753 upload  上传; 上载 
+ 
+3754 upon  prep. 在...上 
+ 
+3755 upper  a. 上部的,较高的,上面的 
+ 
+3756 upper memory  高端内存 
+ 
+3757 uppercase  大写字母,大写的 
+ 
+3758 upstream  向上游,逆流地 
+ 
+3759 upward  a. 向上的,上升的; ad. 向上,上升 
+ 
+3760 urgent-mail  急件 
+ 
+3761 usability  可用性 
+ 
+3762 usage  n. 惯用法,使用,用法 
+ 
+3763 use  n. 利用,使用,用途; v. 使用; vt. 使用,用 
+ 
+3764 useful  a. 有用的 
+ 
+3765 useless  a. 无用的 
+ 
+3766 user  n. 用户,使用者 
+ 
+3767 user-defined  用户定义的 
+ 
+3768 user-friendly  用户友好的; a. 容易操作的,好用的 
+ 
+3769 userid  用户标识符 
+ 
+3770 usually  ad. 通常 
+ 
+3771 utility  n. 公共设施,效用,公用程序,实用品,实用 
+ 
+3772 utilization  n. 利用 
+ 
+3773 vacuum  n. 真空,空间,真空吸尘器; a. 真空的,产生真空的,利用真空的; v. 用吸尘器打扫 
+ 
+3774 valid  a. 有确实根据的,有效的,正当的 
+ 
+3775 validate  v. 使...有效,确认 
+ 
+3776 validity  n. 有效性,正确性 
+ 
+3777 valuable  a. 贵重的,有价值的; n. (pl.)贵重物品 
+ 
+3778 valuator  评价者 
+ 
+3779 value  n. 价值,重要性,价格; vt. 评价,估价,重视 
+ 
+3780 van  n. 货车 
+ 
+3781 var  (value-added reseller)增值分销商 
+ 
+3782 variable  a. 可变的,易变的; n. 变量 
+ 
+3783 variable-length  可变长 
+ 
+3784 variance  n. 不一致,变化;[数]方差 
+ 
+3785 variant  n. 变体; a. 不同的 
+ 
+3786 variety  n. 多样,种类,杂耍 
+ 
+3787 various  a. 各种各样的 
+ 
+3788 vary  v. 变化,改变,不同,违反 
+ 
+3789 VCR  abbr. Video Cassette Recorder 录像机; abbr. Variable Compression Ratio, 可变压缩比 
+ 
+3790 vector  n. 向量,矢量,带菌者; v. 无线电诱导 
+ 
+3791 vendor  n. 厂商,小贩,卖主,自动售货机 
+ 
+3792 verb  n. 动词 
+ 
+3793 verification  n. 确认,查证,作证 
+ 
+3794 verifier  校验机 
+ 
+3795 verify  v. 查证,核实; n.[计算机] DOS命令 : 打开关闭在 DOS操作期间的写文件校验开关 
+ 
+3796 version  n. 版本,翻译 
+ 
+3797 vertex  n. 顶点,最高点,头顶 
+ 
+3798 vertical  a. 垂直的; n. 垂直线 
+ 
+3799 vertically  ad. 垂直地 
+ 
+3800 VESA  视频电子标准协会 
+ 
+3801 VGA  (video graphics array)视频图形阵列 
+ 
+3802 via   prep. 经由 
+ 
+3803 vice  n. 恶习, 恶行, 罪恶, 缺陷, 恶癖, 老虎钳; vt. 钳住; prep. 代替 
+ 
+3804 video  a. 录像的; n. 录像(机); vt. 制作...的录像 
+ 
+3805 video-CD  视频CD 
+ 
+3806 videodisc  影碟,视盘 
+ 
+3807 videotex  可视图文 
+ 
+3808 view  n. 视野,风景,见解; v. 看,考虑 
+ 
+3809 viewdata  可视数据 
+ 
+3810 viewer  n. 电视观众,观众 
+ 
+3811 viewport  视口 
+ 
+3812 violate  v. 违犯,亵渎,干扰 
+ 
+3813 violation  n. 违反,违背,妨碍 
+ 
+3814 virtual   a. 虚拟的,实质的 
+ 
+3815 virtually  a. 几乎,差不多; ad. 几乎,实际上 
+3816 virus  n. 病毒 
+ 
+3817 visibility  n. 能见度 
+ 
+3818 visible  a. 可见的,看得见的 
+ 
+3819 visitor  n. 参观者,访问者 
+ 
+3820 visual  a. 视觉的 
+ 
+3821 visualization    n. 使看得见的,清楚地呈现在心 
+ 
+3822 vital  a. 至关重要的,生死攸关的,有活力的,充满生机的 
+ 
+3823 vocabulary  n. 词汇 
+ 
+3824 vocoder  声音合成机 
+ 
+3825 voice  n. 声音 
+ 
+3826 void  n. 空虚; a. 空的 
+ 
+3827 volatile  a. 反复无常的,挥发性的 
+ 
+3828 volatility  n. 挥发性,挥发度,轻快,（性格）反复无常; (often disapproving) (of a person or their moods) changing easily from one mood to another: a highly volatile personality 
+ 
+3829 volt   n. 伏特 
+ 
+3830 voltage  n. 电压 
+ 
+3831 volume    n. 体积,容量,音量; n. 卷,册 
+ 
+3832 vowel  n. 母音,元音 
+ 
+3833 VR  (virtual reality)虚拟现实 
+ 
+3834 VRAM  (video RAM)视频RAM 
+ 
+3835 wafer  圆片 
+ 
+3836 wait  n. 等待,等候; v. 等候,期待,延缓 
+ 
+3837 wait cursor  沙漏光标 
+ 
+3838 waiting  n. 等候; a. 候补; vbl. 等候 
+ 
+3839 wallpaper  n. 墙纸,壁纸 
+ 
+3840 wan  (wide area network)广域网 
+ 
+3841 wand  n. 棒,棍,杖 
+ 
+3842 want  n. 缺乏,欲望,需要; v. 要,希望,必须 
+ 
+3843 ware  n. 制品,器具,货物; v. 留心,小心 
+ 
+3844 warehouse  n. 仓库; v. 存入仓库 
+ 
+3845 warm  a. 暖和的; v. (使)变暖; vt. (使)温暖 
+ 
+3846 warn  v. 警告,注意,通知 
+ 
+3847 warning  n. 警告,预告,通知; vbl. 警告,注意,通知 
+ 
+3848 warranty  n. 担保,保证,根据 
+ 
+3849 watch  n. 手表; v. 看,注视,照顾 
+ 
+3850 watertight  a. 不漏水的(无懈可击的) 
+ 
+3851 WAV file  WAV文件 
+ 
+3852 wave  n. 波,波浪,波动; v. 波动,挥动,起伏 
+ 
+3853 waveform  波形 
+ 
+3854 wavelength  n. 波长 
+ 
+3855 way  n. 方法,道路,方向 
+ 
+3856 weatherproof  不受气候影响的 
+ 
+3857 web  n. 网 
+ 
+3858 week  n. 星期,周 
+ 
+3859 weight  n. 重量,体重,重担 
+ 
+3860 welcome  v.n.欢迎 
+ 
+3861 well  n. 井,源泉; a. 健康的,良好的,适宜的; ad. 很好地,适当地 
+ 
+3862 whatever  a. 不管怎样的; det. 不管什么,无论何事; pron.&conj. 无论什么 
+ 
+3863 what-if  假设 
+ 
+3864 when  conj. 当...时; pron.&ad. 什么时候 
+ 
+3865 whenever  ad. 无论何时; conj. 每当,无论何时,随时 
+ 
+3866 whereas  conj.&ad. 然而,却,反之 
+ 
+3867 whether  conj.&ad. 是否 
+ 
+3868 whichever  a. 无论哪个,无论哪些; pron. 无论哪个 
+ 
+3869 while  conj. 当...的时候; n.&a. 一会儿; v. 消磨 
+ 
+3870 whole  a. 整个的; n. 全部 
+ 
+3871 wide  a. 广泛的,宽阔的; ad. 广大地,全部地 
+ 
+3872 widening  扩展,加宽 
+ 
+3873 width  n. 宽度 
+ 
+3874 wildcard  通配符 
+ 
+3875 will  n.意志, 决心, 愿望, 遗嘱; aux.将, 愿意, 必须 
+ 
+3876 wipe  n. 擦拭,用力打; v. 擦,消除,拭去 
+ 
+3877 wire  n. 电线,电报,金属丝; v. 给…装电线,发电报 
+ 
+3878 wiring  配线 
+ 
+3879 withdraw  v. 撤回,取回,撤退 
+ 
+3880 within  ad. 在内; n. 里面; prep. 在...里面 
+ 
+3881 without  ad. 在外面; n. 外面,外部; prep. 无,没有 
+ 
+3882 wizard  n. 男巫,术士,鬼才; a. 男巫的,巫术的 
+ 
+3883 word  n. 词,单词,消息,诺言; vt. 用词语表达 
+ 
+3885 WordPerfect  一种曾经最流行的文字编辑软件 
+ 
+3886 work  工作,有效，奏效 
+ 
+3887 workday  工作日 
+ 
+3888 workgroup  工作组 
+ 
+3889 workshop  n. 车间,工场,研讨会,讲习班 
+ 
+3890 workstation  n. 工作站; 工作站 
+ 
+3891 wrap  n. 披肩,围巾; v. 覆盖,包围,裹,包; n. 包裹; vt. 包,裹 
+ 
+3892 wraparound  自动折行 
+ 
+3893 write  v. 写 
+ 
+3894 write head  写入头 
+ 
+3895 writer  n. 作者,作家 
+ 
+3896 WWW  (World Wide Web)万维网，环球网 
+ 
+3897 x-axis  X轴 
+ 
+3898 XMS  扩充内存规范 
+ 
+3899 y-axis  Y轴 
+ 
+3900 year  a. 每年的; ad. 每年; n. 年 
+ 
+3901 yoke  n. 轭, 轭状物, 套, 束缚, 支配; v. 把...套上轭, 结合, 连接 
+ 
+3902 zap  击溃 
+ 
+3903 z-axis  Z轴 
+ 
+3904 zero  num.&n. 零 
+ 
+3905 zero fill  填零 
+ 
+3906 zero input  零输入，无输入 
+ 
+3907 zeroize  填零，拨回零点 
+ 
+3908 zip  n. 拉练,飞射声 
+ 
+3909 zone  n. 地域,地带,地区 
+ 
+3910 zoom  n. 急速上升; v. 突然扩大,急速上升 
+ 
+

@@ -1,0 +1,5 @@
+
+####禁止iOS自动升级
+NOOTA9.mobileconfig
+
+
