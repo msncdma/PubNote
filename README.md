@@ -63,13 +63,14 @@
 [果冻虾仁](https://github.com/guodongxiaren)|学生，bash,linux
 
 
-#开源框架
+#开源框架_33个2017年必须了解的iOS开源库
 - [YYKit](https://github.com/ibireme/YYKit)
 - [官方开源](http://www.opensource.apple.com/tarballs/)
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
 #原理类
 -[Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
+- [objective-c-associated-objects-implementation-principle](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/)
 #重构与优化
 - [viewController瘦身]
 - [ios crash 收集框架](http://www.cocoachina.com/ios/20150701/12301.html)
@@ -108,7 +109,7 @@
 - [mobile jdk](http://openjdk.java.net/projects/mobile/)
 - [crap接口管理系统 anjularjs+bootstrap+springMVC](http://api.crap.cn/web.do#/webWebPage/detail/PAGE/WELCOME)
 - [ssh key for github](https://help.github.com/articles/generating-an-ssh-key/)
-
+- [docker虚拟](https://github.com/yeasy/docker_practice/blob/master/README.md)
 
 #MarkdownTemplate
 
@@ -129,6 +130,7 @@
 - [GitBook](https://www.gitbook.com/explore)
 
 
-
+#机器学习
+- [index](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 
 

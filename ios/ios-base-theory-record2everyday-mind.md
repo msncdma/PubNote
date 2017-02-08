@@ -6,7 +6,7 @@
 
 
 
-对viewController进行管理的类有UINavigationController，UITabBarController
+###对viewController进行管理的类有UINavigationController，UITabBarController
 
 ViewController切换
 弹簧式列表的制作
@@ -34,7 +34,7 @@ UIView层次管理(sendSubviewToBack,bringSubviewToFront)
 
 
 
-生命周期：
+###生命周期：
 2013-03-27 16:58:48.277StudyInit[1659:11303] initWithNibName
 
 2013-03-27 16:58:48.279StudyInit[1659:11303] loadView
@@ -54,3 +54,5 @@ UIView层次管理(sendSubviewToBack,bringSubviewToFront)
 2013-03-27 16:58:50.511StudyInit[1659:11303] viewDidDisappear
 
 2013-03-27 16:58:50.512StudyInit[1659:11303] dealloc
+
+

@@ -1,0 +1,9 @@
+
+###从远程仓库切出本地不存在的分支
+git ls-remote -h git@bitbucket.org:person/projectmarket.git HEAD
+
+
+```
+$ git checkout -b yourtargetbranch remotes/rootlab/yourtargetbranch
+Branch yourtargetbranch set up to track remote branch yourtargetbranch from rootlab.
+```
