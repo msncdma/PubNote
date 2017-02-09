@@ -9,7 +9,7 @@
 [NSHipster](http://nshipster.cn) | Mattt Thompson,effective objective-c
 [Limboy 无网不剩](http://limboy.me/) | Design / Tech / Create / Startup / Life
 [唐巧的技术博客](http://blog.devtang.com) | 媒体人
-[雷纯锋的技术博客](http://blog.leichunfeng.com) | 理论型
+[雷纯锋的技术博客](http://blog.leichunfeng.com) | 理论型https://github.com/leichunfeng
 [OneV's Den](http://onevcat.com) | objc,swift
 [破船之家](http://beyondvincent.com) | watch,sprite
 [Lex Tang](https://github.com/lexrus/) |funny ios dev,swift
@@ -60,7 +60,7 @@
 [技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
-[果冻虾仁](https://github.com/guodongxiaren)|学生，bash,linux
+[果冻虾仁](https://github.com/guodongxiaren)| 学生，bash,linux
 
 
 #开源框架_33个2017年必须了解的iOS开源库
@@ -68,8 +68,9 @@
 - [官方开源](http://www.opensource.apple.com/tarballs/)
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
-#原理类
--[Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
+#运行时
+- [苹果官方运行时](https://developer.apple.com/reference/objectivec/objective_c_runtime?language=objc)
+- [Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
 - [objective-c-associated-objects-implementation-principle](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/)
 #重构与优化
 - [viewController瘦身]
@@ -80,9 +81,10 @@
 - [OC Code Standards](CodingStandards/SUMMARY.md)
 - [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 - [Code Conventions for the Java Programming Language](https://waylau.gitbooks.io/java-code-conventions/content/index.html)
-- [diff](diff/oc_diff_java.md)
-
-
+- [diff](language/oc_diff_java.md)
+#iOS面试
+- [iOS程序犭袁。](https://github.com/ChenYilong/iOSInterviewQuestions)
+- [不会开机的男孩](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/)
 #MAC
 - [MAC键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 
