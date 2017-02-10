@@ -138,4 +138,7 @@
 #机器学习
 - [index](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 
+#算法
+- [极客算法入门](http://wiki.jikexueyuan.com/list/sort/)
+
 
