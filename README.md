@@ -79,6 +79,10 @@
 - [ios crash 收集框架](http://www.cocoachina.com/ios/20150701/12301.html)
 
 
+#live streaming
+- [GPUImage深入对比研究混合开发的各种技术细节](http://www.ios122.com/2015/08/gpuimage/)
+
+
 #代码规范
 - [OC Code Standards](CodingStandards/SUMMARY.md)
 - [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
@@ -88,6 +92,7 @@
 #iOS面试
 - [iOS程序犭袁。](https://github.com/ChenYilong/iOSInterviewQuestions)
 - [不会开机的男孩](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/)
+- [ios-base-theory-record2everyday-mind](ios/ios-base-theory-record2everyday-mind.md)
 
 #MAC
 - [MAC键盘快捷键](https://support.apple.com/zh-cn/HT201236)

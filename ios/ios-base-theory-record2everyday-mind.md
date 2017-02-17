@@ -1,19 +1,23 @@
 
+#导航栏专题
+- [几句话实现导航栏透明渐变](http://www.cocoachina.com/ios/20160606/16608.html)
+- [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)
+- [MXNavigationBarManager](https://github.com/cwxatlm/MXNavigationBarManager)
+
+#Objective-C 的方法调用流程
+
+- [UIView中的layoutSubviews和drawRect](http://www.jianshu.com/p/438bcf8e3e53)
 
 
 
-
-
-
-
-###对viewController进行管理的类有UINavigationController，UITabBarController
+#对viewController进行管理的类有UINavigationController，UITabBarController
 
 ViewController切换
 弹簧式列表的制作
 UIViewController的误用
 
 
-
+```
 ios开发scrollView中contentSize、contentInset和contentOffset区别
 
 contentSize是scrollview可以滚动的区域，比如frame = (0 ,0 ,320 ,480) contentSize = (320 ,960)，代表你的scrollview可以上下滚动，滚动区域为frame大小的两倍。 
@@ -28,13 +32,16 @@ contentInset是scrollview的contentview的顶点相对于scrollview的位置，�
 - (CGFloat)tableView:(UITableView *)tableView heightForFooterInSection:(NSInteger)section; 
 它会自动计算所有的高度和来做为它的contentsize的height.
 
+```
 
 
 UIView层次管理(sendSubviewToBack,bringSubviewToFront)
 
 
 
-###生命周期：
+#生命周期：
+
+```
 2013-03-27 16:58:48.277StudyInit[1659:11303] initWithNibName
 
 2013-03-27 16:58:48.279StudyInit[1659:11303] loadView
@@ -54,5 +61,7 @@ UIView层次管理(sendSubviewToBack,bringSubviewToFront)
 2013-03-27 16:58:50.511StudyInit[1659:11303] viewDidDisappear
 
 2013-03-27 16:58:50.512StudyInit[1659:11303] dealloc
+
+```
 
 
