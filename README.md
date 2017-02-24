@@ -93,7 +93,8 @@
 - [iOS程序犭袁。](https://github.com/ChenYilong/iOSInterviewQuestions)
 - [不会开机的男孩](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/)
 - [ios-base-theory-record2everyday-mind](ios/ios-base-theory-record2everyday-mind.md)
-
+#iOS源码分析
+- [github/Draveness](https://github.com/Draveness/iOS-Source-Code-Analyze)
 #MAC
 - [MAC键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 - [MAC软件](http://www.ifunmac.com/)
@@ -111,7 +112,7 @@
 
 #python
 - [start](http://python.xiaoleilu.com/index.html)
-
+- [python面试题目](https://github.com/taizilongxu/interview_python)
 
 #server skill
 - [ELKstack日志引擎](https://www.gitbook.com/book/chenryn/kibana-guide-cn/details)

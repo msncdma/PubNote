@@ -1,3 +1,4 @@
+#离屏渲染原理
 
 #导航栏专题
 - [几句话实现导航栏透明渐变](http://www.cocoachina.com/ios/20160606/16608.html)
@@ -63,5 +64,9 @@ UIView层次管理(sendSubviewToBack,bringSubviewToFront)
 2013-03-27 16:58:50.512StudyInit[1659:11303] dealloc
 
 ```
+
+#UIScrollView
+- [Allen 许帅](https://github.com/allenhsu)
+- [UIScrollView 实践经验](http://tech.glowing.com/cn/practice-in-uiscrollview/)
 
 
