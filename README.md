@@ -70,6 +70,7 @@
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
 
 #运行时
+- [https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
 - [苹果官方运行时](https://developer.apple.com/reference/objectivec/objective_c_runtime?language=objc)
 - [Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
 - [objective-c-associated-objects-implementation-principle](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/)
