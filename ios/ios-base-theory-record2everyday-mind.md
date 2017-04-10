@@ -1,9 +1,5 @@
 #离屏渲染原理
 
-#导航栏专题
-- [几句话实现导航栏透明渐变](http://www.cocoachina.com/ios/20160606/16608.html)
-- [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)
-- [MXNavigationBarManager](https://github.com/cwxatlm/MXNavigationBarManager)
 
 #Objective-C 的方法调用流程
 
@@ -21,16 +17,16 @@ UIViewController的误用
 ```
 ios开发scrollView中contentSize、contentInset和contentOffset区别
 
-contentSize是scrollview可以滚动的区域，比如frame = (0 ,0 ,320 ,480) contentSize = (320 ,960)，代表你的scrollview可以上下滚动，滚动区域为frame大小的两倍。 
-contentOffset是scrollview当前显示区域顶点相对于frame顶点的偏移量，比如上个例子你拉到最下面，contentoffset就是(0 ,480)，也就是y偏移了480 
-contentInset是scrollview的contentview的顶点相对于scrollview的位置，例如你的contentInset = (0 ,100)，那么你的contentview就是从scrollview的(0 ,100)开始显示 
+contentSize是scrollview可以滚动的区域，比如frame = (0 ,0 ,320 ,480) contentSize = (320 ,960)，代表你的scrollview可以上下滚动，滚动区域为frame大小的两倍。
+contentOffset是scrollview当前显示区域顶点相对于frame顶点的偏移量，比如上个例子你拉到最下面，contentoffset就是(0 ,480)，也就是y偏移了480
+contentInset是scrollview的contentview的顶点相对于scrollview的位置，例如你的contentInset = (0 ,100)，那么你的contentview就是从scrollview的(0 ,100)开始显示
 
-另外UITableView是UIScrollView的子类，它们在上述属性又有所不同，tabelview的contentsize是由它的下列方法共同实现的 
-- (NSInteger)numberOfSections; 
-- (NSInteger)numberOfRowsInSection:(NSInteger)section; 
-- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath; 
-- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section; 
-- (CGFloat)tableView:(UITableView *)tableView heightForFooterInSection:(NSInteger)section; 
+另外UITableView是UIScrollView的子类，它们在上述属性又有所不同，tabelview的contentsize是由它的下列方法共同实现的
+- (NSInteger)numberOfSections;
+- (NSInteger)numberOfRowsInSection:(NSInteger)section;
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath;
+- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section;
+- (CGFloat)tableView:(UITableView *)tableView heightForFooterInSection:(NSInteger)section;
 它会自动计算所有的高度和来做为它的contentsize的height.
 
 ```
@@ -69,4 +65,6 @@ UIView层次管理(sendSubviewToBack,bringSubviewToFront)
 - [Allen 许帅](https://github.com/allenhsu)
 - [UIScrollView 实践经验](http://tech.glowing.com/cn/practice-in-uiscrollview/)
 
+#宏
 
+#GCD

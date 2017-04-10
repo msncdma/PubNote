@@ -1,6 +1,7 @@
 # iOS技术团队
 - [Chinamobo Team](https://github.com/Chinamobo)
 - [美团点评技术团队](http://tech.meituan.com)
+- [tencent_opensource](http://opensource.tencent.com/index.html)
 
 #iOS技术博客
 
@@ -61,7 +62,7 @@
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
 [果冻虾仁](https://github.com/guodongxiaren)| 学生，bash,linux
-
+[switchhost作者](https://github.com/oldj)|杭州阿里，js
 
 #开源框架_33个2017年必须了解的iOS开源库
 - [YYKit](https://github.com/ibireme/YYKit)
@@ -69,16 +70,30 @@
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
 
+#仿app&ui
+- [首页拖曳广告]()
+- [tableview拖曳小红点]()
+- [美团高仿]()
+- [淘宝购物车]()
+- [微博富文本]()
+- [runtxt高仿]()
+
 #运行时
 - [https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
 - [苹果官方运行时](https://developer.apple.com/reference/objectivec/objective_c_runtime?language=objc)
 - [Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
 - [objective-c-associated-objects-implementation-principle](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/)
 
+```
+dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImplementations(),
+```
+
 #重构与优化
 - [viewController瘦身]
 - [ios crash 收集框架](http://www.cocoachina.com/ios/20150701/12301.html)
-
+- [组件化](https://github.com/casatwy/CTMediator)
+- [持久化](https://github.com/casatwy/CTPersistance)
+- [InstrumentsUserGuide](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html#//apple_ref/doc/uid/TP40004652-CH3-SW1)
 
 #live streaming
 - [GPUImage深入对比研究混合开发的各种技术细节](http://www.ios122.com/2015/08/gpuimage/)
@@ -138,6 +153,7 @@
 - [明月永在-3rd openwrt firmware](https://myop.cf/)
 - [backtrack-linux](http://www.backtrack-linux.org/downloads/)
 - [通讯协议漫谈]
+- [即时通讯（IM）和社交系统（SNS）优秀开源项目](https://github.com/CameloeAnthony/Perfect_IM_SNS)
 #GitBook
 - [GitBook](https://www.gitbook.com/explore)
 
@@ -148,4 +164,12 @@
 #算法
 - [极客算法入门](http://wiki.jikexueyuan.com/list/sort/)
 
+#数据抓取
+- [使用“代理”的方式来抓取微信公众账号文章，使用 anyproxy 作为代理。](https://github.com/lijinma/wechat_spider)
+- [京东商品爬虫](https://github.com/Chyroc/JDong)
+- [基于搜狗微信搜索的微信公众号爬虫接口](https://github.com/Chyroc/WechatSogou)
+- [https://www.v2ex.com/t/353221#reply0](https://github.com/yangyangwithgnu/hardseed)
+- [python+mongodb抓取视频](https://github.com/xiyouMc/PornHubBot)
 
+#微服务架构
+- [微服务构架](https://github.com/Tencent/Tars)
