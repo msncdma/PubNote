@@ -3,6 +3,11 @@
 - [美团点评技术团队](http://tech.meituan.com)
 - [tencent_opensource](http://opensource.tencent.com/index.html)
 
+#海外优质
+- [简明英文教程，swift,simple ui](https://www.raywenderlich.com/)
+- [objc中国](https://objccn.io/)
+- [objc国际](https://www.objc.io/)
+
 #iOS技术博客
 
 博客地址 | 标签、介绍
@@ -87,6 +92,9 @@
 ```
 dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImplementations(),
 ```
+#逆向
+- [逆向社区](http://iosre.com/)
+- [非越狱环境下iOS应用逆向研究，从dylib注入，应用重签名到App Hook](https://github.com/Urinx/iOSAppHook)
 
 #重构与优化
 - [viewController瘦身]
@@ -119,6 +127,10 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 #UI
 - [PaintCode](http://www.paintcodeapp.com/)
 - [实时看效果](https://github.com/johnno1962/injectionforxcode)
+
+#iOS缓存
+- [YYCACHE](http://blog.ibireme.com/2015/10/26/yycache/)
+- [微博@iOS程序犭袁 ChenYilong](https://github.com/ChenYilong/ParseSourceCodeStudy)
 
 #Android开源框架
 - [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
@@ -154,6 +166,7 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 - [backtrack-linux](http://www.backtrack-linux.org/downloads/)
 - [通讯协议漫谈]
 - [即时通讯（IM）和社交系统（SNS）优秀开源项目](https://github.com/CameloeAnthony/Perfect_IM_SNS)
+
 #GitBook
 - [GitBook](https://www.gitbook.com/explore)
 
@@ -170,6 +183,10 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 - [基于搜狗微信搜索的微信公众号爬虫接口](https://github.com/Chyroc/WechatSogou)
 - [https://www.v2ex.com/t/353221#reply0](https://github.com/yangyangwithgnu/hardseed)
 - [python+mongodb抓取视频](https://github.com/xiyouMc/PornHubBot)
+
+#数据挖掘
+- [面向程序员的数据挖掘指南](https://www.gitbook.com/book/wizardforcel/guide-to-data-mining/details)
+- [集体智慧编程源代码](https://github.com/zouhongzhao/Programming-Collective-Intelligence-Source-Code)
 
 #微服务架构
 - [微服务构架](https://github.com/Tencent/Tars)
