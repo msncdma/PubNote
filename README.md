@@ -2,6 +2,7 @@
 - [Chinamobo Team](https://github.com/Chinamobo)
 - [美团点评技术团队](http://tech.meituan.com)
 - [tencent_opensource](http://opensource.tencent.com/index.html)
+https://github.com/facebook
 
 #海外优质
 - [简明英文教程，swift,simple ui](https://www.raywenderlich.com/)
@@ -127,6 +128,9 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 #UI
 - [PaintCode](http://www.paintcodeapp.com/)
 - [实时看效果](https://github.com/johnno1962/injectionforxcode)
+#iOS动画
+- [iOS-Core-Animation-Advanced-Techniques翻译](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
+- [动画组](https://zsisme.gitbooks.io/ios-/content/chapter8/animation-groups.html)
 
 #iOS缓存
 - [YYCACHE](http://blog.ibireme.com/2015/10/26/yycache/)
@@ -136,7 +140,7 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 - [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
 - [Trinea](https://github.com/Trinea/android-open-project)
 - [hehonghui](https://github.com/hehonghui/android-tech-frontier)
-
+https://github.com/roxma/SMS-Forward.git
 
 #python
 - [start](http://python.xiaoleilu.com/index.html)
@@ -154,8 +158,9 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 
 - [使用markdown语法来写网页ppt](http://wenchao-img.qiniudn.com/markdown.html#slide1)
 
-
+
 #information flow & Protocol
+- [CHECK](https://github.com/oetiker/SmokePing)
 - [ss](https://github.com/clowwindy)
 - [openwrt+pdnsd+ss](http://www.m3306.com/archives/41.html)
 - [theory](http://www.chinagfw.org/)
@@ -163,6 +168,7 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 - [路由器方案OpenWrt](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
 
 - [明月永在-3rd openwrt firmware](https://myop.cf/)
+- [openwrt路由开发工具](https://github.com/grasses/OpenWRT-Util)
 - [backtrack-linux](http://www.backtrack-linux.org/downloads/)
 - [通讯协议漫谈]
 - [即时通讯（IM）和社交系统（SNS）优秀开源项目](https://github.com/CameloeAnthony/Perfect_IM_SNS)
@@ -177,6 +183,11 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 #算法
 - [极客算法入门](http://wiki.jikexueyuan.com/list/sort/)
 
+#js
+- [高质量的 React 相关文档和翻译](https://github.com/react-guide )
+- http://cn.redux.js.org/index.html  
+- [中国行政区划信息-区划代码数据库](https://github.com/mumuy/data_location.git)
+
 #数据抓取
 - [使用“代理”的方式来抓取微信公众账号文章，使用 anyproxy 作为代理。](https://github.com/lijinma/wechat_spider)
 - [京东商品爬虫](https://github.com/Chyroc/JDong)
@@ -187,6 +198,6 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 #数据挖掘
 - [面向程序员的数据挖掘指南](https://www.gitbook.com/book/wizardforcel/guide-to-data-mining/details)
 - [集体智慧编程源代码](https://github.com/zouhongzhao/Programming-Collective-Intelligence-Source-Code)
-
+- [sql优化工具](http://tech.meituan.com/sqladvisor_pr.html)
 #微服务架构
 - [微服务构架](https://github.com/Tencent/Tars)
