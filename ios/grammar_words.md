@@ -1,3 +1,52 @@
+###extern
+- extern工作原理:先在当前文件查找有没有全局变量，没有找到，才会去其他文件查找。
+- 告诉编译器：“你现在编译的文件中，有一个标识符虽然没有在本文件中定义，但是它是在别的文件中定义的全局变量，你要在其它文件内查找！”
+- 只是用来获取全局变量(包括全局静态变量)的值，不能用于定义变量
+
+###const
+- const 关键字指定变量的值是常量，并通知编译器防止程序员修改它。被const修饰的变量是只读的。
+- const仅仅用来修饰右边的变量（基本数据变量p，指针变量*p）。
+
+```
+const int a ＝ 10;
+
+int const a ＝ 10;
+
+const int *a;
+
+int * const a;
+
+int const *const a ;
+
+前两个是一样，即：a是一个常整型数，a的值不可修改；  a=20; => 会报错
+
+第三个意味着a是一个指向常整型数的指针（const修饰指针变量访问的内存空间，即：整型数，不可修改的，但指针可以）；a = 20；=>不会报错；  *a = &a; => 会报错 ;
+
+第四个意思a是一个指向整型数的常指针（也就是说，指针指向的整型数是可以修改的，但指针是不可修改的）a = 20；=>会报错；  *a = &a; => 不会报错  ;  
+
+最后一个意味着a是一个指向常整型数的常指针（也就是说，指针指向的整型数是不可修改的，同时指针也是不可修改的）a = 20；=>会报错；  *a = &a; => 会报错  ;
+
+```
+
+###static
+* 修饰局部变量：
+
+1.延长局部变量的生命周期,程序结束才会销毁。
+
+2.局部变量只会生成一份内存,只会初始化一次。
+
+3.改变局部变量的作用域。
+
+* 修饰全局变量
+
+1.只能在本文件中访问,修改全局变量的作用域,生命周期不会改
+
+2.避免重复定义全局变量
+
+3..pch生成的全局变量是每个文件一份，所以修改所在文件的全局变量并不能跨文件修改
+- 在全局变量前，加上关键字static，该变量就被定义成为一个静态全局变量。
+静态全局变量在声明它的整个文件都是可见的，而在文件之外是不可见的。
+静态变量都在全局数据区分配内存
 
 
 
@@ -26,10 +75,12 @@ CFBooleanRef|struct|CoreFoundation.h|kCFBooleanTrue|kCFBooleanFalse
 
 - 为什么要有CFString呢？
 - NSString是一个抽象类，每当你创建一个NSString实例，实际上是创建的NSString的一个私有子类实例。其中一个私有子类就是NSCFString,其是CFString类的在ObjC中的对应类。NSCFString实现了作为NSString需要的所有方法。
+
 ```
 There are a number of data types in the Core Foundation framework and the Foundation framework that can be used interchangeably. This capability, called toll-free bridging, means that you can use the same data type as the parameter to a Core Foundation function call or as the receiver of an Objective-C message。
 CFString provides a suite of efficient string-manipulation and string-conversion functions. It offers seamless Unicode support and facilitates the sharing of data between Cocoa and C-based programs
 ```
+
 参照 - [iOS渐入佳境之内存管理机制（三）：Toll-Free-Bridging/](http://solacode.github.io/2015/10/20/iOS%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83%E4%B9%8B%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9AToll-Free-Bridging/)
 
 

@@ -1,4 +1,21 @@
 
+
+
+
+
+###What's New in Photos
+- Relive Your Best Memories
+Photos creates rich collections from the best moments is your library.
+- All Your People in One Place
+Photos automatically scans your library to create a People album of familiar faces.
+- Edit Live Photos
+Now you can filter,crop,adjust,and rotate any Live Photo you take.
+
+
+Your Apple ID and phone number are now being used for iMessage and FaceTime on a new Apple Watch.
+if you recently signed into "someone's Apple Watch" you can ignore this notification.
+
+
 形成强烈的语感：
 1.整体阅读
 2.逐句听单词
@@ -440,8 +457,3 @@ vt. 使成合金；使减低成色;
 n. 合金;
 vi. 易于铸成合金;
 n. (Alloy)人名；(英)阿洛伊
-
-
-
-
-

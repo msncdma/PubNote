@@ -83,6 +83,9 @@ https://github.com/facebook
 - [淘宝购物车]()
 - [微博富文本]()
 - [runtxt高仿]()
+- [喵播](https://github.com/SunLiner/MiaowShow)
+- [sudoku](https://github.com/nihgwu/react-native-sudoku)
+- [v2ex](https://github.com/darkerk/v2ex)
 
 #运行时
 - [https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
@@ -162,6 +165,7 @@ https://github.com/roxma/SMS-Forward.git
 #information flow & Protocol
 - [CHECK](https://github.com/oetiker/SmokePing)
 - [ss](https://github.com/clowwindy)
+- [全面学习G1F0W](https://cokebar.info/archives/253)
 - [openwrt+pdnsd+ss](http://www.m3306.com/archives/41.html)
 - [theory](http://www.chinagfw.org/)
 - [google‘s lantern](https://github.com/getlantern/lantern)
@@ -199,5 +203,9 @@ https://github.com/roxma/SMS-Forward.git
 - [面向程序员的数据挖掘指南](https://www.gitbook.com/book/wizardforcel/guide-to-data-mining/details)
 - [集体智慧编程源代码](https://github.com/zouhongzhao/Programming-Collective-Intelligence-Source-Code)
 - [sql优化工具](http://tech.meituan.com/sqladvisor_pr.html)
+
+#数据可视化
+-[百度echart](https://github.com/ecomfe/echarts)
+
 #微服务架构
 - [微服务构架](https://github.com/Tencent/Tars)
