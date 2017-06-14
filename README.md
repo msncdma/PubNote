@@ -13,18 +13,17 @@ https://github.com/facebook
 
 博客地址 | 标签、介绍
 ----- | -----
+[ming1016](https://github.com/ming1016/study/wiki) | 喜欢画画,instagram帐号ming1016，微博：@戴铭
 [NSHipster](http://nshipster.cn) | Mattt Thompson,effective objective-c
 [Limboy 无网不剩](http://limboy.me/) | Design / Tech / Create / Startup / Life
-[唐巧的技术博客](http://blog.devtang.com) | 媒体人
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | 理论型https://github.com/leichunfeng
-[OneV's Den](http://onevcat.com) | objc,swift
 [破船之家](http://beyondvincent.com) | watch,sprite
 [Lex Tang](https://github.com/lexrus/) |funny ios dev,swift
 [念茜的博客](http://nianxi.net) | 美女IOS程序员，安全方面
 [Xcode Dev](http://blog.xcodev.com) | Mac系统 Unix开发 iOS开发
 [txx's blog](http://blog.txx.im/) | 学习笔记
 [sunnyxx的技术博客](http://blog.sunnyxx.com/) | 理论型
-[isheyes](http://isheyes.com/archives/)|IOS动画，学习笔记
+[isheyes](http://isheyes.com/archives/)|iOS动画，学习笔记
 [Kevin Blog](http://zhowkev.in) | 产品型技术
 [阿毛的蛋疼地](http://www.xiangwangfeng.com) | https://github.com/xiangwangfeng
 [亚庆的 Blog](http://billwang1990.github.io) | 逆向

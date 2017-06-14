@@ -40,5 +40,16 @@ there are no strong references to the object.
 PS：__unsafe_unretained修饰符可以被视为iOS SDK 4.3以前版本的__weak的替代品，不过不会被自动置空为nil。所以尽可能不要使用这个修饰符。
 ```
 
+###block的修饰
 
+```
+ARC情况下
+1.如果用copy修饰Block，该Block就会存储在堆空间。则会对Block的内部对象进行强引用，导致循环引用。内存无法释放。
+解决方法：
+新建一个指针(__weak typeof(Target) weakTarget = Target )指向Block代码块里的对象，然后用weakTarget进行操作。就可以解决循环引用问题。
 
+2.如果用weak修饰Block，该Block就会存放在栈空间。不会出现循环引用问题。
+
+MRC情况下
+用copy修饰后，如果要在Block内部使用对象，则需要进行(__block typeof(Target) blockTarget = Target )处理。在Block里面用blockTarget进行操作。
+```
