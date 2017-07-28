@@ -67,7 +67,7 @@ https://github.com/facebook
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
 [果冻虾仁](https://github.com/guodongxiaren)| 学生，bash,linux
-[switchhost作者](https://github.com/oldj)|杭州阿里，js
+[switchhost作者](https://github.com/oldj)|杭州阿里，jsviv
 
 #开源框架_33个2017年必须了解的iOS开源库
 - [YYKit](https://github.com/ibireme/YYKit)
