@@ -7,3 +7,13 @@ git ls-remote -h git@bitbucket.org:person/projectmarket.git HEAD
 $ git checkout -b yourtargetbranch remotes/rootlab/yourtargetbranch
 Branch yourtargetbranch set up to track remote branch yourtargetbranch from rootlab.
 ```
+
+```
+假设当前工作分支为master，另一分支为B，运行"git rebase B"之后会发生三件事：
+
+把master分支自分支点之后的所有commit撤销，并把它们暂存起来，也就是说把master分支回退到分支点
+
+把B分支自分支点之后的所有更改全部应用到master分支
+
+把第一步暂存的更改再应用到master分支
+```

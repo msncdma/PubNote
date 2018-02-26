@@ -6,6 +6,7 @@ git config --global user.email "msncdma@gtest.com"
 ```
 - Create a new repository
 ```
+git clone ssh://root@218.244.146.98:60007/data/gitandroid/IWeChat/.git/ 
 git clone git@gitlab.rd.91160.com:xlog/Ocealth.git
 cd Ocealth
 touch README.md

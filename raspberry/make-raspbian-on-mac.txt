@@ -1,3 +1,8 @@
+Convert the .iso file to .img using the convert option of hdiutil (e.g.,hdiutil convert -format UDRW -o ~/path/to/target.img ~/path/to/ubuntu.iso)
+
+Note: OS X tends to put the .dmg ending on the output file automatically.
+
+
 download this mirror:
 2015-05-05-raspbian-wheezy.img
 
@@ -13,6 +18,10 @@ diskutil list
 /dev/disk1s1是分区，/dev/disk1是块设备，/dev/rdisk1是原始字符设备
 sudo dd bs=4m if=Downloads/raspberry/2015-05-05-raspbian-wheezy.img of=/dev/rdisk1
 
+Execute sudo dd if=/path/to/downloaded.img of=/dev/rdiskN bs=1m (replace /path/to/downloaded.img with the path where the image file is located; for example, ./ubuntu.imgor ./ubuntu.dmg).
 
-diskutil unmountDisk卸载设备
-
+Using /dev/rdisk instead of /dev/disk may be faster
+If you see the error dd: Invalid number '1m', you are using GNU dd. Use the same command but replace bs=1m with bs=1M
+If you see the error dd: /dev/diskN: Resource busy, make sure the disk is not in use. Start the 'Disk Utility.app' and unmount (don't eject) the drive
+9
+Run diskutil eject /dev/diskN and remove your flash media when the command completes.

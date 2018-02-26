@@ -127,9 +127,13 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 - [MAC软件](http://www.ifunmac.com/)
 
 
-#UI
+#UI与第三方控件
 - [PaintCode](http://www.paintcodeapp.com/)
 - [实时看效果](https://github.com/johnno1962/injectionforxcode)
+- [时间选择器、多行输入框、日期选择器](https://github.com/banchichen/SomeGoodCustomView)
+- [支持多选、选原图和视频的图片选择器](https://github.com/banchichen/TZImagePickerController)
+- [超强UIButton封装, 自定义图片上下左右位置, 自定义文字和图片间距 , 自定义角标动画](https://github.com/JunAILiang/JMButton)
+
 #iOS动画
 - [iOS-Core-Animation-Advanced-Techniques翻译](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
 - [动画组](https://zsisme.gitbooks.io/ios-/content/chapter8/animation-groups.html)
@@ -178,7 +182,21 @@ https://github.com/roxma/SMS-Forward.git
 
 #GitBook
 - [GitBook](https://www.gitbook.com/explore)
+- [搬书匠search](http://www.banshujiang.cn/)
 
+#操作系统原理系列
+- [C与机器码、TCP/IP协议栈](http://docs.linuxtone.org/ebooks/C&CPP/c/)
+- [CPU体系架构-ARM/MIPS/X86](https://nieyong.github.io/wiki_cpu/)
+- [W.Richard Stevens  UNIX环境高级编程、TCP/IP详解、UNIX网络编程](https://github.com/huaxz1986/APUE_notes.git)
+
+#渗透测试系列
+- [Flow monitoring ntopng](http://127.0.0.1:3000/lua/flows_stats.lua)
+-[Kali Linux Web 渗透测试秘籍](https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/)
+#网络与协议
+
+#sql与服务器性能优化
+
+#java服务器架构设计
 
 #机器学习
 - [index](https://github.com/ty4z2008/Qix/blob/master/dl.md)
