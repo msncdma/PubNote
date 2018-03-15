@@ -9,6 +9,35 @@ https://github.com/facebook
 - [objc中国](https://objccn.io/)
 - [objc国际](https://www.objc.io/)
 
+#GitBook
+- [GitBook](https://www.gitbook.com/explore)
+- [搬书匠search](http://www.banshujiang.cn/)
+
+
+#MAC
+- [MAC键盘快捷键](https://support.apple.com/zh-cn/HT201236)
+- [MAC软件](http://www.ifunmac.com/)
+
+#MarkdownTemplate
+- [使用markdown语法来写网页ppt](http://wenchao-img.qiniudn.com/markdown.html#slide1)
+
+#代码规范
+- [OC Code Standards](CodingStandards/SUMMARY.md)
+- [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+- [Code Conventions for the Java Programming Language](https://waylau.gitbooks.io/java-code-conventions/content/index.html)
+- [diff](language/oc_diff_java.md)
+
+#iOS面试
+- [iOS程序犭袁。](https://github.com/ChenYilong/iOSInterviewQuestions)
+- [不会开机的男孩](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/)
+- [ios-base-theory-record2everyday-mind](ios/ios-base-theory-record2everyday-mind.md)
+- [招靠谱的](https://dayon.gitbooks.io/-ios/content/chapter2.html)
+- [面试300+](https://www.jianshu.com/p/0d2713164646?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+
+#iOS源码分析
+- [github/Draveness](https://github.com/Draveness/iOS-Source-Code-Analyze)
+
+
 #iOS技术博客
 
 博客地址 | 标签、介绍
@@ -75,6 +104,23 @@ https://github.com/facebook
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
 
+#iOS动画
+- [iOS-Core-Animation-Advanced-Techniques翻译](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
+- [动画组](https://zsisme.gitbooks.io/ios-/content/chapter8/animation-groups.html)
+- [够分量的动画](https://www.jianshu.com/p/9fa025c42261)
+- [核心动画高级技巧](https://zsisme.gitbooks.io/ios-/content/chapter8/animation-groups.html)
+- [天气动画汇总&&GCD](https://github.com/YouXianMing/Swift-Animations)
+
+
+#UI与第三方控件
+- [PaintCode](http://www.paintcodeapp.com/)
+- [实时看效果](https://github.com/johnno1962/injectionforxcode)
+- [时间选择器、多行输入框、日期选择器](https://github.com/banchichen/SomeGoodCustomView)
+- [支持多选、选原图和视频的图片选择器](https://github.com/banchichen/TZImagePickerController)
+- [超强UIButton封装, 自定义图片上下左右位置, 自定义文字和图片间距 , 自定义角标动画](https://github.com/JunAILiang/JMButton)
+- [各种模仿](https://www.jianshu.com/p/16d1ff3cb944)
+
+
 #仿app&ui
 - [首页拖曳广告]()
 - [tableview拖曳小红点]()
@@ -86,11 +132,21 @@ https://github.com/facebook
 - [sudoku](https://github.com/nihgwu/react-native-sudoku)
 - [v2ex](https://github.com/darkerk/v2ex)
 
+#iOS缓存
+- [YYCACHE](http://blog.ibireme.com/2015/10/26/yycache/)
+- [微博@iOS程序犭袁 ChenYilong](https://github.com/ChenYilong/ParseSourceCodeStudy)
+
+#Data
+- [keyvalue-fmdb](https://github.com/yuantiku/YTKKeyValueStore)
+- [jsonMODEL的使用](https://github.com/zgGitHub/JSONModel-.git)
+
 #运行时
 - [https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
 - [苹果官方运行时](https://developer.apple.com/reference/objectivec/objective_c_runtime?language=objc)
 - [Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
 - [objective-c-associated-objects-implementation-principle](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/)
+- [GCD实例](https://github.com/YouXianMing/GCD-Program)
+- [iOS设计模式](https://github.com/YouXianMing/iOS-Design-Patterns)
 
 ```
 dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImplementations(),
@@ -110,37 +166,22 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 - [GPUImage深入对比研究混合开发的各种技术细节](http://www.ios122.com/2015/08/gpuimage/)
 
 
-#代码规范
-- [OC Code Standards](CodingStandards/SUMMARY.md)
-- [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
-- [Code Conventions for the Java Programming Language](https://waylau.gitbooks.io/java-code-conventions/content/index.html)
-- [diff](language/oc_diff_java.md)
-
-#iOS面试
-- [iOS程序犭袁。](https://github.com/ChenYilong/iOSInterviewQuestions)
-- [不会开机的男孩](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/)
-- [ios-base-theory-record2everyday-mind](ios/ios-base-theory-record2everyday-mind.md)
-#iOS源码分析
-- [github/Draveness](https://github.com/Draveness/iOS-Source-Code-Analyze)
-#MAC
-- [MAC键盘快捷键](https://support.apple.com/zh-cn/HT201236)
-- [MAC软件](http://www.ifunmac.com/)
 
 
-#UI与第三方控件
-- [PaintCode](http://www.paintcodeapp.com/)
-- [实时看效果](https://github.com/johnno1962/injectionforxcode)
-- [时间选择器、多行输入框、日期选择器](https://github.com/banchichen/SomeGoodCustomView)
-- [支持多选、选原图和视频的图片选择器](https://github.com/banchichen/TZImagePickerController)
-- [超强UIButton封装, 自定义图片上下左右位置, 自定义文字和图片间距 , 自定义角标动画](https://github.com/JunAILiang/JMButton)
 
-#iOS动画
-- [iOS-Core-Animation-Advanced-Techniques翻译](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
-- [动画组](https://zsisme.gitbooks.io/ios-/content/chapter8/animation-groups.html)
 
-#iOS缓存
-- [YYCACHE](http://blog.ibireme.com/2015/10/26/yycache/)
-- [微博@iOS程序犭袁 ChenYilong](https://github.com/ChenYilong/ParseSourceCodeStudy)
+
+
+
+
+
+
+
+
+
+
+
+
 
 #Android开源框架
 - [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
@@ -148,24 +189,42 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 - [hehonghui](https://github.com/hehonghui/android-tech-frontier)
 https://github.com/roxma/SMS-Forward.git
 
+
+
+
+
+
+
+
+
+
 #python
 - [start](http://python.xiaoleilu.com/index.html)
 - [python面试题目](https://github.com/taizilongxu/interview_python)
 
-#server skill
-- [ELKstack日志引擎](https://www.gitbook.com/book/chenryn/kibana-guide-cn/details)
-- [RAP可视化接口管理工具](http://thx.github.io/RAP/index_zh.html)
-- [mobile jdk](http://openjdk.java.net/projects/mobile/)
-- [crap接口管理系统 anjularjs+bootstrap+springMVC](http://api.crap.cn/web.do#/webWebPage/detail/PAGE/WELCOME)
-- [ssh key for github](https://help.github.com/articles/generating-an-ssh-key/)
-- [docker虚拟](https://github.com/yeasy/docker_practice/blob/master/README.md)
 
-#MarkdownTemplate
 
-- [使用markdown语法来写网页ppt](http://wenchao-img.qiniudn.com/markdown.html#slide1)
+
+
+
+
+
+
+
+#操作系统原理系列
+- [C与机器码、TCP/IP协议栈](http://docs.linuxtone.org/ebooks/C&CPP/c/)
+- [CPU体系架构-ARM/MIPS/X86](https://nieyong.github.io/wiki_cpu/)
+- [W.Richard Stevens  UNIX环境高级编程、TCP/IP详解、UNIX网络编程](https://github.com/huaxz1986/APUE_notes.git)
+
+#渗透测试
+- [Flow monitoring ntopng](http://127.0.0.1:3000/lua/flows_stats.lua)
+-[Kali Linux Web 渗透测试秘籍](https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/)
 
 
-#information flow & Protocol
+#linux
+- [ssh key for github](https://help.github.com/articles/generating-an-ssh-key/)
+- [docker虚拟](https://github.com/yeasy/docker_practice/blob/master/README.md)
+- [docker入门](https://yeasy.gitbooks.io/docker_practice/content/install/windows.html)
 - [CHECK](https://github.com/oetiker/SmokePing)
 - [ss](https://github.com/clowwindy)
 - [全面学习G1F0W](https://cokebar.info/archives/253)
@@ -180,23 +239,22 @@ https://github.com/roxma/SMS-Forward.git
 - [通讯协议漫谈]
 - [即时通讯（IM）和社交系统（SNS）优秀开源项目](https://github.com/CameloeAnthony/Perfect_IM_SNS)
 
-#GitBook
-- [GitBook](https://www.gitbook.com/explore)
-- [搬书匠search](http://www.banshujiang.cn/)
 
-#操作系统原理系列
-- [C与机器码、TCP/IP协议栈](http://docs.linuxtone.org/ebooks/C&CPP/c/)
-- [CPU体系架构-ARM/MIPS/X86](https://nieyong.github.io/wiki_cpu/)
-- [W.Richard Stevens  UNIX环境高级编程、TCP/IP详解、UNIX网络编程](https://github.com/huaxz1986/APUE_notes.git)
 
-#渗透测试系列
-- [Flow monitoring ntopng](http://127.0.0.1:3000/lua/flows_stats.lua)
--[Kali Linux Web 渗透测试秘籍](https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/)
-#网络与协议
 
-#sql与服务器性能优化
 
-#java服务器架构设计
+
+
+
+
+
+
+
+#javaWeb
+- [ELKstack日志引擎](https://www.gitbook.com/book/chenryn/kibana-guide-cn/details)
+- [RAP可视化接口管理工具](http://thx.github.io/RAP/index_zh.html)
+- [mobile jdk](http://openjdk.java.net/projects/mobile/)
+- [crap接口管理系统 anjularjs+bootstrap+springMVC](http://api.crap.cn/web.do#/webWebPage/detail/PAGE/WELCOME)
 
 #机器学习
 - [index](https://github.com/ty4z2008/Qix/blob/master/dl.md)
@@ -226,3 +284,15 @@ https://github.com/roxma/SMS-Forward.git
 
 #微服务架构
 - [微服务构架](https://github.com/Tencent/Tars)
+
+
+
+
+
+
+
+
+
+
+#BTC
+- [macos](http://blog.csdn.net/firefox_1980/article/details/79044648)
