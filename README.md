@@ -147,6 +147,7 @@ https://github.com/facebook
 - [objective-c-associated-objects-implementation-principle](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/)
 - [GCD实例](https://github.com/YouXianMing/GCD-Program)
 - [iOS设计模式](https://github.com/YouXianMing/iOS-Design-Patterns)
+- [forwardingTargetForSelector crash 修复](https://neyoufan.github.io/2017/01/13/ios/BayMax_HTSafetyGuard/)
 
 ```
 dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImplementations(),
@@ -167,7 +168,7 @@ dlopen(), dlsym(), respondsToSelector:, performSelector:, method_exchangeImpleme
 
 
 
-
+- [网盘](https://github.com/owncloud)
 
 
 
@@ -201,7 +202,8 @@ https://github.com/roxma/SMS-Forward.git
 #python
 - [start](http://python.xiaoleilu.com/index.html)
 - [python面试题目](https://github.com/taizilongxu/interview_python)
-
+#GO
+- [火星地图坐标转换工具](https://github.com/qichengzx/coordtransform)
 
 
 
@@ -295,4 +297,7 @@ https://github.com/roxma/SMS-Forward.git
 
 
 #BTC
+- [技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/crypto/)
 - [macos](http://blog.csdn.net/firefox_1980/article/details/79044648)
+- [介绍](https://github.com/tianmingyun/MasterBitcoin2CN)
+- [介绍2](https://0dayzh.gitbooks.io/bitcoin_developer_guide/content/block_chain_overview.html)
