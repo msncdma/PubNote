@@ -1,0 +1,12 @@
+{
+     "android": {
+     "version": "1.0.0",
+     "path": "https://www.qq.com",
+     "content": "1,更新内容\n2,第二行\n3,第三行"
+     },
+     "ios": {
+     "version": "1.0.0",
+     "path": "https://www.baidu.com",
+     "content": "1,更新内容\n2,第二行\n3,第三行"
+     }
+}
