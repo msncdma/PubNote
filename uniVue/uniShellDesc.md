@@ -1,4 +1,6 @@
---------------------env-------------------
+###--------------------env-------------------
+
+```
 npm install -g sass
 npm uninstall -g node-sass
 npm uninstall --save node-sass
@@ -24,3 +26,4 @@ rm -rf /root/.npm/node-sass
 npm uninstall --save node-sass
 npm cache clean --force
 
+```
